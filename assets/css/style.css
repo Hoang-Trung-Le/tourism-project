@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: #f9f9f9;
+}
+/* Map */
+#mapid {
+    position: relative;
+    height: 600px;
+    /* height: 80%; */
+    /* width: 800px; */
+    width: 100%;
+    background-color: #f9f9f9;
+    box-sizing: border-box;
+    /* box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); */
+    /* border-radius: 5px; */
+  }
