@@ -288,7 +288,7 @@ const islands = [
           {
             description: {
               nameVietnamese: "Song Tử",
-              nameEnglish: "Cresent Group",
+              nameEnglish: "",
             },
             entities: {
               island: [
@@ -348,7 +348,7 @@ const islands = [
           {
             description: {
               nameVietnamese: "Bình Nguyên",
-              nameEnglish: "Amphitrite Group",
+              nameEnglish: "",
             },
             entities: {
               island: [
@@ -656,7 +656,7 @@ const islands = [
           {
             description: {
               nameVietnamese: "Thị Tứ",
-              nameEnglish: "Amphitrite Group",
+              nameEnglish: "",
             },
             entities: {
               island: [
@@ -727,7 +727,7 @@ const islands = [
                 },
                 {
                   nameVietnamese: "Loại Ta Tây",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -751,19 +751,19 @@ const islands = [
                 },
                 {
                   nameVietnamese: "An Nhơn Bắc",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "An Nhơn",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "An Nhơn Nam",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -777,13 +777,13 @@ const islands = [
                 },
                 {
                   nameVietnamese: "Tân Châu",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Sa Huỳnh",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -792,13 +792,13 @@ const islands = [
               bank: [
                 {
                   nameVietnamese: "Loại Ta Nam",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Đường",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -808,7 +808,7 @@ const islands = [
           {
             description: {
               nameVietnamese: "Nam Yết",
-              nameEnglish: "Amphitrite Group",
+              nameEnglish: "",
             },
             entities: {
               island: [
@@ -828,7 +828,7 @@ const islands = [
                 },
                 {
                   nameVietnamese: "Sơn Ca",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -859,7 +859,7 @@ const islands = [
                 },
                 {
                   nameVietnamese: "Lạc",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -896,7 +896,7 @@ const islands = [
               bank: [
                 {
                   nameVietnamese: "Bàn Than",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -907,7 +907,7 @@ const islands = [
             description: {
               nameVietnamese: "Sinh Tồn",
               aliasVietnamese: "Liên Minh",
-              nameEnglish: "Amphitrite Group",
+              nameEnglish: "",
             },
             entities: {
               island: [
@@ -923,7 +923,7 @@ const islands = [
               reef: [
                 {
                   nameVietnamese: "Cô Lin",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -943,31 +943,31 @@ const islands = [
                 },
                 {
                   nameVietnamese: "Phúc Sỹ",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Văn Nguyên",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Ninh Hòa",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Vị Khê",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "An Bình",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -980,73 +980,73 @@ const islands = [
                 },
                 {
                   nameVietnamese: "Đức Hòa",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Bãi Khung",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Bình Sơn",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Tư Nghĩa",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Bia",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Ken Nan",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Bình Khê",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Nhạn Gia",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Sơn Hà",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Nghĩa Hành",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Tam Trung",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Trà Khúc",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -1060,7 +1060,7 @@ const islands = [
 
                 {
                   nameVietnamese: "?Cornwalls?",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -1188,19 +1188,19 @@ const islands = [
               bank: [
                 {
                   nameVietnamese: "Mỹ Hải",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Nguyệt Sương",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Đăng Quang",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -1217,7 +1217,7 @@ const islands = [
           {
             description: {
               nameVietnamese: "Thám Hiểm (An Bang)",
-              nameEnglish: "Amphitrite Group",
+              nameEnglish: "",
             },
             entities: {
               reef: [
@@ -1238,7 +1238,7 @@ const islands = [
                 {
                   nameVietnamese: "Thuyền Chài",
                   aliasVietnamese: "Hà Tần",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -1280,19 +1280,19 @@ const islands = [
                 },
                 {
                   nameVietnamese: "Gia Hội",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Gia Phủ",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Sâu",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -1312,7 +1312,7 @@ const islands = [
                 },
                 {
                   nameVietnamese: "Vĩnh Tường",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -1335,13 +1335,13 @@ const islands = [
                 },
                 {
                   nameVietnamese: "Khánh Hội",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
                 {
                   nameVietnamese: "Ngũ Phụng",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -1381,7 +1381,7 @@ const islands = [
               bank: [
                 {
                   nameVietnamese: "Huyền Trân",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -1529,7 +1529,7 @@ const islands = [
               reef: [
                 {
                   nameVietnamese: "Kiệu Ngựa",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 16.50083333,
                   longitude: 111.58416667,
                 },
@@ -1618,120 +1618,502 @@ const islands = [
           },
         ],
       },
+      {
+        subGovType: "District",
+        name: "Vạn Ninh",
+        clusters: [
+          {
+            description: {
+              nameVietnamese: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Nưa",
+                  latitude: 12.83005,
+                  longitude: 109.39096,
+                },
+                {
+                  nameVietnamese: "Hòn Giôm",
+                  latitude: 12.81477,
+                  longitude: 109.36344,
+                },
+                {
+                  nameVietnamese: "Hòn Trâu",
+                  latitude: 12.75423,
+                  longitude: 109.34314,
+                },
+                {
+                  nameVietnamese: "Hòn Cổ",
+                  latitude: 12.75038,
+                  longitude: 109.30356,
+                },
+                {
+                  nameVietnamese: "Hòn Mao",
+                  latitude: 12.73979,
+                  longitude: 109.3293,
+                },
+                {
+                  nameVietnamese: "Hòn Một",
+                  latitude: 12.73075,
+                  longitude: 109.31938,
+                },
+                {
+                  nameVietnamese: "Hòn Bịp",
+                  latitude: 12.71766,
+                  longitude: 109.30041,
+                },
+                {
+                  nameVietnamese: "Hòn Trì",
+                  latitude: 12.70606,
+                  longitude: 109.36664,
+                },
+                {
+                  nameVietnamese: "Hòn Á",
+                  latitude: 12.70529,
+                  longitude: 109.28859,
+                },
+                {
+                  nameVietnamese: "Hòn Đuốc",
+                  latitude: 12.69836,
+                  longitude: 109.28156,
+                },
+                {
+                  nameVietnamese: "Hòn Vung",
+                  latitude: 12.67784,
+                  longitude: 109.26211,
+                },
+                {
+                  nameVietnamese: "Hòn Khô",
+                  latitude: 12.6583,
+                  longitude: 109.40233,
+                },
+                {
+                  nameVietnamese: "Hòn Đôi",
+                  latitude: 12.65386,
+                  longitude: 109.46601,
+                },
+                {
+                  nameVietnamese: "Hòn Ông",
+                  latitude: 12.65133,
+                  longitude: 109.39413,
+                },
+                {
+                  nameVietnamese: "Hòn Sẵng",
+                  latitude: 12.64718,
+                  longitude: 109.34195,
+                },
+                {
+                  nameVietnamese: "Hòn Đỏ",
+                  latitude: 12.64571,
+                  longitude: 109.37431,
+                },
+                {
+                  nameVietnamese: "Hòn Kê",
+                  latitude: 12.64369,
+                  longitude: 109.31569,
+                },
+                {
+                  nameVietnamese: "Hòn Khô",
+                  latitude: 12.6403,
+                  longitude: 109.3227,
+                },
+                {
+                  nameVietnamese: "Hòn Mài",
+                  latitude: 12.63796,
+                  longitude: 109.29278,
+                },
+                {
+                  nameVietnamese: "Hòn Đụng",
+                  latitude: 12.63734,
+                  longitude: 109.30642,
+                },
+                {
+                  nameVietnamese: "Hòn Me",
+                  latitude: 12.63577,
+                  longitude: 109.29927,
+                },
+                {
+                  nameVietnamese: "Hòn Khô",
+                  latitude: 12.62043,
+                  longitude: 109.43603,
+                },
+                {
+                  nameVietnamese: "Hòn Lớn (Vạn Ninh)",
+                  latitude: 12.60276,
+                  longitude: 109.36491,
+                },
+                {
+                  nameVietnamese: "Hòn Thâm",
+                  latitude: 12.59873,
+                  longitude: 109.30264,
+                },
+                {
+                  nameVietnamese: "Hòn Khô Tran",
+                  latitude: 12.5966,
+                  longitude: 109.4465,
+                },
+                {
+                  nameVietnamese: "Hòn Đen",
+                  latitude: 12.5752,
+                  longitude: 109.4403,
+                },
+                {
+                  nameVietnamese: "Hòn Trâu Nằm",
+                  latitude: 12.56532,
+                  longitude: 109.46187,
+                },
+                {
+                  nameVietnamese: "Hòn Tai",
+                  latitude: 12.54816,
+                  longitude: 109.39111,
+                },
+              ],
+            },
+          },
+        ],
+      },
+
+      {
+        subGovType: "District",
+        name: "Vạn Ninh",
+        clusters: [
+          {
+            description: {
+              nameVietnamese: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Theo",
+                  latitude: 12.494,
+                  longitude: 109.32662,
+                },
+                {
+                  nameVietnamese: "Hòn Mỹ Giang",
+                  latitude: 12.49039,
+                  longitude: 109.29822,
+                },
+                {
+                  nameVietnamese: "Hòn Đỏ",
+                  latitude: 12.48309,
+                  longitude: 109.35237,
+                },
+                {
+                  nameVietnamese: "Hòn Lửa (h.Cứt Chim)",
+                  latitude: 12.47782,
+                  longitude: 109.37389,
+                },
+                {
+                  nameVietnamese: "Hòn Khô",
+                  latitude: 12.47684,
+                  longitude: 109.30447,
+                },
+                {
+                  nameVietnamese: "Hòn Cóc",
+                  latitude: 12.41197,
+                  longitude: 109.17244,
+                },
+                {
+                  nameVietnamese: "Hòn Cò",
+                  latitude: 12.40709,
+                  longitude: 109.17194,
+                },
+                {
+                  nameVietnamese: "Hòn Lăng",
+                  latitude: 12.40266,
+                  longitude: 109.21713,
+                },
+                {
+                  nameVietnamese: "Hòn Nứa",
+                  latitude: 12.4021,
+                  longitude: 109.20191,
+                },
+                {
+                  nameVietnamese: "Hòn Giữa",
+                  latitude: 12.40039,
+                  longitude: 109.22185,
+                },
+                {
+                  nameVietnamese: "Hòn Thị",
+                  latitude: 12.3903,
+                  longitude: 109.23101,
+                },
+                {
+                  nameVietnamese: "Hòn Sầm",
+                  latitude: 12.38618,
+                  longitude: 109.2168,
+                },
+                {
+                  nameVietnamese: "Hòn Chà Là",
+                  latitude: 12.36078,
+                  longitude: 109.37495,
+                },
+                {
+                  nameVietnamese: "Hòn Bạc",
+                  latitude: 12.33797,
+                  longitude: 109.31522,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        subGovType: "City",
+        name: "Nha Trang",
+        clusters: [
+          {
+            description: {
+              nameVietnamese: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Lao (Đảo Khỉ)",
+                  latitude: 12.36018,
+                  longitude: 109.21386,
+                },
+                {
+                  nameVietnamese: "Hòn Rùa",
+                  latitude: 12.28967,
+                  longitude: 109.24235,
+                },
+                {
+                  nameVietnamese: "Hòn Câu",
+                  latitude: 12.28259,
+                  longitude: 109.36783,
+                },
+                {
+                  nameVietnamese: "Hòn Dung",
+                  latitude: 12.27017,
+                  longitude: 109.35943,
+                },
+                {
+                  nameVietnamese: "Cù lao Thượng (h.Đỏ)",
+                  latitude: 12.26735,
+                  longitude: 109.20714,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Chữ",
+                  latitude: 12.26198,
+                  longitude: 109.2022,
+                },
+                {
+                  nameVietnamese: "Hòn Tre (h.Lớn)",
+                  latitude: 12.21264,
+                  longitude: 109.28642,
+                },
+                {
+                  nameVietnamese: "Hòn Miểu",
+                  latitude: 12.18984,
+                  longitude: 109.22374,
+                },
+                {
+                  nameVietnamese: "Hòn Một",
+                  latitude: 12.17737,
+                  longitude: 109.27129,
+                },
+                {
+                  nameVietnamese: "Hòn Tằm",
+                  latitude: 12.17647,
+                  longitude: 109.2417,
+                },
+                {
+                  nameVietnamese: "Hòn Mun",
+                  latitude: 12.16823,
+                  longitude: 109.30076,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        subGovType: "City",
+        name: "Cam Ranh",
+        clusters: [
+          {
+            description: {
+              nameVietnamese: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Bình Ba",
+                  latitude: 11.83727,
+                  longitude: 109.23494,
+                },
+                {
+                  nameVietnamese: "Đảo Bình Hưng (h.Tý)",
+                  latitude: 11.77904,
+                  longitude: 109.21702,
+                },
+                {
+                  nameVietnamese: "Hòn Nội",
+                  latitude: 12.03924,
+                  longitude: 109.32213,
+                },
+                {
+                  nameVietnamese: "Hòn Ngoại",
+                  latitude: 12.00557,
+                  longitude: 109.32082,
+                },
+                {
+                  nameVietnamese: "Hòn Tai (Cam Ranh)",
+                  latitude: 11.89935,
+                  longitude: 109.26827,
+                },
+                {
+                  nameVietnamese: "Hòn Xây",
+                  latitude: 11.86348,
+                  longitude: 109.23888,
+                },
+                {
+                  nameVietnamese: "Hòn Giảng",
+                  latitude: 11.86258,
+                  longitude: 109.27149,
+                },
+                {
+                  nameVietnamese: "Hòn Khô",
+                  latitude: 11.83961,
+                  longitude: 109.18008,
+                },
+                {
+                  nameVietnamese: "Hòn Mũi",
+                  latitude: 11.81702,
+                  longitude: 109.20039,
+                },
+                {
+                  nameVietnamese: "Hòn Trứng",
+                  latitude: 11.79107,
+                  longitude: 109.2065,
+                },
+                {
+                  nameVietnamese: "Hòn Sam",
+                  latitude: 11.77026,
+                  longitude: 109.22286,
+                },
+              ],
+            },
+          },
+        ],
+      },
     ],
   },
   {
-    govType: "City",
-    name: "Phú Quốc",
-    province: "Kiên Giang",
+    govType: "Province",
+    name: "Kiên Giang",
     bodies: [
       {
         archipelago: "An Thới",
         source: "",
+        subGovType: "City",
+        name: "Phú Quốc",
         clusters: [
           {
             description: {
               nameVietnamese: "An Thới",
-              nameEnglish: "Cresent Group",
-              direction: "South",
+              subGovType: "Ward",
+              name: "An Thới",
             },
             entities: {
               island: [
                 {
                   nameVietnamese: "Hòn Thơm",
                   aliasVietnamese: "Đảo Dứa",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.956389,
                   longitude: 104.015833,
                 },
                 {
                   nameVietnamese: "Hòn Dăm Trong",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 10.003771,
                   longitude: 104.030881,
                 },
                 {
                   nameVietnamese: "Hòn Dăm Ngoài",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.994121,
                   longitude: 104.038835,
                 },
                 {
                   nameVietnamese: "Hòn Dừa",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.994802,
                   longitude: 104.009659,
                 },
                 {
                   nameVietnamese: "Hòn Rỏi",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.977294,
                   longitude: 104.019835,
                 },
                 {
                   nameVietnamese: "Hòn Vang",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.931547,
                   longitude: 104.018438,
                 },
                 {
                   nameVietnamese: "Hòn Khô",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.926855,
                   longitude: 103.990409,
                 },
                 {
                   nameVietnamese: "Hòn Vông",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.920021,
                   longitude: 103.99936,
                 },
                 {
                   nameVietnamese: "Hòn Kim Quy",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.918956,
                   longitude: 103.980919,
                 },
                 {
                   nameVietnamese: "Hòn Xưởng",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.91768,
                   longitude: 104.023201,
                 },
                 {
                   nameVietnamese: "Hòn Gầm Ghì",
                   aliasVietnamese: "Hòn Dâm Ngang",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.911289,
                   longitude: 104.013706,
                 },
                 {
                   nameVietnamese: "Hòn Mây Rút Trong",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.91206,
                   longitude: 103.989111,
                 },
                 {
                   nameVietnamese: "Hòn Mây Rút Ngoài",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.908398,
                   longitude: 103.987766,
                 },
                 {
                   nameVietnamese: "Hòn Trang",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.902945,
                   longitude: 103.993121,
                 },
                 {
                   nameVietnamese: "Hòn Đông",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.848467,
                   longitude: 104.095588,
                 },
                 {
                   nameVietnamese: "Hòn Tây",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.820988,
                   longitude: 104.044097,
                 },
@@ -1743,20 +2125,22 @@ const islands = [
       {
         archipelago: "Thổ Chu",
         source: "",
-
+        subGovType: "City",
+        name: "Phú Quốc",
         clusters: [
           {
             description: {
               nameVietnamese: "Thổ Chu",
               aliasVietnamese: "Thổ Châu",
-              nameEnglish: "Amphitrite Group",
-              direction: "East",
+              subGovType: "Commune",
+              name: "Thổ Châu",
+              nameEnglish: "",
             },
             entities: {
               island: [
                 {
                   nameVietnamese: "Thổ Chu",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.308056,
                   longitude: 103.484722,
                 },
@@ -1765,43 +2149,43 @@ const islands = [
                 {
                   nameVietnamese: "Hòn Cái Bàn",
                   aliasVietnamese: "Hòn Đá Bàn",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.383056,
                   longitude: 103.638889,
                 },
                 {
                   nameVietnamese: "Hòn Cao Cát",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.325833,
                   longitude: 103.526111,
                 },
                 {
                   nameVietnamese: "Hòn Nhạn",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.250833,
                   longitude: 103.470556,
                 },
                 {
                   nameVietnamese: "Hòn Từ",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.0,
                   longitude: 103.0,
                 },
                 {
                   nameVietnamese: "Hòn Khô",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.0,
                   longitude: 103.0,
                 },
                 {
                   nameVietnamese: "Hòn Xanh",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.0,
                   longitude: 103.0,
                 },
                 {
                   nameVietnamese: "Hòn Cao",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.0,
                   longitude: 103.0,
                 },
@@ -1813,20 +2197,21 @@ const islands = [
       {
         archipelago: "Nam Du",
         source: "",
-
+        subGovType: "District",
+        name: "Kiên Hải",
         clusters: [
           {
             description: {
               nameVietnamese: "Nam Du",
-              nameEnglish: "Amphitrite Group",
-              direction: "East",
+              subGovType: "Commune",
+              name: "An Sơn, Nam Du",
             },
             entities: {
               island: [
                 {
                   nameVietnamese: "Đảo Nam Du",
                   aliasVietnamese: "Hòn Củ Tron/Hòn Lớn",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.679167,
                   longitude: 104.353889,
                 },
@@ -1834,125 +2219,523 @@ const islands = [
               rock: [
                 {
                   nameVietnamese: "Hòn Tre",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.74,
                   longitude: 104.363333,
                 },
                 {
                   nameVietnamese: "Hòn Nhàn",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.731111,
                   longitude: 104.342222,
                 },
                 {
                   nameVietnamese: "Hòn Mốc",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.725,
                   longitude: 104.353889,
                 },
                 {
                   nameVietnamese: "Hòn Dâm",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.710833,
                   longitude: 104.365556,
                 },
                 {
                   nameVietnamese: "Hòn Hàng",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.707222,
                   longitude: 104.344167,
                 },
                 {
                   nameVietnamese: "Hòn Ông",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.702778,
                   longitude: 104.385278,
                 },
                 {
                   nameVietnamese: "Hòn Nồm Trong",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.653333,
                   longitude: 104.363611,
                 },
                 {
                   nameVietnamese: "Hòn Nồm Giữa",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.648056,
                   longitude: 104.360833,
                 },
                 {
                   nameVietnamese: "Hòn Nồm Ngoài",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.643611,
                   longitude: 104.365556,
                 },
                 {
                   nameVietnamese: "Hòn Khô",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.0,
                   longitude: 103.0,
                 },
                 {
                   nameVietnamese: "Hòn Dầu",
                   aliasVietnamese: "Hòn Trung",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.686111,
                   longitude: 104.390833,
                 },
                 {
                   nameVietnamese: "Hòn Đụng Nhỏ",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.684722,
                   longitude: 104.404722,
                 },
                 {
                   nameVietnamese: "Hòn Đụng Lớn",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.681111,
                   longitude: 104.402778,
                 },
                 {
                   nameVietnamese: "Hòn Bỏ Áo",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.678333,
                   longitude: 104.386389,
                 },
                 {
                   nameVietnamese: "Hòn Ngang",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.669444,
                   longitude: 104.400556,
                 },
                 {
                   nameVietnamese: "Hòn Bờ Đập",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.652778,
                   longitude: 104.390833,
                 },
                 {
                   nameVietnamese: "Hòn Đô Nai",
                   aliasVietnamese: "Hòn Đuôi Nai",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.649444,
                   longitude: 104.399167,
                 },
                 {
                   nameVietnamese: "Hòn Mấu",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.636111,
                   longitude: 104.399722,
                 },
                 {
                   nameVietnamese: "Hòn Lò Lớn",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.645833,
                   longitude: 104.391111,
                 },
                 {
                   nameVietnamese: "Hòn Lò Nhỏ",
-                  nameEnglish: "Cresent Group",
+                  nameEnglish: "",
                   latitude: 9.647778,
                   longitude: 104.391111,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        archipelago: "Hà Tiên",
+        source: "",
+        subGovType: "City",
+        name: "Hà Tiên",
+        clusters: [
+          {
+            description: {
+              nameVietnamese: "Hà Tiên",
+              aliasVietnamese: "Hải Tặc",
+              subGovType: "Commune",
+              name: "Tiên Hải",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Đốc",
+                  latitude: 10.316504,
+                  longitude: 104.329194,
+                  description: "đảo lớn nhất, trung tâm hành chính xã Tiên Hải",
+                },
+                {
+                  nameVietnamese: "Hòn Tre Vinh",
+                  latitude: 10.31197,
+                  longitude: 104.32173,
+                },
+                {
+                  nameVietnamese: "Hòn Trục Môn (h.Gui)",
+                  latitude: 10.304873,
+                  longitude: 104.3184,
+                },
+                {
+                  nameVietnamese: "Hòn Long",
+                  latitude: 10.29874,
+                  longitude: 104.349061,
+                },
+                {
+                  nameVietnamese: "Hòn Ngan",
+                  latitude: 10.29313,
+                  longitude: 104.340315,
+                },
+                {
+                  nameVietnamese: "Hòn Nhóm",
+                  latitude: 10.291591,
+                  longitude: 104.315643,
+                },
+                {
+                  nameVietnamese: "Hòn Đôi",
+                  latitude: 10.285667,
+                  longitude: 104.32899,
+                },
+                {
+                  nameVietnamese: "Hòn Chơ Rơ",
+                  latitude: 10.279314,
+                  longitude: 104.315478,
+                },
+                {
+                  nameVietnamese: "Hòn Cướp Nam",
+                  latitude: 10.256278,
+                  longitude: 104.310007,
+                },
+                {
+                  nameVietnamese: "Hòn Xi Xi",
+                  latitude: 10.210646,
+                  longitude: 104.237501,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        archipelago: "Bà Lụa",
+        subGovType: "District",
+        name: "Kiên Lương",
+        source: "",
+        clusters: [
+          {
+            description: {
+              nameVietnamese: "Bà Lụa",
+              subGovType: "Commune",
+              name: "Sơn Hải",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Heo",
+                  latitude: 10.18074,
+                  longitude: 104.5322,
+                  description: "hòn lớn nhất",
+                },
+                {
+                  nameVietnamese: "Hòn Ông Triều 1",
+                  latitude: 10.12413,
+                  longitude: 104.50387,
+                },
+                {
+                  nameVietnamese: "Hòn Ông Triều 2",
+                  latitude: 10.11994,
+                  longitude: 104.50103,
+                },
+                {
+                  nameVietnamese: "Hòn Ông Triều 3",
+                  latitude: 10.12013,
+                  longitude: 104.49827,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Bạc",
+                  latitude: 10.10856,
+                  longitude: 104.50092,
+                },
+                {
+                  nameVietnamese: "Hòn Đồi Mồi",
+                  latitude: 10.16634,
+                  longitude: 104.52171,
+                },
+                {
+                  nameVietnamese: "Hòn Đầm Dương",
+                  latitude: 10.13945,
+                  longitude: 104.49855,
+                },
+                {
+                  nameVietnamese: "Hòn Đầm Giếng",
+                  latitude: 10.13635,
+                  longitude: 104.49599,
+                },
+                {
+                  nameVietnamese: "Hòn Đầm Lớn",
+                  latitude: 10.14149,
+                  longitude: 104.49474,
+                },
+                {
+                  nameVietnamese: "Hòn Đước",
+                  latitude: 10.13926,
+                  longitude: 104.52116,
+                },
+                {
+                  nameVietnamese: "Hòn Đụng",
+                  latitude: 10.11611,
+                  longitude: 104.53688,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Rồ",
+                  latitude: 10.14212,
+                  longitude: 104.53915,
+                },
+                {
+                  nameVietnamese: "Hòn Bờ Đập",
+                  latitude: 10.12652,
+                  longitude: 104.49771,
+                },
+                {
+                  nameVietnamese: "Hòn Chướng",
+                  latitude: 10.13388,
+                  longitude: 104.55472,
+                },
+                {
+                  nameVietnamese: "Hòn Dê",
+                  latitude: 10.16133,
+                  longitude: 104.53112,
+                },
+                {
+                  nameVietnamese: "Hòn Dứa",
+                  latitude: 10.13915,
+                  longitude: 104.54412,
+                },
+                {
+                  nameVietnamese: "Hòn Khô Cát",
+                  latitude: 10.17572,
+                  longitude: 104.50215,
+                },
+                {
+                  nameVietnamese: "Hòn Lò 1",
+                  latitude: 10.12506,
+                  longitude: 104.52611,
+                },
+                {
+                  nameVietnamese: "Hòn Lò 2",
+                  latitude: 10.12278,
+                  longitude: 104.52766,
+                },
+                {
+                  nameVietnamese: "Hòn Lò 3",
+                  latitude: 10.11853,
+                  longitude: 104.52612,
+                },
+                {
+                  nameVietnamese: "Hòn Ngang",
+                  latitude: 10.15175,
+                  longitude: 104.5228,
+                },
+                {
+                  nameVietnamese: "Hòn Nhum Ông",
+                  latitude: 10.14155,
+                  longitude: 104.55111,
+                },
+                {
+                  nameVietnamese: "Hòn Nhum Bà",
+                  latitude: 10.12756,
+                  longitude: 104.54378,
+                },
+                {
+                  nameVietnamese: "Hòn Nhum Giếng",
+                  latitude: 10.15046,
+                  longitude: 104.55255,
+                },
+                {
+                  nameVietnamese: "Hòn Nhum Tròn",
+                  latitude: 10.13609,
+                  longitude: 104.54571,
+                },
+                {
+                  nameVietnamese: "Hòn Sơn Tế 1",
+                  latitude: 10.10122,
+                  longitude: 104.51366,
+                },
+                {
+                  nameVietnamese: "Hòn Sơn Tế 2",
+                  latitude: 10.09032,
+                  longitude: 104.50963,
+                },
+                {
+                  nameVietnamese: "Hòn Sơn Tế 3",
+                  latitude: 10.08159,
+                  longitude: 104.50277,
+                },
+                {
+                  nameVietnamese: "Hòn Thơm 1",
+                  latitude: 10.14563,
+                  longitude: 104.53139,
+                },
+                {
+                  nameVietnamese: "Hòn Thơm 2",
+                  latitude: 10.14381,
+                  longitude: 104.5339,
+                },
+                {
+                  nameVietnamese: "Hòn Thơm 3",
+                  latitude: 10.14132,
+                  longitude: 104.5323,
+                },
+                {
+                  nameVietnamese: "Hòn Thạch Mỏng",
+                  latitude: 10.15183,
+                  longitude: 104.50598,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Lửa",
+                  latitude: 10.17797,
+                  longitude: 104.57196,
+                },
+                {
+                  nameVietnamese: "Hòn Lô Cốc",
+                  latitude: 10.1728,
+                  longitude: 104.57849,
+                },
+                {
+                  nameVietnamese: "Hòn Rễ Lớn (h. Ré Lớn)",
+                  latitude: 10.15377,
+                  longitude: 104.57743,
+                },
+                {
+                  nameVietnamese: "Hòn Rễ Nhỏ (h. Ré Nhỏ)",
+                  latitude: 10.15261,
+                  longitude: 104.58878,
+                },
+                {
+                  nameVietnamese: "Hòn Kiến Vàng (Kiên Lương)",
+                  latitude: 10.1442,
+                  longitude: 104.61895,
+                },
+                {
+                  nameVietnamese: "Hòn Phụ Tử",
+                  latitude: 10.13508,
+                  longitude: 104.63788,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        subGovType: "City",
+        name: "Phú Quốc",
+        source: "",
+        clusters: [
+          {
+            description: {
+              nameVietnamese: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Phú Quốc",
+                  latitude: 10.287222,
+                  longitude: 104.010556,
+                },
+
+                {
+                  nameVietnamese: "Hòn Bần hay Hòn Bàng",
+                  latitude: 10.222139,
+                  longitude: 103.4843,
+                },
+                {
+                  nameVietnamese: "Hòn Thầy Bói",
+                  latitude: 10.358603,
+                  longitude: 103.808666,
+                },
+              ],
+            },
+          },
+          {
+            description: {
+              nameVietnamese: "",
+              subGovType: "Commune",
+              name: "Gành Dầu",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Đồi Mồi",
+                  latitude: 10.323207,
+                  longitude: 103.839107,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        subGovType: "District",
+        name: "Kiên Lương",
+        source: "",
+        clusters: [
+          {
+            description: {
+              nameVietnamese: "",
+              subGovType: "Commune",
+              name: "Hòn Nghệ",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Nghệ (hòn Minh Hòa)",
+                  latitude: 10.027486,
+                  longitude: 104.553103,
+                },
+                {
+                  nameVietnamese: "Hòn Dung",
+                  latitude: 10.010212,
+                  longitude: 104.5459,
+                  description: "phía nam Hòn Nghệ cỡ 400 m.",
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        subGovType: "District",
+        name: "Kiên Hải",
+        source: "",
+        clusters: [
+          {
+            description: {
+              nameVietnamese: "",
+              subGovType: "Commune",
+              name: "Hòn Tre",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Tre",
+                  latitude: 9.96723,
+                  longitude: 104.83886,
+                },
+              ],
+            },
+          },
+          {
+            description: {
+              nameVietnamese: "",
+              subGovType: "Commune",
+              name: "Lại Sơn",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Lại Sơn",
+                  aliasVietnamese: "Hòn Rái, Hòn Sơn hay Hòn Sơn Rái",
+                  latitude: 9.803505,
+                  longitude: 104.638927,
                 },
               ],
             },
@@ -2111,6 +2894,75 @@ const islands = [
           },
         ],
       },
+      {
+        subGovType: "City",
+        name: "Vũng Tàu",
+        clusters: [
+          {
+            description: {
+              subGovType: "Commune",
+              name: "Long Sơn",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Gò Găng",
+                  description: "Là cồn sông",
+                  latitude: 10.242472,
+                  longitude: 107.133972,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        subGovType: "City",
+        name: "Vũng Tàu",
+        clusters: [
+          {
+            description: {
+              subGovType: "Ward",
+              name: "Thắng Nhất",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Bãi Ngựa",
+                  latitude: 10.412488,
+                  longitude: 107.101052,
+                },
+                {
+                  nameVietnamese: "Cù lao Tào",
+                  latitude: 10.39625,
+                  longitude: 107.096694,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        subGovType: "City",
+        name: "Vũng Tàu",
+        clusters: [
+          {
+            description: {
+              subGovType: "Ward",
+              name: "2",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Bà (Vũng Tàu)",
+                  latitude: 10.32379,
+                  longitude: 107.08916,
+                },
+              ],
+            },
+          },
+        ],
+      },
     ],
   },
   {
@@ -2252,6 +3104,7659 @@ const islands = [
                   nameEnglish: "",
                   latitude: 21.35993,
                   longitude: 107.85632,
+                },
+              ],
+            },
+          },
+          {
+            description: {
+              subGovType: "District",
+              name: "Hải Hà",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Miều",
+                  nameEnglish: "",
+                  latitude: 21.36655,
+                  longitude: 107.75441,
+                },
+                {
+                  nameVietnamese: "Đảo Cái Chiên",
+                  nameEnglish: "",
+                  latitude: 21.32924,
+                  longitude: 107.76803,
+                },
+                {
+                  nameVietnamese: "Đảo Thoi Xanh",
+                  nameEnglish: "",
+                  latitude: 21.29219,
+                  longitude: 107.76712,
+                },
+                {
+                  nameVietnamese: "Đảo Vạn Mực",
+                  nameEnglish: "",
+                  latitude: 21.28674,
+                  longitude: 107.67523,
+                },
+                {
+                  nameVietnamese: "Đảo Vạn Nước",
+                  nameEnglish: "",
+                  latitude: 21.27739,
+                  longitude: 107.65914,
+                },
+                {
+                  nameVietnamese: "Hòn Trạm Trong",
+                  nameEnglish: "",
+                  latitude: 21.38894,
+                  longitude: 107.76815,
+                },
+                {
+                  nameVietnamese: "Hòn Trạm Ngoài",
+                  nameEnglish: "",
+                  latitude: 21.38498,
+                  longitude: 107.7643,
+                },
+                {
+                  nameVietnamese: "Hòn Thoi Chú",
+                  nameEnglish: "",
+                  latitude: 21.36007,
+                  longitude: 107.69346,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Gỗ",
+                  nameEnglish: "",
+                  latitude: 21.35193,
+                  longitude: 107.69238,
+                },
+                {
+                  nameVietnamese: "Hòn Mỹ",
+                  nameEnglish: "",
+                  latitude: 21.34962,
+                  longitude: 107.726,
+                },
+                {
+                  nameVietnamese: "Hòn Kèo",
+                  nameEnglish: "",
+                  latitude: 21.3492,
+                  longitude: 107.69231,
+                },
+                {
+                  nameVietnamese: "Hòn Lim",
+                  nameEnglish: "",
+                  latitude: 21.34438,
+                  longitude: 107.67695,
+                },
+                {
+                  nameVietnamese: "Hòn Cái Khiên (h. Pè)",
+                  nameEnglish: "",
+                  latitude: 21.34179,
+                  longitude: 107.68874,
+                },
+                {
+                  nameVietnamese: "Hòn Me Độc (h.Thoi Trai)",
+                  nameEnglish: "",
+                  latitude: 21.33166,
+                  longitude: 107.6879,
+                },
+                {
+                  nameVietnamese: "Hòn Ru",
+                  nameEnglish: "",
+                  latitude: 21.31654,
+                  longitude: 107.80492,
+                },
+                {
+                  nameVietnamese: "Hòn Dều",
+                  nameEnglish: "",
+                  latitude: 21.31592,
+                  longitude: 107.81261,
+                },
+                {
+                  nameVietnamese: "Hòn Am Trong",
+                  nameEnglish: "",
+                  latitude: 21.30795,
+                  longitude: 107.65667,
+                },
+                {
+                  nameVietnamese: "Hòn Am Ngoài",
+                  nameEnglish: "",
+                  latitude: 21.30569,
+                  longitude: 107.66268,
+                },
+                {
+                  nameVietnamese: "Hòn Quang",
+                  nameEnglish: "",
+                  latitude: 21.28592,
+                  longitude: 107.66676,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Rèm Bé",
+                  nameEnglish: "",
+                  latitude: 21.27911,
+                  longitude: 107.7069,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Rèm Đông",
+                  nameEnglish: "",
+                  latitude: 21.27657,
+                  longitude: 107.70296,
+                },
+                {
+                  nameVietnamese: "Hòn Bò Vàng",
+                  nameEnglish: "",
+                  latitude: 21.27073,
+                  longitude: 107.64617,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Rèm Giữa",
+                  nameEnglish: "",
+                  latitude: 21.26751,
+                  longitude: 107.69187,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Rèm Nam",
+                  nameEnglish: "",
+                  latitude: 21.25934,
+                  longitude: 107.67718,
+                },
+              ],
+              sand: [
+                {
+                  nameVietnamese: "Cồn Đước",
+                  nameEnglish: "",
+                  latitude: 21.38415,
+                  longitude: 107.73634,
+                },
+                {
+                  nameVietnamese: "Cồn Cốc",
+                  nameEnglish: "",
+                  latitude: 21.34379,
+                  longitude: 107.7318,
+                },
+                {
+                  nameVietnamese: "Cồn Bằng",
+                  nameEnglish: "",
+                  latitude: 21.26148,
+                  longitude: 107.65176,
+                },
+              ],
+            },
+          },
+          {
+            description: {
+              subGovType: "District",
+              name: "Đầm Hà",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Gội",
+                  nameEnglish: "",
+                  latitude: 21.28396,
+                  longitude: 107.51839,
+                },
+                {
+                  nameVietnamese: "Đảo Sú Một",
+                  nameEnglish: "",
+                  latitude: 21.28363,
+                  longitude: 107.50543,
+                },
+                {
+                  nameVietnamese: "Đảo Vạn Vược (Ba Núi)",
+                  nameEnglish: "",
+                  latitude: 21.24565,
+                  longitude: 107.61638,
+                },
+                {
+                  nameVietnamese: "Hòn Chay",
+                  nameEnglish: "",
+                  latitude: 21.31286,
+                  longitude: 107.6341,
+                },
+                {
+                  nameVietnamese: "Hòn Chu",
+                  nameEnglish: "",
+                  latitude: 21.30235,
+                  longitude: 107.62182,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Dựng",
+                  nameEnglish: "",
+                  latitude: 21.23574,
+                  longitude: 107.6324,
+                },
+                {
+                  nameVietnamese: "Hòn Dứa Ngoài",
+                  nameEnglish: "",
+                  latitude: 21.28128,
+                  longitude: 107.61678,
+                },
+                {
+                  nameVietnamese: "Hòn Dứa Trong",
+                  nameEnglish: "",
+                  latitude: 21.29138,
+                  longitude: 107.61265,
+                },
+                {
+                  nameVietnamese: "Hòn Gà Dứa",
+                  nameEnglish: "",
+                  latitude: 21.23493,
+                  longitude: 107.59893,
+                },
+                {
+                  nameVietnamese: "Hòn Gắn Dài",
+                  nameEnglish: "",
+                  latitude: 21.26238,
+                  longitude: 107.57054,
+                },
+                {
+                  nameVietnamese: "Hòn Mài",
+                  nameEnglish: "",
+                  latitude: 21.29023,
+                  longitude: 107.62495,
+                },
+                {
+                  nameVietnamese: "Hòn Mùi",
+                  nameEnglish: "",
+                  latitude: 21.30157,
+                  longitude: 107.64933,
+                },
+                {
+                  nameVietnamese: "Hòn Tán",
+                  nameEnglish: "",
+                  latitude: 21.26966,
+                  longitude: 107.53211,
+                },
+                {
+                  nameVietnamese: "Hòn Thạch",
+                  nameEnglish: "",
+                  latitude: 21.23766,
+                  longitude: 107.58963,
+                },
+                {
+                  nameVietnamese: "Hòn Thịt Thừa",
+                  nameEnglish: "",
+                  latitude: 21.256,
+                  longitude: 107.53861,
+                },
+                {
+                  nameVietnamese: "Hòn Thoi Dây",
+                  nameEnglish: "",
+                  latitude: 21.22752,
+                  longitude: 107.59115,
+                },
+                {
+                  nameVietnamese: "Hòn Vẹm (Vẹn)",
+                  nameEnglish: "",
+                  latitude: 21.2288,
+                  longitude: 107.61637,
+                },
+              ],
+              sand: [
+                {
+                  nameVietnamese: "Cồn Hà",
+                  nameEnglish: "",
+                  latitude: 21.29115,
+                  longitude: 107.6305,
+                },
+              ],
+            },
+          },
+          {
+            description: {
+              subGovType: "District",
+              name: "Vân Đồn",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Ba Mùn",
+                  nameEnglish: "",
+                  latitude: 21.06813,
+                  longitude: 107.59895,
+                },
+                {
+                  nameVietnamese: "Đảo Cái Bầu",
+                  nameEnglish: "",
+                  latitude: 21.16485,
+                  longitude: 107.49319,
+                },
+                {
+                  nameVietnamese: "Đảo Cái Lim",
+                  nameEnglish: "",
+                  latitude: 21.09945,
+                  longitude: 107.55378,
+                },
+                {
+                  nameVietnamese: "Đảo Cảnh Cước",
+                  nameEnglish: "",
+                  latitude: 20.90284,
+                  longitude: 107.518,
+                },
+                {
+                  nameVietnamese: "Đảo Cặp Tiên",
+                  nameEnglish: "",
+                  latitude: 21.05933,
+                  longitude: 107.5534,
+                },
+                {
+                  nameVietnamese: "Đảo Cặp Tiên Ngoài",
+                  nameEnglish: "",
+                  latitude: 21.0364,
+                  longitude: 107.37252,
+                },
+                {
+                  nameVietnamese: "Đảo Cặp Tiên Trong",
+                  nameEnglish: "",
+                  latitude: 21.04621,
+                  longitude: 107.3748,
+                },
+                {
+                  nameVietnamese: "Đảo Chàng Ngọ",
+                  nameEnglish: "",
+                  latitude: 21.12825,
+                  longitude: 107.56535,
+                },
+                {
+                  nameVietnamese: "Đảo Cống Đông",
+                  nameEnglish: "",
+                  latitude: 20.89969,
+                  longitude: 107.31341,
+                },
+                {
+                  nameVietnamese: "Đảo Cống Nứa",
+                  nameEnglish: "",
+                  latitude: 20.95936,
+                  longitude: 107.46876,
+                },
+                {
+                  nameVietnamese: "Đảo Cống Tây",
+                  nameEnglish: "",
+                  latitude: 20.89165,
+                  longitude: 107.30564,
+                },
+                {
+                  nameVietnamese: "Đảo Đá Trắng",
+                  nameEnglish: "",
+                  latitude: 21.09214,
+                  longitude: 107.45896,
+                },
+                {
+                  nameVietnamese: "Đảo Đầu Nam",
+                  nameEnglish: "",
+                  latitude: 21.01673,
+                  longitude: 107.4694,
+                },
+                {
+                  nameVietnamese: "Đảo Đống Chén",
+                  nameEnglish: "",
+                  latitude: 20.93963,
+                  longitude: 107.42639,
+                },
+                {
+                  nameVietnamese: "Đảo Đông Ma",
+                  nameEnglish: "",
+                  latitude: 21.14828,
+                  longitude: 107.58295,
+                },
+                {
+                  nameVietnamese: "Đảo Giàn Mướp",
+                  nameEnglish: "",
+                  latitude: 20.83755,
+                  longitude: 107.35894,
+                },
+                {
+                  nameVietnamese: "Đảo Hạ Mai",
+                  nameEnglish: "",
+                  latitude: 20.72564,
+                  longitude: 107.45952,
+                },
+                {
+                  nameVietnamese: "Đảo Lão Vọng",
+                  nameEnglish: "",
+                  latitude: 21.0544,
+                  longitude: 107.51861,
+                },
+                {
+                  nameVietnamese: "Đảo Lồ Con",
+                  nameEnglish: "",
+                  latitude: 20.89287,
+                  longitude: 107.34536,
+                },
+                {
+                  nameVietnamese: "Đảo Mang",
+                  nameEnglish: "",
+                  latitude: 20.90189,
+                  longitude: 107.50003,
+                },
+                {
+                  nameVietnamese: "Đảo Muy Tin",
+                  nameEnglish: "",
+                  latitude: 21.20279,
+                  longitude: 107.42592,
+                },
+                {
+                  nameVietnamese: "Đảo Nam Hải",
+                  nameEnglish: "",
+                  latitude: 21.00627,
+                  longitude: 107.4353,
+                },
+                {
+                  nameVietnamese: "Đảo Nất Đất",
+                  nameEnglish: "",
+                  latitude: 20.75213,
+                  longitude: 107.39259,
+                },
+                {
+                  nameVietnamese: "Đảo Ngọc Vừng",
+                  nameEnglish: "",
+                  latitude: 20.81867,
+                  longitude: 107.36716,
+                },
+                {
+                  nameVietnamese: "Đảo Phượng Hoàng",
+                  nameEnglish: "",
+                  latitude: 20.79302,
+                  longitude: 107.41108,
+                },
+                {
+                  nameVietnamese: "Đảo Sậu Nam",
+                  nameEnglish: "",
+                  latitude: 21.17822,
+                  longitude: 107.66491,
+                },
+                {
+                  nameVietnamese: "Đảo Tàn Hoi",
+                  nameEnglish: "",
+                  latitude: 21.02018,
+                  longitude: 107.44319,
+                },
+                {
+                  nameVietnamese: "Đảo Thẻ Vàng",
+                  nameEnglish: "",
+                  latitude: 20.93673,
+                  longitude: 107.35583,
+                },
+                {
+                  nameVietnamese: "Đảo Thượng Mai",
+                  nameEnglish: "",
+                  latitude: 20.76388,
+                  longitude: 107.4816,
+                },
+                {
+                  nameVietnamese: "Đảo Trà Bản",
+                  nameEnglish: "",
+                  latitude: 20.962,
+                  longitude: 107.50549,
+                },
+                {
+                  nameVietnamese: "Đảo Vạn Cảnh",
+                  nameEnglish: "",
+                  latitude: 20.87667,
+                  longitude: 107.35902,
+                },
+                {
+                  nameVietnamese: "Đảo Vân Đồn",
+                  nameEnglish: "",
+                  latitude: 20.85115,
+                  longitude: 107.41344,
+                },
+                {
+                  nameVietnamese: "Đảo Vạn Đuối",
+                  nameEnglish: "",
+                  latitude: 20.92064,
+                  longitude: 107.33021,
+                },
+                {
+                  nameVietnamese: "Hòn Am Em",
+                  nameEnglish: "",
+                  latitude: 21.02782,
+                  longitude: 107.47177,
+                },
+                {
+                  nameVietnamese: "Hòn Bà Cô Dông",
+                  nameEnglish: "",
+                  latitude: 21.08931,
+                  longitude: 107.5269,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Đốc",
+                  nameEnglish: "",
+                  latitude: 21.02302,
+                  longitude: 107.45088,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Sao Bắc",
+                  nameEnglish: "",
+                  latitude: 20.87224,
+                  longitude: 107.46181,
+                },
+                {
+                  nameVietnamese: "Hòn Bá Vụng",
+                  nameEnglish: "",
+                  latitude: 21.03748,
+                  longitude: 107.47988,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Vụng Đước",
+                  nameEnglish: "",
+                  latitude: 20.97287,
+                  longitude: 107.43278,
+                },
+                {
+                  nameVietnamese: "Hòn Bàn Chân",
+                  nameEnglish: "",
+                  latitude: 21.0292,
+                  longitude: 107.49151,
+                },
+                {
+                  nameVietnamese: "Hòn Bàn Mai",
+                  nameEnglish: "",
+                  latitude: 20.99184,
+                  longitude: 107.3769,
+                },
+                {
+                  nameVietnamese: "Hòn Bằng Đầu",
+                  nameEnglish: "",
+                  latitude: 20.84377,
+                  longitude: 107.30966,
+                },
+                {
+                  nameVietnamese: "Hòn Bánh Sữa",
+                  nameEnglish: "",
+                  latitude: 20.92676,
+                  longitude: 107.39669,
+                },
+                {
+                  nameVietnamese: "Hòn Béo",
+                  nameEnglish: "",
+                  latitude: 20.93877,
+                  longitude: 107.39263,
+                },
+                {
+                  nameVietnamese: "Hòn Béo Cò",
+                  nameEnglish: "",
+                  latitude: 21.04905,
+                  longitude: 107.44012,
+                },
+                {
+                  nameVietnamese: "Hòn Béo Đá",
+                  nameEnglish: "",
+                  latitude: 21.04695,
+                  longitude: 107.43642,
+                },
+                {
+                  nameVietnamese: "Hòn Béo Soi Nhụ",
+                  nameEnglish: "",
+                  latitude: 21.06448,
+                  longitude: 107.49081,
+                },
+                {
+                  nameVietnamese: "Hòn Béo Tùng Muội",
+                  nameEnglish: "",
+                  latitude: 21.07803,
+                  longitude: 107.49888,
+                },
+                {
+                  nameVietnamese: "Hòn Bò Lội",
+                  nameEnglish: "",
+                  latitude: 20.87482,
+                  longitude: 107.39502,
+                },
+                {
+                  nameVietnamese: "Hòn Bồ Rọ Đông",
+                  nameEnglish: "",
+                  latitude: 20.91648,
+                  longitude: 107.30887,
+                },
+
+                {
+                  nameVietnamese: "Hòn Bồ Rọ Giữa",
+                  nameEnglish: "",
+                  latitude: 20.91156,
+                  longitude: 107.29953,
+                },
+                {
+                  nameVietnamese: "Hòn Bồ Rọ Tây Dưới",
+                  nameEnglish: "",
+                  latitude: 20.91224,
+                  longitude: 107.29717,
+                },
+                {
+                  nameVietnamese: "Hòn Bồ Rọ Tây Trên",
+                  nameEnglish: "",
+                  latitude: 20.91388,
+                  longitude: 107.29735,
+                },
+                {
+                  nameVietnamese: "Hòn Bối Tóc",
+                  nameEnglish: "",
+                  latitude: 21.05946,
+                  longitude: 107.46535,
+                },
+                {
+                  nameVietnamese: "Hòn Bối Tóc Con",
+                  nameEnglish: "",
+                  latitude: 21.05371,
+                  longitude: 107.45968,
+                },
+                {
+                  nameVietnamese: "Hòn Bùa Thuốc",
+                  nameEnglish: "",
+                  latitude: 20.94307,
+                  longitude: 107.3854,
+                },
+                {
+                  nameVietnamese: "Hòn Cái Búa",
+                  nameEnglish: "",
+                  latitude: 20.98202,
+                  longitude: 107.43797,
+                },
+                {
+                  nameVietnamese: "Hòn Cái Cưa",
+                  nameEnglish: "",
+                  latitude: 20.97494,
+                  longitude: 107.42395,
+                },
+                {
+                  nameVietnamese: "Hòn Cái Đe",
+                  nameEnglish: "",
+                  latitude: 20.97855,
+                  longitude: 107.4402,
+                },
+                {
+                  nameVietnamese: "Hòn Cái Đé",
+                  nameEnglish: "",
+                  latitude: 21.07944,
+                  longitude: 107.5753,
+                },
+                {
+                  nameVietnamese: "Hòn Cái Rồng",
+                  nameEnglish: "",
+                  latitude: 21.05933,
+                  longitude: 107.42598,
+                },
+                {
+                  nameVietnamese: "Hòn Caí Suối",
+                  nameEnglish: "",
+                  latitude: 21.039,
+                  longitude: 107.54385,
+                },
+                {
+                  nameVietnamese: "Hòn Cẩm Thạch",
+                  nameEnglish: "",
+                  latitude: 21.21583,
+                  longitude: 107.66647,
+                },
+                {
+                  nameVietnamese: "Hòn Cân Giữa",
+                  nameEnglish: "",
+                  latitude: 21.09329,
+                  longitude: 107.49179,
+                },
+                {
+                  nameVietnamese: "Hòn Canh Luồng",
+                  nameEnglish: "",
+                  latitude: 20.93354,
+                  longitude: 107.39457,
+                },
+                {
+                  nameVietnamese: "Hòn Cao",
+                  nameEnglish: "",
+                  latitude: 20.9727,
+                  longitude: 107.42302,
+                },
+                {
+                  nameVietnamese: "Hòn Cao Lô Con",
+                  nameEnglish: "",
+                  latitude: 21.11236,
+                  longitude: 107.61464,
+                },
+                {
+                  nameVietnamese: "Hòn Cao Tơ",
+                  nameEnglish: "",
+                  latitude: 20.83464,
+                  longitude: 107.32858,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp",
+                  nameEnglish: "",
+                  latitude: 20.97948,
+                  longitude: 107.48242,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Cạn",
+                  nameEnglish: "",
+                  latitude: 20.93981,
+                  longitude: 107.39779,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Chi",
+                  nameEnglish: "",
+                  latitude: 20.9726,
+                  longitude: 107.48224,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Cống",
+                  nameEnglish: "",
+                  latitude: 21.27381,
+                  longitude: 107.45646,
+                },
+                {
+                  nameVietnamese: "Hòn Cạp Long",
+                  nameEnglish: "",
+                  latitude: 21.06349,
+                  longitude: 107.44815,
+                },
+                {
+                  nameVietnamese: "Hòn Cạp Xe",
+                  nameEnglish: "",
+                  latitude: 21.07263,
+                  longitude: 107.43816,
+                },
+                {
+                  nameVietnamese: "Hòn Cật Chương",
+                  nameEnglish: "",
+                  latitude: 21.0202,
+                  longitude: 107.41286,
+                },
+                {
+                  nameVietnamese: "Hòn Cật Chương Bé",
+                  nameEnglish: "",
+                  latitude: 21.01405,
+                  longitude: 107.40718,
+                },
+                {
+                  nameVietnamese: "Hòn Cật Chương To",
+                  nameEnglish: "",
+                  latitude: 21.01019,
+                  longitude: 107.40592,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Gạch",
+                  nameEnglish: "",
+                  latitude: 21.02946,
+                  longitude: 107.45557,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Gia",
+                  nameEnglish: "",
+                  latitude: 20.97586,
+                  longitude: 107.418,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Giã",
+                  nameEnglish: "",
+                  latitude: 20.97993,
+                  longitude: 107.40745,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Gù",
+                  nameEnglish: "",
+                  latitude: 21.02354,
+                  longitude: 107.41555,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Guôn",
+                  nameEnglish: "",
+                  latitude: 20.97699,
+                  longitude: 107.40335,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Oăm",
+                  nameEnglish: "",
+                  latitude: 20.88654,
+                  longitude: 107.39768,
+                },
+                {
+                  nameVietnamese: "Hòn Cát To",
+                  nameEnglish: "",
+                  latitude: 21.01167,
+                  longitude: 107.42284,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Da",
+                  nameEnglish: "",
+                  latitude: 20.98005,
+                  longitude: 107.4722,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Đước Đông",
+                  nameEnglish: "",
+                  latitude: 20.94916,
+                  longitude: 107.39331,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Đước Đống Chén",
+                  nameEnglish: "",
+                  latitude: 20.97041,
+                  longitude: 107.44617,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Đước Tây",
+                  nameEnglish: "",
+                  latitude: 20.95371,
+                  longitude: 107.38861,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Khế Đông",
+                  nameEnglish: "",
+                  latitude: 21.00433,
+                  longitude: 107.38266,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Mây",
+                  nameEnglish: "",
+                  latitude: 20.99705,
+                  longitude: 107.40917,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Sỉnh Đông",
+                  nameEnglish: "",
+                  latitude: 20.86538,
+                  longitude: 107.32028,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Vông",
+                  nameEnglish: "",
+                  latitude: 21.00771,
+                  longitude: 107.44987,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Xuôi",
+                  nameEnglish: "",
+                  latitude: 20.9881,
+                  longitude: 107.41527,
+                },
+                {
+                  nameVietnamese: "Hòn Chả Lạo",
+                  nameEnglish: "",
+                  latitude: 20.9514,
+                  longitude: 107.34198,
+                },
+
+                {
+                  nameVietnamese: "Hòn Chắn Ngang",
+                  nameEnglish: "",
+                  latitude: 21.02676,
+                  longitude: 107.47709,
+                },
+                {
+                  nameVietnamese: "Hòn Chéo Con",
+                  nameEnglish: "",
+                  latitude: 20.99719,
+                  longitude: 107.45446,
+                },
+                {
+                  nameVietnamese: "Hòn Chéo Qua",
+                  nameEnglish: "",
+                  latitude: 21.05596,
+                  longitude: 107.53905,
+                },
+                {
+                  nameVietnamese: "Hòn Chéo To",
+                  nameEnglish: "",
+                  latitude: 20.99339,
+                  longitude: 107.46342,
+                },
+                {
+                  nameVietnamese: "Hòn Chim Giữa",
+                  nameEnglish: "",
+                  latitude: 20.97009,
+                  longitude: 107.3595,
+                },
+                {
+                  nameVietnamese: "Hòn Chín",
+                  nameEnglish: "",
+                  latitude: 21.18509,
+                  longitude: 107.62305,
+                },
+                {
+                  nameVietnamese: "Hòn Chín Bé",
+                  nameEnglish: "",
+                  latitude: 21.17959,
+                  longitude: 107.62397,
+                },
+                {
+                  nameVietnamese: "Hòn Chó Đá",
+                  nameEnglish: "",
+                  latitude: 20.82863,
+                  longitude: 107.33241,
+                },
+                {
+                  nameVietnamese: "Hòn Chóp Nón",
+                  nameEnglish: "",
+                  latitude: 20.8148,
+                  longitude: 107.33238,
+                },
+                {
+                  nameVietnamese: "Hòn Chú",
+                  nameEnglish: "",
+                  latitude: 20.95708,
+                  longitude: 107.36039,
+                },
+                {
+                  nameVietnamese: "Hòn Chùa Đá",
+                  nameEnglish: "",
+                  latitude: 20.98907,
+                  longitude: 107.47754,
+                },
+                {
+                  nameVietnamese: "Hòn Chuông",
+                  nameEnglish: "",
+                  latitude: 21.02257,
+                  longitude: 107.48552,
+                },
+                {
+                  nameVietnamese: "Hòn Chương",
+                  nameEnglish: "",
+                  latitude: 21.05931,
+                  longitude: 107.50395,
+                },
+                {
+                  nameVietnamese: "Hòn Chương Con Tây",
+                  nameEnglish: "",
+                  latitude: 21.00525,
+                  longitude: 107.40749,
+                },
+                {
+                  nameVietnamese: "Hòn Chương Hoi",
+                  nameEnglish: "",
+                  latitude: 21.01255,
+                  longitude: 107.44513,
+                },
+                {
+                  nameVietnamese: "Hòn Chuột Lớn",
+                  nameEnglish: "",
+                  latitude: 21.01288,
+                  longitude: 107.55913,
+                },
+                {
+                  nameVietnamese: "Hòn Cỏ",
+                  nameEnglish: "",
+                  latitude: 21.05628,
+                  longitude: 107.42921,
+                },
+                {
+                  nameVietnamese: "Hòn Cổ Cháng",
+                  nameEnglish: "",
+                  latitude: 21.02968,
+                  longitude: 107.47444,
+                },
+                {
+                  nameVietnamese: "Hòn Co Cốc",
+                  nameEnglish: "",
+                  latitude: 21.02493,
+                  longitude: 107.4051,
+                },
+                {
+                  nameVietnamese: "Hòn Cò Hoi",
+                  nameEnglish: "",
+                  latitude: 21.02936,
+                  longitude: 107.44736,
+                },
+                {
+                  nameVietnamese: "Hòn Cỏ Ngoài",
+                  nameEnglish: "",
+                  latitude: 21.06751,
+                  longitude: 107.54871,
+                },
+                {
+                  nameVietnamese: "Hòn Cổ Trong",
+                  nameEnglish: "",
+                  latitude: 20.95586,
+                  longitude: 107.33336,
+                },
+                {
+                  nameVietnamese: "Hòn Cò Trong To",
+                  nameEnglish: "",
+                  latitude: 21.0533,
+                  longitude: 107.445,
+                },
+                {
+                  nameVietnamese: "Hòn Con",
+                  nameEnglish: "",
+                  latitude: 20.95418,
+                  longitude: 107.39926,
+                },
+                {
+                  nameVietnamese: "Hòn Con Chó",
+                  nameEnglish: "",
+                  latitude: 21.05959,
+                  longitude: 107.47062,
+                },
+                {
+                  nameVietnamese: "Hòn Con Khổ",
+                  nameEnglish: "",
+                  latitude: 21.08079,
+                  longitude: 107.52605,
+                },
+                {
+                  nameVietnamese: "Hòn Con Ong",
+                  nameEnglish: "",
+                  latitude: 20.96558,
+                  longitude: 107.34848,
+                },
+                {
+                  nameVietnamese: "Hòn Con Trên",
+                  nameEnglish: "",
+                  latitude: 21.07689,
+                  longitude: 107.48529,
+                },
+                {
+                  nameVietnamese: "Hòn Cống Thâu Ngoài",
+                  nameEnglish: "",
+                  latitude: 21.03671,
+                  longitude: 107.55799,
+                },
+                {
+                  nameVietnamese: "Hòn Cống Thẻ",
+                  nameEnglish: "",
+                  latitude: 21.01703,
+                  longitude: 107.47921,
+                },
+                {
+                  nameVietnamese: "Hòn Cống Yên",
+                  nameEnglish: "",
+                  latitude: 20.85067,
+                  longitude: 107.34497,
+                },
+                {
+                  nameVietnamese: "Hòn Củ Cái",
+                  nameEnglish: "",
+                  latitude: 20.99291,
+                  longitude: 107.40269,
+                },
+                {
+                  nameVietnamese: "Hòn Cửa Thung",
+                  nameEnglish: "",
+                  latitude: 21.04176,
+                  longitude: 107.51109,
+                },
+                {
+                  nameVietnamese: "Hòn Cuốn Buồm",
+                  nameEnglish: "",
+                  latitude: 21.06854,
+                  longitude: 107.47916,
+                },
+                {
+                  nameVietnamese: "Hòn Cuốn Buồm Nam",
+                  nameEnglish: "",
+                  latitude: 21.06744,
+                  longitude: 107.46328,
+                },
+                {
+                  nameVietnamese: "Hòn Cuốn Buồm To",
+                  nameEnglish: "",
+                  latitude: 21.06732,
+                  longitude: 107.47653,
+                },
+
+                {
+                  nameVietnamese: "Hòn Đá Ẩy",
+                  nameEnglish: "",
+                  latitude: 21.1237,
+                  longitude: 107.60884,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Cặp Hẹp",
+                  nameEnglish: "",
+                  latitude: 20.89602,
+                  longitude: 107.33625,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Đen",
+                  nameEnglish: "",
+                  latitude: 21.05212,
+                  longitude: 107.47047,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Rong Bé",
+                  nameEnglish: "",
+                  latitude: 21.01438,
+                  longitude: 107.55094,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Rong To",
+                  nameEnglish: "",
+                  latitude: 21.01063,
+                  longitude: 107.55128,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Tròn",
+                  nameEnglish: "",
+                  latitude: 21.11104,
+                  longitude: 107.59899,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Vạn Bóng",
+                  nameEnglish: "",
+                  latitude: 20.9838,
+                  longitude: 107.54979,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Voi",
+                  nameEnglish: "",
+                  latitude: 21.10602,
+                  longitude: 107.39178,
+                },
+                {
+                  nameVietnamese: "Hòn Dăn",
+                  nameEnglish: "",
+                  latitude: 21.11532,
+                  longitude: 107.54907,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Cao",
+                  nameEnglish: "",
+                  latitude: 20.78008,
+                  longitude: 107.48953,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Đinh",
+                  nameEnglish: "",
+                  latitude: 21.08455,
+                  longitude: 107.46675,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Giường Giếng",
+                  nameEnglish: "",
+                  latitude: 20.87928,
+                  longitude: 107.29341,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Kháu",
+                  nameEnglish: "",
+                  latitude: 20.96288,
+                  longitude: 107.43116,
+                },
+                {
+                  nameVietnamese: "Hòn Đen Đông",
+                  nameEnglish: "",
+                  latitude: 21.03297,
+                  longitude: 107.42466,
+                },
+                {
+                  nameVietnamese: "Hòn Đen Tây",
+                  nameEnglish: "",
+                  latitude: 21.03007,
+                  longitude: 107.41815,
+                },
+                {
+                  nameVietnamese: "Hòn Di",
+                  nameEnglish: "",
+                  latitude: 21.05974,
+                  longitude: 107.58075,
+                },
+                {
+                  nameVietnamese: "Hòn Di To",
+                  nameEnglish: "",
+                  latitude: 21.06573,
+                  longitude: 107.57262,
+                },
+                {
+                  nameVietnamese: "Hòn Diều Đá Ngoài",
+                  nameEnglish: "",
+                  latitude: 21.07291,
+                  longitude: 107.45248,
+                },
+                {
+                  nameVietnamese: "Hòn Đít Vịt",
+                  nameEnglish: "",
+                  latitude: 20.8545,
+                  longitude: 107.31201,
+                },
+                {
+                  nameVietnamese: "Hòn Đoạn",
+                  nameEnglish: "",
+                  latitude: 21.21145,
+                  longitude: 107.57799,
+                },
+                {
+                  nameVietnamese: "Hòn Dơi Đá",
+                  nameEnglish: "",
+                  latitude: 20.90346,
+                  longitude: 107.34161,
+                },
+                {
+                  nameVietnamese: "Hòn Đôi Đầu Giường",
+                  nameEnglish: "",
+                  latitude: 20.87539,
+                  longitude: 107.28936,
+                },
+                {
+                  nameVietnamese: "Hòn Đòn Cân",
+                  nameEnglish: "",
+                  latitude: 21.09488,
+                  longitude: 107.48383,
+                },
+                {
+                  nameVietnamese: "Hòn Đòn Cân Đông",
+                  nameEnglish: "",
+                  latitude: 21.09633,
+                  longitude: 107.49939,
+                },
+                {
+                  nameVietnamese: "Hòn Đồng",
+                  nameEnglish: "",
+                  latitude: 21.04345,
+                  longitude: 107.42043,
+                },
+                {
+                  nameVietnamese: "Hòn Đồng Bìa",
+                  nameEnglish: "",
+                  latitude: 21.06622,
+                  longitude: 107.44394,
+                },
+                {
+                  nameVietnamese: "Hòn Đồng Bìa Con",
+                  nameEnglish: "",
+                  latitude: 21.06147,
+                  longitude: 107.45204,
+                },
+                {
+                  nameVietnamese: "Hòn Đống Chén Con",
+                  nameEnglish: "",
+                  latitude: 20.94833,
+                  longitude: 107.41481,
+                },
+                {
+                  nameVietnamese: "Hòn Đồng Nền",
+                  nameEnglish: "",
+                  latitude: 20.96248,
+                  longitude: 107.36716,
+                },
+                {
+                  nameVietnamese: "Hòn Đông Nền Đất",
+                  nameEnglish: "",
+                  latitude: 20.96731,
+                  longitude: 107.37084,
+                },
+
+                {
+                  nameVietnamese: "Hòn Đông Ngoài",
+                  nameEnglish: "",
+                  latitude: 21.05326,
+                  longitude: 107.42275,
+                },
+                {
+                  nameVietnamese: "Hòn Động Ngoài",
+                  nameEnglish: "",
+                  latitude: 21.04686,
+                  longitude: 107.41921,
+                },
+                {
+                  nameVietnamese: "Hòn Đống Tráng",
+                  nameEnglish: "",
+                  latitude: 20.84202,
+                  longitude: 107.30281,
+                },
+                {
+                  nameVietnamese: "Hòn Đống Tráng Giữa",
+                  nameEnglish: "",
+                  latitude: 20.83541,
+                  longitude: 107.3107,
+                },
+                {
+                  nameVietnamese: "Hòn Đống Tráng Ngoài",
+                  nameEnglish: "",
+                  latitude: 20.83138,
+                  longitude: 107.31104,
+                },
+                {
+                  nameVietnamese: "Hòn Đống Tráng Vụng",
+                  nameEnglish: "",
+                  latitude: 20.83746,
+                  longitude: 107.30695,
+                },
+                {
+                  nameVietnamese: "Hòn Đông Trong",
+                  nameEnglish: "",
+                  latitude: 21.05973,
+                  longitude: 107.43348,
+                },
+                {
+                  nameVietnamese: "Hòn Dợt Dợt",
+                  nameEnglish: "",
+                  latitude: 21.02091,
+                  longitude: 107.49365,
+                },
+                {
+                  nameVietnamese: "Hòn Dù",
+                  nameEnglish: "",
+                  latitude: 21.03892,
+                  longitude: 107.56444,
+                },
+                {
+                  nameVietnamese: "Hòn Đũa Ngoài",
+                  nameEnglish: "",
+                  latitude: 21.10456,
+                  longitude: 107.53949,
+                },
+                {
+                  nameVietnamese: "Hòn Dứa Trong",
+                  nameEnglish: "",
+                  latitude: 21.01915,
+                  longitude: 107.45948,
+                },
+                {
+                  nameVietnamese: "Hòn Dương Đá",
+                  nameEnglish: "",
+                  latitude: 21.08211,
+                  longitude: 107.50936,
+                },
+                {
+                  nameVietnamese: "Hòn Én Dưới",
+                  nameEnglish: "",
+                  latitude: 21.11106,
+                  longitude: 107.52,
+                },
+                {
+                  nameVietnamese: "Hòn Én Trên",
+                  nameEnglish: "",
+                  latitude: 21.1157,
+                  longitude: 107.52582,
+                },
+                {
+                  nameVietnamese: "Hòn Gà Mái",
+                  nameEnglish: "",
+                  latitude: 21.02363,
+                  longitude: 107.4716,
+                },
+                {
+                  nameVietnamese: "Hòn Gác Đá",
+                  nameEnglish: "",
+                  latitude: 20.8013,
+                  longitude: 107.48177,
+                },
+                {
+                  nameVietnamese: "Hòn Gạc Lớn",
+                  nameEnglish: "",
+                  latitude: 21.11825,
+                  longitude: 107.39026,
+                },
+                {
+                  nameVietnamese: "Hòn Ghềnh Cống Thần",
+                  nameEnglish: "",
+                  latitude: 21.04487,
+                  longitude: 107.55975,
+                },
+                {
+                  nameVietnamese: "Hòn Giai",
+                  nameEnglish: "",
+                  latitude: 20.8941,
+                  longitude: 107.46784,
+                },
+                {
+                  nameVietnamese: "Hòn Giai Trụi",
+                  nameEnglish: "",
+                  latitude: 20.8996,
+                  longitude: 107.46017,
+                },
+                {
+                  nameVietnamese: "Hòn Giếng Bối Tóc",
+                  nameEnglish: "",
+                  latitude: 21.0512,
+                  longitude: 107.46327,
+                },
+                {
+                  nameVietnamese: "Hòn Giếng Nắp",
+                  nameEnglish: "",
+                  latitude: 20.95209,
+                  longitude: 107.39372,
+                },
+                {
+                  nameVietnamese: "Hòn Giếng Ngọt",
+                  nameEnglish: "",
+                  latitude: 20.98129,
+                  longitude: 107.38367,
+                },
+                {
+                  nameVietnamese: "Hòn Giộc Giữa",
+                  nameEnglish: "",
+                  latitude: 21.02089,
+                  longitude: 107.42877,
+                },
+                {
+                  nameVietnamese: "Hòn Gỡ Nợ",
+                  nameEnglish: "",
+                  latitude: 20.98169,
+                  longitude: 107.41521,
+                },
+                {
+                  nameVietnamese: "Hòn Gối",
+                  nameEnglish: "",
+                  latitude: 20.85799,
+                  longitude: 107.29415,
+                },
+                {
+                  nameVietnamese: "Hòn Guốc",
+                  nameEnglish: "",
+                  latitude: 21.03322,
+                  longitude: 107.40506,
+                },
+                {
+                  nameVietnamese: "Hòn Hai",
+                  nameEnglish: "",
+                  latitude: 21.02442,
+                  longitude: 107.51861,
+                },
+                {
+                  nameVietnamese: "Hòn Hai Vâng",
+                  nameEnglish: "",
+                  latitude: 21.03087,
+                  longitude: 107.49324,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Bối Tóc",
+                  nameEnglish: "",
+                  latitude: 21.05698,
+                  longitude: 107.46177,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Hoi",
+                  nameEnglish: "",
+                  latitude: 21.0047,
+                  longitude: 107.44719,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Người",
+                  nameEnglish: "",
+                  latitude: 21.04693,
+                  longitude: 107.42328,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Sam",
+                  nameEnglish: "",
+                  latitude: 21.04051,
+                  longitude: 107.41042,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Sâu",
+                  nameEnglish: "",
+                  latitude: 21.07181,
+                  longitude: 107.57184,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Sung Con",
+                  nameEnglish: "",
+                  latitude: 20.84761,
+                  longitude: 107.29767,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Te",
+                  nameEnglish: "",
+                  latitude: 20.97837,
+                  longitude: 107.4671,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Tối",
+                  nameEnglish: "",
+                  latitude: 20.8102,
+                  longitude: 107.33397,
+                },
+                {
+                  nameVietnamese: "Hòn Khỉ Nhảy",
+                  nameEnglish: "",
+                  latitude: 20.89771,
+                  longitude: 107.3582,
+                },
+                {
+                  nameVietnamese: "Hòn Khúc Gỗ",
+                  nameEnglish: "",
+                  latitude: 20.93464,
+                  longitude: 107.38542,
+                },
+                {
+                  nameVietnamese: "Hòn Kiểu Hội",
+                  nameEnglish: "",
+                  latitude: 20.95267,
+                  longitude: 107.33053,
+                },
+
+                {
+                  nameVietnamese: "Hòn Kỳ Lân",
+                  nameEnglish: "",
+                  latitude: 20.97243,
+                  longitude: 107.39738,
+                },
+                {
+                  nameVietnamese: "Hòn Lái Lui",
+                  nameEnglish: "",
+                  latitude: 21.02855,
+                  longitude: 107.4096,
+                },
+                {
+                  nameVietnamese: "Hòn Lở Bé",
+                  nameEnglish: "",
+                  latitude: 20.99402,
+                  longitude: 107.39352,
+                },
+                {
+                  nameVietnamese: "Hòn Lọ Mực",
+                  nameEnglish: "",
+                  latitude: 20.84784,
+                  longitude: 107.30613,
+                },
+                {
+                  nameVietnamese: "Hòn Lở To",
+                  nameEnglish: "",
+                  latitude: 20.99829,
+                  longitude: 107.39277,
+                },
+                {
+                  nameVietnamese: "Hòn Lò Vôi",
+                  nameEnglish: "",
+                  latitude: 20.90998,
+                  longitude: 107.30493,
+                },
+                {
+                  nameVietnamese: "Hòn Lôi",
+                  nameEnglish: "",
+                  latitude: 21.04239,
+                  longitude: 107.56312,
+                },
+                {
+                  nameVietnamese: "Hòn Mang Đen",
+                  nameEnglish: "",
+                  latitude: 21.10217,
+                  longitude: 107.50359,
+                },
+                {
+                  nameVietnamese: "Hòn Máng Hà Bắc",
+                  nameEnglish: "",
+                  latitude: 21.09792,
+                  longitude: 107.58558,
+                },
+                {
+                  nameVietnamese: "Hòn Máng Hà Nam",
+                  nameEnglish: "",
+                  latitude: 21.08788,
+                  longitude: 107.58295,
+                },
+                {
+                  nameVietnamese: "Hòn Mang Khơi",
+                  nameEnglish: "",
+                  latitude: 21.13096,
+                  longitude: 107.59006,
+                },
+                {
+                  nameVietnamese: "Hòn Mang Lộng",
+                  nameEnglish: "",
+                  latitude: 21.12371,
+                  longitude: 107.5819,
+                },
+                {
+                  nameVietnamese: "Hòn Mắt",
+                  nameEnglish: "",
+                  latitude: 20.81504,
+                  longitude: 107.33064,
+                },
+                {
+                  nameVietnamese: "Hòn Mắt Mện",
+                  nameEnglish: "",
+                  latitude: 20.86335,
+                  longitude: 107.30021,
+                },
+                {
+                  nameVietnamese: "Hòn Mắt Mện Dài",
+                  nameEnglish: "",
+                  latitude: 20.87154,
+                  longitude: 107.30047,
+                },
+                {
+                  nameVietnamese: "Hòn Miếu",
+                  nameEnglish: "",
+                  latitude: 21.06512,
+                  longitude: 107.51461,
+                },
+                {
+                  nameVietnamese: "Hòn Mỏ Đá",
+                  nameEnglish: "",
+                  latitude: 20.90439,
+                  longitude: 107.28931,
+                },
+                {
+                  nameVietnamese: "Hòn Mỏ Đá Con",
+                  nameEnglish: "",
+                  latitude: 20.90539,
+                  longitude: 107.28508,
+                },
+                {
+                  nameVietnamese: "Hòn Mỏ Trai",
+                  nameEnglish: "",
+                  latitude: 20.90529,
+                  longitude: 107.32297,
+                },
+                {
+                  nameVietnamese: "Hòn Môi",
+                  nameEnglish: "",
+                  latitude: 20.99597,
+                  longitude: 107.38063,
+                },
+                {
+                  nameVietnamese: "Hòn Mu Mực",
+                  nameEnglish: "",
+                  latitude: 20.87538,
+                  longitude: 107.29683,
+                },
+                {
+                  nameVietnamese: "Hòn Na",
+                  nameEnglish: "",
+                  latitude: 20.78789,
+                  longitude: 107.38516,
+                },
+                {
+                  nameVietnamese: "Hòn Nam Cụt",
+                  nameEnglish: "",
+                  latitude: 21.01483,
+                  longitude: 107.4773,
+                },
+                {
+                  nameVietnamese: "Hòn Năm Đầu Đông",
+                  nameEnglish: "",
+                  latitude: 20.79403,
+                  longitude: 107.33807,
+                },
+                {
+                  nameVietnamese: "Hòn Năm Đầu Nam",
+                  nameEnglish: "",
+                  latitude: 20.78818,
+                  longitude: 107.33755,
+                },
+                {
+                  nameVietnamese: "Hòn Nất Đá",
+                  nameEnglish: "",
+                  latitude: 20.75007,
+                  longitude: 107.37683,
+                },
+                {
+                  nameVietnamese: "Hòn Ngàn Te",
+                  nameEnglish: "",
+                  latitude: 21.04632,
+                  longitude: 107.48195,
+                },
+                {
+                  nameVietnamese: "Hòn Ngang",
+                  nameEnglish: "",
+                  latitude: 21.08695,
+                  longitude: 107.51523,
+                },
+                {
+                  nameVietnamese: "Hòn Nghiên",
+                  nameEnglish: "",
+                  latitude: 21.08421,
+                  longitude: 107.5188,
+                },
+                {
+                  nameVietnamese: "Hòn Ngòi Châu Dưới",
+                  nameEnglish: "",
+                  latitude: 20.99986,
+                  longitude: 107.40384,
+                },
+                {
+                  nameVietnamese: "Hòn Ngón Chân",
+                  nameEnglish: "",
+                  latitude: 21.07146,
+                  longitude: 107.45714,
+                },
+                {
+                  nameVietnamese: "Hòn Nhiêu Tàn",
+                  nameEnglish: "",
+                  latitude: 20.99406,
+                  longitude: 107.42476,
+                },
+                {
+                  nameVietnamese: "Hòn Nhưng",
+                  nameEnglish: "",
+                  latitude: 20.78916,
+                  longitude: 107.43108,
+                },
+                {
+                  nameVietnamese: "Hòn Non Đèn",
+                  nameEnglish: "",
+                  latitude: 21.09403,
+                  longitude: 107.50266,
+                },
+                {
+                  nameVietnamese: "Hòn Núi Cò",
+                  nameEnglish: "",
+                  latitude: 21.0465,
+                  longitude: 107.44454,
+                },
+                {
+                  nameVietnamese: "Hòn Nựng Đá",
+                  nameEnglish: "",
+                  latitude: 21.0209,
+                  longitude: 107.53851,
+                },
+                {
+                  nameVietnamese: "Hòn Ôm Dượng",
+                  nameEnglish: "",
+                  latitude: 21.07768,
+                  longitude: 107.51629,
+                },
+                {
+                  nameVietnamese: "Hòn Ông Bụt",
+                  nameEnglish: "",
+                  latitude: 21.06911,
+                  longitude: 107.57092,
+                },
+                {
+                  nameVietnamese: "Hòn Ống Khói",
+                  nameEnglish: "",
+                  latitude: 21.03961,
+                  longitude: 107.41749,
+                },
+                {
+                  nameVietnamese: "Hòn Ông Sung",
+                  nameEnglish: "",
+                  latitude: 20.90144,
+                  longitude: 107.37913,
+                },
+
+                {
+                  nameVietnamese: "Hòn Ót",
+                  nameEnglish: "",
+                  latitude: 21.04816,
+                  longitude: 107.41707,
+                },
+                {
+                  nameVietnamese: "Hòn Phất Cờ",
+                  nameEnglish: "",
+                  latitude: 21.08797,
+                  longitude: 107.49253,
+                },
+                {
+                  nameVietnamese: "Hòn Phất Cờ Bé",
+                  nameEnglish: "",
+                  latitude: 21.08102,
+                  longitude: 107.4807,
+                },
+                {
+                  nameVietnamese: "Hòn Phất Cờ Nam",
+                  nameEnglish: "",
+                  latitude: 21.08377,
+                  longitude: 107.48884,
+                },
+                {
+                  nameVietnamese: "Hòn Quai Ngọc",
+                  nameEnglish: "",
+                  latitude: 21.03525,
+                  longitude: 107.43391,
+                },
+                {
+                  nameVietnamese: "Hòn Quay",
+                  nameEnglish: "",
+                  latitude: 21.09425,
+                  longitude: 107.38738,
+                },
+                {
+                  nameVietnamese: "Hòn Quay Chèo",
+                  nameEnglish: "",
+                  latitude: 21.03286,
+                  longitude: 107.47243,
+                },
+                {
+                  nameVietnamese: "Hòn Răng Dưới",
+                  nameEnglish: "",
+                  latitude: 21.10801,
+                  longitude: 107.53833,
+                },
+                {
+                  nameVietnamese: "Hòn Răng Hoi",
+                  nameEnglish: "",
+                  latitude: 21.02411,
+                  longitude: 107.46261,
+                },
+                {
+                  nameVietnamese: "Hòn Răng Trên",
+                  nameEnglish: "",
+                  latitude: 21.11545,
+                  longitude: 107.54256,
+                },
+                {
+                  nameVietnamese: "Hòn Rau Sam",
+                  nameEnglish: "",
+                  latitude: 20.91074,
+                  longitude: 107.29442,
+                },
+                {
+                  nameVietnamese: "Hòn Rồng Trên",
+                  nameEnglish: "",
+                  latitude: 21.06214,
+                  longitude: 107.4302,
+                },
+                {
+                  nameVietnamese: "Hòn Sậu Đông",
+                  nameEnglish: "",
+                  latitude: 21.22728,
+                  longitude: 107.69033,
+                },
+                {
+                  nameVietnamese: "Hòn Sẹo Trâu Con",
+                  nameEnglish: "",
+                  latitude: 21.05622,
+                  longitude: 107.49485,
+                },
+                {
+                  nameVietnamese: "Hòn Soi",
+                  nameEnglish: "",
+                  latitude: 21.0079,
+                  longitude: 107.55662,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Chàm",
+                  nameEnglish: "",
+                  latitude: 20.9274,
+                  longitude: 107.43299,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Cọ Đá",
+                  nameEnglish: "",
+                  latitude: 21.05011,
+                  longitude: 107.56367,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Cọ Đất",
+                  nameEnglish: "",
+                  latitude: 21.04932,
+                  longitude: 107.55357,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Đán",
+                  nameEnglish: "",
+                  latitude: 21.01258,
+                  longitude: 107.45833,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Dâu",
+                  nameEnglish: "",
+                  latitude: 20.91448,
+                  longitude: 107.32354,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Đèn",
+                  nameEnglish: "",
+                  latitude: 20.82657,
+                  longitude: 107.29536,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Dứa",
+                  nameEnglish: "",
+                  latitude: 20.84126,
+                  longitude: 107.37018,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Gia",
+                  nameEnglish: "",
+                  latitude: 21.04769,
+                  longitude: 107.55673,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Giai",
+                  nameEnglish: "",
+                  latitude: 20.8931,
+                  longitude: 107.37425,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Lợn Đá",
+                  nameEnglish: "",
+                  latitude: 20.89402,
+                  longitude: 107.41108,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Lợn Đất",
+                  nameEnglish: "",
+                  latitude: 20.89549,
+                  longitude: 107.41931,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Mang Ngoài",
+                  nameEnglish: "",
+                  latitude: 20.83154,
+                  longitude: 107.37062,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Mang Trong",
+                  nameEnglish: "",
+                  latitude: 20.82721,
+                  longitude: 107.36954,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Mao",
+                  nameEnglish: "",
+                  latitude: 21.06506,
+                  longitude: 107.56828,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Mui",
+                  nameEnglish: "",
+                  latitude: 20.9143,
+                  longitude: 107.36655,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Nâu",
+                  nameEnglish: "",
+                  latitude: 21.07289,
+                  longitude: 107.50833,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Phụng",
+                  nameEnglish: "",
+                  latitude: 20.89944,
+                  longitude: 107.37206,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Rừng",
+                  nameEnglish: "",
+                  latitude: 21.04732,
+                  longitude: 107.53851,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Sặt",
+                  nameEnglish: "",
+                  latitude: 20.92253,
+                  longitude: 107.52732,
+                },
+                {
+                  nameVietnamese: "Hòn Sồng",
+                  nameEnglish: "",
+                  latitude: 20.84542,
+                  longitude: 107.38811,
+                },
+                {
+                  nameVietnamese: "Hòn Tài",
+                  nameEnglish: "",
+                  latitude: 21.26899,
+                  longitude: 107.45633,
+                },
+                {
+                  nameVietnamese: "Hòn Tái Xo",
+                  nameEnglish: "",
+                  latitude: 20.99328,
+                  longitude: 107.44779,
+                },
+                {
+                  nameVietnamese: "Hòn Tam Béo",
+                  nameEnglish: "",
+                  latitude: 20.8446,
+                  longitude: 107.32362,
+                },
+                {
+                  nameVietnamese: "Hòn Thằng Người",
+                  nameEnglish: "",
+                  latitude: 21.04975,
+                  longitude: 107.42698,
+                },
+                {
+                  nameVietnamese: "Hòn Thiện Môn",
+                  nameEnglish: "",
+                  latitude: 21.13272,
+                  longitude: 107.61631,
+                },
+                {
+                  nameVietnamese: "Hòn Thỏ Rừng",
+                  nameEnglish: "",
+                  latitude: 21.02487,
+                  longitude: 107.49128,
+                },
+                {
+                  nameVietnamese: "Hòn Thoi",
+                  nameEnglish: "",
+                  latitude: 21.14631,
+                  longitude: 107.54906,
+                },
+                {
+                  nameVietnamese: "Hòn Thoi Bé",
+                  nameEnglish: "",
+                  latitude: 21.11336,
+                  longitude: 107.39075,
+                },
+                {
+                  nameVietnamese: "Hòn Thùm",
+                  nameEnglish: "",
+                  latitude: 20.96883,
+                  longitude: 107.40671,
+                },
+                {
+                  nameVietnamese: "Hòn Thùm Thùm",
+                  nameEnglish: "",
+                  latitude: 20.965,
+                  longitude: 107.4065,
+                },
+                {
+                  nameVietnamese: "Hòn Thung Soi Nhụ",
+                  nameEnglish: "",
+                  latitude: 21.07078,
+                  longitude: 107.48354,
+                },
+                {
+                  nameVietnamese: "Hòn Tơi",
+                  nameEnglish: "",
+                  latitude: 20.90734,
+                  longitude: 107.47655,
+                },
+                {
+                  nameVietnamese: "Hòn Tống Mầm",
+                  nameEnglish: "",
+                  latitude: 21.07106,
+                  longitude: 107.43983,
+                },
+                {
+                  nameVietnamese: "Hòn Trà Lao",
+                  nameEnglish: "",
+                  latitude: 20.94806,
+                  longitude: 107.33074,
+                },
+                {
+                  nameVietnamese: "Hòn Trái Thông",
+                  nameEnglish: "",
+                  latitude: 21.0169,
+                  longitude: 107.41659,
+                },
+                {
+                  nameVietnamese: "Hòn Tròn",
+                  nameEnglish: "",
+                  latitude: 20.95619,
+                  longitude: 107.40185,
+                },
+                {
+                  nameVietnamese: "Hòn Trống",
+                  nameEnglish: "",
+                  latitude: 21.11904,
+                  longitude: 107.54483,
+                },
+                {
+                  nameVietnamese: "Hòn Tỳ Nam",
+                  nameEnglish: "",
+                  latitude: 21.05458,
+                  longitude: 107.43558,
+                },
+                {
+                  nameVietnamese: "Hòn Vạ Bầu Con",
+                  nameEnglish: "",
+                  latitude: 21.05863,
+                  longitude: 107.56074,
+                },
+                {
+                  nameVietnamese: "Hòn Vạ Ráy Con",
+                  nameEnglish: "",
+                  latitude: 20.97412,
+                  longitude: 107.37259,
+                },
+                {
+                  nameVietnamese: "Hòn Vạ Ráy Giữa",
+                  nameEnglish: "",
+                  latitude: 20.98669,
+                  longitude: 107.38897,
+                },
+                {
+                  nameVietnamese: "Hòn Vạ Ráy Ngoài",
+                  nameEnglish: "",
+                  latitude: 20.97636,
+                  longitude: 107.37654,
+                },
+                {
+                  nameVietnamese: "Hòn Vạ Ráy Trong",
+                  nameEnglish: "",
+                  latitude: 20.98708,
+                  longitude: 107.37538,
+                },
+                {
+                  nameVietnamese: "Hòn Văn Châu",
+                  nameEnglish: "",
+                  latitude: 21.0334,
+                  longitude: 107.48257,
+                },
+                {
+                  nameVietnamese: "Hòn Vạn Hộ",
+                  nameEnglish: "",
+                  latitude: 20.91432,
+                  longitude: 107.30341,
+                },
+
+                {
+                  nameVietnamese: "Hòn Vạn Lao",
+                  nameEnglish: "",
+                  latitude: 21.09247,
+                  longitude: 107.59763,
+                },
+                {
+                  nameVietnamese: "Hòn Vạn Tài",
+                  nameEnglish: "",
+                  latitude: 20.89264,
+                  longitude: 107.39149,
+                },
+                {
+                  nameVietnamese: "Hòn Vang Dưới",
+                  nameEnglish: "",
+                  latitude: 21.03108,
+                  longitude: 107.51353,
+                },
+                {
+                  nameVietnamese: "Hòn Vang Trên",
+                  nameEnglish: "",
+                  latitude: 21.03689,
+                  longitude: 107.51801,
+                },
+                {
+                  nameVietnamese: "Hòn Vành",
+                  nameEnglish: "",
+                  latitude: 21.13782,
+                  longitude: 107.64612,
+                },
+                {
+                  nameVietnamese: "Hòn Ve",
+                  nameEnglish: "",
+                  latitude: 20.97135,
+                  longitude: 107.36898,
+                },
+                {
+                  nameVietnamese: "Hòn Vích",
+                  nameEnglish: "",
+                  latitude: 20.9545,
+                  longitude: 107.35144,
+                },
+                {
+                  nameVietnamese: "Hòn Vịt Mòng",
+                  nameEnglish: "",
+                  latitude: 21.04906,
+                  longitude: 107.5257,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng",
+                  nameEnglish: "",
+                  latitude: 20.84161,
+                  longitude: 107.33077,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Chùa",
+                  nameEnglish: "",
+                  latitude: 20.86931,
+                  longitude: 107.30478,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Chùa Đá",
+                  nameEnglish: "",
+                  latitude: 20.87356,
+                  longitude: 107.30445,
+                },
+                {
+                  nameVietnamese: "Hòn Xám",
+                  nameEnglish: "",
+                  latitude: 20.81372,
+                  longitude: 107.338,
+                },
+                {
+                  nameVietnamese: "Hòn Xương Rồng",
+                  nameEnglish: "",
+                  latitude: 20.87279,
+                  longitude: 107.31102,
+                },
+                {
+                  nameVietnamese: "Cồn Cái Đe",
+                  nameEnglish: "",
+                  latitude: 20.87161,
+                  longitude: 107.3955,
+                },
+                {
+                  nameVietnamese: "Cồn Cây Nam",
+                  nameEnglish: "",
+                  latitude: 21.27192,
+                  longitude: 107.45176,
+                },
+                {
+                  nameVietnamese: "Cồn Dầm",
+                  nameEnglish: "",
+                  latitude: 20.92695,
+                  longitude: 107.5221,
+                },
+                {
+                  nameVietnamese: "Cồn Đen (Vân Đồn)",
+                  nameEnglish: "",
+                  latitude: 21.27957,
+                  longitude: 107.46482,
+                },
+                {
+                  nameVietnamese: "Cồn Sàng",
+                  nameEnglish: "",
+                  latitude: 20.9249,
+                  longitude: 107.52289,
+                },
+                {
+                  nameVietnamese: "Cồn Vĩ Lái",
+                  nameEnglish: "",
+                  latitude: 20.85917,
+                  longitude: 107.33362,
+                },
+              ],
+            },
+          },
+          {
+            description: {
+              subGovType: "District",
+              name: "Tiên Yên",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Cái Mắt",
+                  nameEnglish: "",
+                  latitude: 21.27271,
+                  longitude: 107.43426,
+                },
+                {
+                  nameVietnamese: "Đảo Đồng Rui",
+                  nameEnglish: "",
+                  latitude: 21.22634,
+                  longitude: 107.3969,
+                },
+                {
+                  nameVietnamese: "Hòn Bé Ngoài",
+                  nameEnglish: "",
+                  latitude: 21.22858,
+                  longitude: 107.43727,
+                },
+                {
+                  nameVietnamese: "Cồn Bánh Lái",
+                  nameEnglish: "",
+                  latitude: 21.2782,
+                  longitude: 107.44875,
+                },
+                {
+                  nameVietnamese: "Cồn Cây Bắc",
+                  nameEnglish: "",
+                  latitude: 21.27744,
+                  longitude: 107.45034,
+                },
+                {
+                  nameVietnamese: "Cồn Sú",
+                  nameEnglish: "",
+                  latitude: 21.28413,
+                  longitude: 107.45915,
+                },
+              ],
+            },
+          },
+          {
+            description: {
+              subGovType: "City",
+              name: "Cẩm Phả",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Hà Loan",
+                  nameEnglish: "",
+                  latitude: 21.1532,
+                  longitude: 107.39886,
+                },
+                {
+                  nameVietnamese: "Hòn Am (h. Ấm)",
+                  nameEnglish: "",
+                  latitude: 20.95712,
+                  longitude: 107.23262,
+                },
+                {
+                  nameVietnamese: "Hòn Ao",
+                  nameEnglish: "",
+                  latitude: 20.98898,
+                  longitude: 107.23978,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Chạc",
+                  nameEnglish: "",
+                  latitude: 20.9423,
+                  longitude: 107.2725,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Cửa",
+                  nameEnglish: "",
+                  latitude: 20.98736,
+                  longitude: 107.22854,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Đinh",
+                  nameEnglish: "",
+                  latitude: 20.98771,
+                  longitude: 107.25333,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Đinh Con",
+                  nameEnglish: "",
+                  latitude: 20.98662,
+                  longitude: 107.25702,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Hang",
+                  nameEnglish: "",
+                  latitude: 20.99752,
+                  longitude: 107.36285,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Hòn",
+                  nameEnglish: "",
+                  latitude: 20.95179,
+                  longitude: 107.22402,
+                },
+                {
+                  nameVietnamese: "Hòn Bầu Dục",
+                  nameEnglish: "",
+                  latitude: 20.96472,
+                  longitude: 107.22551,
+                },
+                {
+                  nameVietnamese: "Hòn Bé",
+                  nameEnglish: "",
+                  latitude: 20.97718,
+                  longitude: 107.23858,
+                },
+                {
+                  nameVietnamese: "Hòn Bọ Cắn",
+                  nameEnglish: "",
+                  latitude: 20.9421,
+                  longitude: 107.29265,
+                },
+                {
+                  nameVietnamese: "Hòn Bọ Cắn Ngoài",
+                  nameEnglish: "",
+                  latitude: 20.93702,
+                  longitude: 107.28823,
+                },
+                {
+                  nameVietnamese: "Hòn Buộm",
+                  nameEnglish: "",
+                  latitude: 20.97894,
+                  longitude: 107.29291,
+                },
+                {
+                  nameVietnamese: "Hòn Buộm Con",
+                  nameEnglish: "",
+                  latitude: 20.98162,
+                  longitude: 107.29986,
+                },
+                {
+                  nameVietnamese: "Hòn Cái Cửa",
+                  nameEnglish: "",
+                  latitude: 20.95561,
+                  longitude: 107.2311,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Vọ",
+                  nameEnglish: "",
+                  latitude: 20.97977,
+                  longitude: 107.26763,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Vọ Con",
+                  nameEnglish: "",
+                  latitude: 20.97595,
+                  longitude: 107.26141,
+                },
+                {
+                  nameVietnamese: "Hòn Cát",
+                  nameEnglish: "",
+                  latitude: 20.9807,
+                  longitude: 107.23616,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Nhọn",
+                  nameEnglish: "",
+                  latitude: 20.98248,
+                  longitude: 107.24456,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Câu (h.Người Đứng)",
+                  nameEnglish: "",
+                  latitude: 20.95142,
+                  longitude: 107.21459,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Chay",
+                  nameEnglish: "",
+                  latitude: 20.96704,
+                  longitude: 107.23436,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Giang",
+                  nameEnglish: "",
+                  latitude: 20.95156,
+                  longitude: 107.19631,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Khế",
+                  nameEnglish: "",
+                  latitude: 20.95657,
+                  longitude: 107.21811,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Nứa",
+                  nameEnglish: "",
+                  latitude: 20.95794,
+                  longitude: 107.20824,
+                },
+                {
+                  nameVietnamese: "Hòn Chết Chèo",
+                  nameEnglish: "",
+                  latitude: 20.98697,
+                  longitude: 107.34634,
+                },
+                {
+                  nameVietnamese: "Hòn Chó",
+                  nameEnglish: "",
+                  latitude: 20.95488,
+                  longitude: 107.24306,
+                },
+                {
+                  nameVietnamese: "Hòn Chó (B)",
+                  nameEnglish: "",
+                  latitude: 20.99102,
+                  longitude: 107.25589,
+                },
+                {
+                  nameVietnamese: "Hòn Cỏ Dưới",
+                  nameEnglish: "",
+                  latitude: 20.94778,
+                  longitude: 107.27339,
+                },
+                {
+                  nameVietnamese: "Hòn Cỏ To",
+                  nameEnglish: "",
+                  latitude: 20.94937,
+                  longitude: 107.26897,
+                },
+                {
+                  nameVietnamese: "Hòn Cổ Trời",
+                  nameEnglish: "",
+                  latitude: 20.97681,
+                  longitude: 107.27345,
+                },
+                {
+                  nameVietnamese: "Hòn Cơi Ngựa",
+                  nameEnglish: "",
+                  latitude: 20.97271,
+                  longitude: 107.22884,
+                },
+                {
+                  nameVietnamese: "Hòn Con Mèo",
+                  nameEnglish: "",
+                  latitude: 20.95296,
+                  longitude: 107.21965,
+                },
+                {
+                  nameVietnamese: "Hòn Cửa Vọng",
+                  nameEnglish: "",
+                  latitude: 20.98368,
+                  longitude: 107.25081,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Ba",
+                  nameEnglish: "",
+                  latitude: 20.98977,
+                  longitude: 107.34139,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Ba ?",
+                  nameEnglish: "",
+                  latitude: 20.99876,
+                  longitude: 107.36763,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Bàn",
+                  nameEnglish: "",
+                  latitude: 20.9851,
+                  longitude: 107.35031,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Đỏ",
+                  nameEnglish: "",
+                  latitude: 20.9896,
+                  longitude: 107.34603,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Trong",
+                  nameEnglish: "",
+                  latitude: 20.97217,
+                  longitude: 107.32375,
+                },
+                {
+                  nameVietnamese: "Hòn Dậu Dưa",
+                  nameEnglish: "",
+                  latitude: 20.9571,
+                  longitude: 107.29342,
+                },
+                {
+                  nameVietnamese: "Hòn Dọc Mòi",
+                  nameEnglish: "",
+                  latitude: 20.98586,
+                  longitude: 107.27613,
+                },
+                {
+                  nameVietnamese: "Hòn Độc Xám",
+                  nameEnglish: "",
+                  latitude: 20.98508,
+                  longitude: 107.29089,
+                },
+                {
+                  nameVietnamese: "Hòn Dương",
+                  nameEnglish: "",
+                  latitude: 20.97302,
+                  longitude: 107.26824,
+                },
+                {
+                  nameVietnamese: "Hòn Gà Chọi",
+                  nameEnglish: "",
+                  latitude: 20.94682,
+                  longitude: 107.26416,
+                },
+                {
+                  nameVietnamese: "Hòn Gà Trống",
+                  nameEnglish: "",
+                  latitude: 20.96619,
+                  longitude: 107.23179,
+                },
+
+                {
+                  nameVietnamese: "Hòn Giếng Xam",
+                  nameEnglish: "",
+                  latitude: 20.99033,
+                  longitude: 107.29343,
+                },
+                {
+                  nameVietnamese: "Hòn Hà Lăn",
+                  nameEnglish: "",
+                  latitude: 20.95181,
+                  longitude: 107.305,
+                },
+                {
+                  nameVietnamese: "Hòn Hà Lăn Con",
+                  nameEnglish: "",
+                  latitude: 20.94801,
+                  longitude: 107.30625,
+                },
+                {
+                  nameVietnamese: "Hòn Hang",
+                  nameEnglish: "",
+                  latitude: 20.98951,
+                  longitude: 107.36084,
+                },
+                {
+                  nameVietnamese: "Hòn Hươu Cao Cổ",
+                  nameEnglish: "",
+                  latitude: 20.96709,
+                  longitude: 107.22124,
+                },
+                {
+                  nameVietnamese: "Hòn Lạc",
+                  nameEnglish: "",
+                  latitude: 20.97756,
+                  longitude: 107.27914,
+                },
+                {
+                  nameVietnamese: "Hòn Long Cong",
+                  nameEnglish: "",
+                  latitude: 20.97008,
+                  longitude: 107.24095,
+                },
+                {
+                  nameVietnamese: "Hòn Lướt (h.Núi Lướt)",
+                  nameEnglish: "",
+                  latitude: 20.99289,
+                  longitude: 107.35174,
+                },
+                {
+                  nameVietnamese: "Hòn Mái Nhà",
+                  nameEnglish: "",
+                  latitude: 20.95094,
+                  longitude: 107.24645,
+                },
+                {
+                  nameVietnamese: "Hòn Mái Nhà B",
+                  nameEnglish: "",
+                  latitude: 20.98287,
+                  longitude: 107.27884,
+                },
+                {
+                  nameVietnamese: "Hòn Mũi Đuối",
+                  nameEnglish: "",
+                  latitude: 20.93805,
+                  longitude: 107.27529,
+                },
+                {
+                  nameVietnamese: "Hòn Nét Con",
+                  nameEnglish: "",
+                  latitude: 20.92771,
+                  longitude: 107.28274,
+                },
+                {
+                  nameVietnamese: "Hòn Nét Giữa",
+                  nameEnglish: "",
+                  latitude: 20.91031,
+                  longitude: 107.26184,
+                },
+                {
+                  nameVietnamese: "Hòn Nhạn Bé",
+                  nameEnglish: "",
+                  latitude: 20.9653,
+                  longitude: 107.2416,
+                },
+                {
+                  nameVietnamese: "Hòn Nhạn To",
+                  nameEnglish: "",
+                  latitude: 20.96097,
+                  longitude: 107.2378,
+                },
+                {
+                  nameVietnamese: "Hòn Nón Giữa",
+                  nameEnglish: "",
+                  latitude: 20.974,
+                  longitude: 107.23931,
+                },
+                {
+                  nameVietnamese: "Hòn Nón Ngoài",
+                  nameEnglish: "",
+                  latitude: 20.97262,
+                  longitude: 107.24102,
+                },
+                {
+                  nameVietnamese: "Hòn Nón Trong",
+                  nameEnglish: "",
+                  latitude: 20.97575,
+                  longitude: 107.23428,
+                },
+                {
+                  nameVietnamese: "Hòn Ông Cụ",
+                  nameEnglish: "",
+                  latitude: 20.96651,
+                  longitude: 107.30555,
+                },
+                {
+                  nameVietnamese: "Hòn Ông Cụ Bắc",
+                  nameEnglish: "",
+                  latitude: 20.97349,
+                  longitude: 107.31008,
+                },
+                {
+                  nameVietnamese: "Hòn Ông Cụ Con",
+                  nameEnglish: "",
+                  latitude: 20.95313,
+                  longitude: 107.30968,
+                },
+                {
+                  nameVietnamese: "Hòn Ót",
+                  nameEnglish: "",
+                  latitude: 20.97714,
+                  longitude: 107.28423,
+                },
+                {
+                  nameVietnamese: "Hòn Ót Con",
+                  nameEnglish: "",
+                  latitude: 20.97284,
+                  longitude: 107.28568,
+                },
+                {
+                  nameVietnamese: "Hòn Phổng",
+                  nameEnglish: "",
+                  latitude: 20.95224,
+                  longitude: 107.2642,
+                },
+                {
+                  nameVietnamese: "Hòn Quạ",
+                  nameEnglish: "",
+                  latitude: 20.98355,
+                  longitude: 107.34383,
+                },
+                {
+                  nameVietnamese: "Hòn Quạ Con",
+                  nameEnglish: "",
+                  latitude: 20.98267,
+                  longitude: 107.34677,
+                },
+                {
+                  nameVietnamese: "Hòn Quận",
+                  nameEnglish: "",
+                  latitude: 20.98057,
+                  longitude: 107.274,
+                },
+                {
+                  nameVietnamese: "Hòn Rều",
+                  nameEnglish: "",
+                  latitude: 20.98504,
+                  longitude: 107.31148,
+                },
+                {
+                  nameVietnamese: "Hòn Rều Con",
+                  nameEnglish: "",
+                  latitude: 20.98211,
+                  longitude: 107.30935,
+                },
+                {
+                  nameVietnamese: "Hòn Rều Đất",
+                  nameEnglish: "",
+                  latitude: 20.98116,
+                  longitude: 107.32018,
+                },
+                {
+                  nameVietnamese: "Hòn Riềng",
+                  nameEnglish: "",
+                  latitude: 20.98463,
+                  longitude: 107.2351,
+                },
+                {
+                  nameVietnamese: "Hòn Rùa",
+                  nameEnglish: "",
+                  latitude: 20.99355,
+                  longitude: 107.30097,
+                },
+                {
+                  nameVietnamese: "Hòn Sáu",
+                  nameEnglish: "",
+                  latitude: 20.9508,
+                  longitude: 107.21841,
+                },
+                {
+                  nameVietnamese: "Hòn Sở",
+                  nameEnglish: "",
+                  latitude: 20.98991,
+                  longitude: 107.22291,
+                },
+                {
+                  nameVietnamese: "Hòn Than",
+                  nameEnglish: "",
+                  latitude: 20.95541,
+                  longitude: 107.29881,
+                },
+                {
+                  nameVietnamese: "Hòn Than Con",
+                  nameEnglish: "",
+                  latitude: 20.95912,
+                  longitude: 107.30163,
+                },
+                {
+                  nameVietnamese: "Hòn Thêm",
+                  nameEnglish: "",
+                  latitude: 20.97564,
+                  longitude: 107.27023,
+                },
+                {
+                  nameVietnamese: "Hòn Tổng Mười",
+                  nameEnglish: "",
+                  latitude: 20.95387,
+                  longitude: 107.24891,
+                },
+                {
+                  nameVietnamese: "Hòn Trâu",
+                  nameEnglish: "",
+                  latitude: 20.95227,
+                  longitude: 107.23403,
+                },
+                {
+                  nameVietnamese: "Hòn Trục",
+                  nameEnglish: "",
+                  latitude: 20.96742,
+                  longitude: 107.22568,
+                },
+                {
+                  nameVietnamese: "Hòn Vạn Buồng",
+                  nameEnglish: "",
+                  latitude: 20.95022,
+                  longitude: 107.26058,
+                },
+                {
+                  nameVietnamese: "Hòn Vọng",
+                  nameEnglish: "",
+                  latitude: 20.99267,
+                  longitude: 107.29396,
+                },
+                {
+                  nameVietnamese: "Hòn Vọng Mép",
+                  nameEnglish: "",
+                  latitude: 20.95598,
+                  longitude: 107.28791,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Giếng",
+                  nameEnglish: "",
+                  latitude: 20.99091,
+                  longitude: 107.30897,
+                },
+                {
+                  nameVietnamese: "Hòn Xe Chỉ",
+                  nameEnglish: "",
+                  latitude: 20.95509,
+                  longitude: 107.23655,
+                },
+              ],
+            },
+          },
+          {
+            description: {
+              subGovType: "City",
+              name: "Hạ Long",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Đầu Bê",
+                  nameEnglish: "",
+                  latitude: 20.75339,
+                  longitude: 107.13611,
+                },
+                {
+                  nameVietnamese: "Đảo Đầu Gỗ",
+                  nameEnglish: "",
+                  latitude: 20.90645,
+                  longitude: 107.02034,
+                },
+                {
+                  nameVietnamese: "Đảo Bồ Hòn",
+                  nameEnglish: "",
+                  latitude: 20.83971,
+                  longitude: 107.10056,
+                },
+                {
+                  nameVietnamese: "Đảo Cống Đỏ",
+                  nameEnglish: "",
+                  latitude: 20.87706,
+                  longitude: 107.19883,
+                },
+                {
+                  nameVietnamese: "Đảo Hang Trai",
+                  nameEnglish: "",
+                  latitude: 20.7873,
+                  longitude: 107.12273,
+                },
+                {
+                  nameVietnamese: "Đảo Lõm Bò",
+                  nameEnglish: "",
+                  latitude: 20.83476,
+                  longitude: 107.07944,
+                },
+                {
+                  nameVietnamese: "Đảo Tùng Lâm",
+                  nameEnglish: "",
+                  latitude: 20.87315,
+                  longitude: 107.01007,
+                },
+                {
+                  nameVietnamese: "Đảo Tuần Châu",
+                  nameEnglish: "",
+                  latitude: 20.9291,
+                  longitude: 106.98915,
+                },
+                {
+                  nameVietnamese: "Đảo Vạn Giò",
+                  nameEnglish: "",
+                  latitude: 20.84035,
+                  longitude: 107.27901,
+                },
+                {
+                  nameVietnamese: "Đảo Xa Tô",
+                  nameEnglish: "",
+                  latitude: 20.96867,
+                  longitude: 107.07191,
+                },
+                {
+                  nameVietnamese: "Hòn Ếch",
+                  nameEnglish: "",
+                  latitude: 20.87873,
+                  longitude: 107.24153,
+                },
+                {
+                  nameVietnamese: "Hòn Ông Lệnh",
+                  nameEnglish: "",
+                  latitude: 20.83007,
+                  longitude: 107.185,
+                },
+                {
+                  nameVietnamese: "Hòn Ông Lệnh Con",
+                  nameEnglish: "",
+                  latitude: 20.83247,
+                  longitude: 107.18247,
+                },
+                {
+                  nameVietnamese: "Hòn Ông Mó",
+                  nameEnglish: "",
+                  latitude: 20.89217,
+                  longitude: 107.15966,
+                },
+                {
+                  nameVietnamese: "Hòn Ông Phật",
+                  nameEnglish: "",
+                  latitude: 20.75676,
+                  longitude: 107.15822,
+                },
+                {
+                  nameVietnamese: "Hòn Ông Tơ",
+                  nameEnglish: "",
+                  latitude: 20.82865,
+                  longitude: 107.11327,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Đồ",
+                  nameEnglish: "",
+                  latitude: 20.83256,
+                  longitude: 107.20693,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Lẻ",
+                  nameEnglish: "",
+                  latitude: 20.73582,
+                  longitude: 107.15072,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Lẻ Giữa",
+                  nameEnglish: "",
+                  latitude: 20.73882,
+                  longitude: 107.15374,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Mài",
+                  nameEnglish: "",
+                  latitude: 20.88684,
+                  longitude: 107.20097,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Vụn",
+                  nameEnglish: "",
+                  latitude: 20.74277,
+                  longitude: 107.19202,
+                },
+                {
+                  nameVietnamese: "Hòn Đông Cuộng",
+                  nameEnglish: "",
+                  latitude: 20.82304,
+                  longitude: 107.25601,
+                },
+                {
+                  nameVietnamese: "Hòn Đông Kênh",
+                  nameEnglish: "",
+                  latitude: 20.76797,
+                  longitude: 107.14393,
+                },
+                {
+                  nameVietnamese: "Hòn Đông Kênh Trong",
+                  nameEnglish: "",
+                  latitude: 20.77113,
+                  longitude: 107.14453,
+                },
+                {
+                  nameVietnamese: "Hòn Đơ Lang",
+                  nameEnglish: "",
+                  latitude: 20.89259,
+                  longitude: 106.95743,
+                },
+                {
+                  nameVietnamese: "Hòn Đại Thành",
+                  nameEnglish: "",
+                  latitude: 20.85419,
+                  longitude: 107.05119,
+                },
+                {
+                  nameVietnamese: "Hòn Đại Thành Đông",
+                  nameEnglish: "",
+                  latitude: 20.85434,
+                  longitude: 107.0561,
+                },
+                {
+                  nameVietnamese: "Hòn Đại Thành Bắc",
+                  nameEnglish: "",
+                  latitude: 20.85083,
+                  longitude: 107.06207,
+                },
+                {
+                  nameVietnamese: "Hòn Đại Thành Nam",
+                  nameEnglish: "",
+                  latitude: 20.84882,
+                  longitude: 107.06318,
+                },
+                {
+                  nameVietnamese: "Hòn Đỏ Lòng Bắc",
+                  nameEnglish: "",
+                  latitude: 20.8384,
+                  longitude: 107.25576,
+                },
+                {
+                  nameVietnamese: "Hòn Đọc",
+                  nameEnglish: "",
+                  latitude: 20.92066,
+                  longitude: 107.16572,
+                },
+                {
+                  nameVietnamese: "Hòn Đồng Bìa",
+                  nameEnglish: "",
+                  latitude: 20.92276,
+                  longitude: 107.18179,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Đông Cuộng",
+                  nameEnglish: "",
+                  latitude: 20.81657,
+                  longitude: 107.25797,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Bạc",
+                  nameEnglish: "",
+                  latitude: 20.90116,
+                  longitude: 107.15945,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Dương",
+                  nameEnglish: "",
+                  latitude: 20.90849,
+                  longitude: 107.10936,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Giêng",
+                  nameEnglish: "",
+                  latitude: 20.908,
+                  longitude: 107.11843,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Giếng Cụt",
+                  nameEnglish: "",
+                  latitude: 20.87681,
+                  longitude: 107.28091,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Lợn",
+                  nameEnglish: "",
+                  latitude: 20.82474,
+                  longitude: 107.18123,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Mối",
+                  nameEnglish: "",
+                  latitude: 20.92463,
+                  longitude: 107.1532,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Tây",
+                  nameEnglish: "",
+                  latitude: 20.88828,
+                  longitude: 107.10229,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Trâu",
+                  nameEnglish: "",
+                  latitude: 20.8484,
+                  longitude: 107.12308,
+                },
+                {
+                  nameVietnamese: "Hòn Độc",
+                  nameEnglish: "",
+                  latitude: 20.97932,
+                  longitude: 107.06968,
+                },
+                {
+                  nameVietnamese: "Hòn Đội Nón",
+                  nameEnglish: "",
+                  latitude: 20.91527,
+                  longitude: 107.10591,
+                },
+                {
+                  nameVietnamese: "Hòn Đen",
+                  nameEnglish: "",
+                  latitude: 20.86292,
+                  longitude: 107.1568,
+                },
+                {
+                  nameVietnamese: "Hòn Đen Trong",
+                  nameEnglish: "",
+                  latitude: 20.92205,
+                  longitude: 107.11235,
+                },
+                {
+                  nameVietnamese: "Hòn Đeo Còm",
+                  nameEnglish: "",
+                  latitude: 20.8091,
+                  longitude: 107.26864,
+                },
+                {
+                  nameVietnamese: "Hòn Đeo Dưới",
+                  nameEnglish: "",
+                  latitude: 20.80485,
+                  longitude: 107.26835,
+                },
+                {
+                  nameVietnamese: "Hòn Đèn",
+                  nameEnglish: "",
+                  latitude: 20.90185,
+                  longitude: 107.13962,
+                },
+                {
+                  nameVietnamese: "Hòn Đinh Gắm",
+                  nameEnglish: "",
+                  latitude: 20.77388,
+                  longitude: 107.14062,
+                },
+                {
+                  nameVietnamese: "Hòn Đo",
+                  nameEnglish: "",
+                  latitude: 20.9355,
+                  longitude: 107.08516,
+                },
+
+                {
+                  nameVietnamese: "Hòn Đế Bụt",
+                  nameEnglish: "",
+                  latitude: 20.88682,
+                  longitude: 106.9655,
+                },
+                {
+                  nameVietnamese: "Hòn Đo Nước",
+                  nameEnglish: "",
+                  latitude: 20.76538,
+                  longitude: 107.1325,
+                },
+                {
+                  nameVietnamese: "Hòn Đũa",
+                  nameEnglish: "",
+                  latitude: 20.92775,
+                  longitude: 107.20202,
+                },
+                {
+                  nameVietnamese: "Hòn Đũa",
+                  nameEnglish: "",
+                  latitude: 20.79572,
+                  longitude: 107.11425,
+                },
+                {
+                  nameVietnamese: "Hòn Đũa Cánh Khiên",
+                  nameEnglish: "",
+                  latitude: 20.81894,
+                  longitude: 107.23016,
+                },
+                {
+                  nameVietnamese: "Hòn A",
+                  nameEnglish: "",
+                  latitude: 20.8801,
+                  longitude: 107.16707,
+                },
+                {
+                  nameVietnamese: "Hòn Ác",
+                  nameEnglish: "",
+                  latitude: 20.86621,
+                  longitude: 107.04881,
+                },
+                {
+                  nameVietnamese: "Hòn Ang",
+                  nameEnglish: "",
+                  latitude: 20.84817,
+                  longitude: 107.16579,
+                },
+                {
+                  nameVietnamese: "Hòn Bái Đông",
+                  nameEnglish: "",
+                  latitude: 20.77361,
+                  longitude: 107.18413,
+                },
+                {
+                  nameVietnamese: "Hòn Bái Bé",
+                  nameEnglish: "",
+                  latitude: 20.77444,
+                  longitude: 107.17339,
+                },
+                {
+                  nameVietnamese: "Hòn Bái Giữa",
+                  nameEnglish: "",
+                  latitude: 20.7788,
+                  longitude: 107.17628,
+                },
+                {
+                  nameVietnamese: "Hòn Bái Hú",
+                  nameEnglish: "",
+                  latitude: 20.77767,
+                  longitude: 107.17043,
+                },
+                {
+                  nameVietnamese: "Hòn Bánh Chưng",
+                  nameEnglish: "",
+                  latitude: 20.85002,
+                  longitude: 107.05092,
+                },
+                {
+                  nameVietnamese: "Hòn Bằng",
+                  nameEnglish: "",
+                  latitude: 20.94366,
+                  longitude: 107.1031,
+                },
+                {
+                  nameVietnamese: "Hòn Bìa Đông",
+                  nameEnglish: "",
+                  latitude: 20.92589,
+                  longitude: 107.18828,
+                },
+                {
+                  nameVietnamese: "Hòn Bình Thiếc",
+                  nameEnglish: "",
+                  latitude: 20.8155,
+                  longitude: 107.22109,
+                },
+                {
+                  nameVietnamese: "Hòn Bà Cô Tây",
+                  nameEnglish: "",
+                  latitude: 20.88301,
+                  longitude: 107.20988,
+                },
+                {
+                  nameVietnamese: "Hòn Bà Hai",
+                  nameEnglish: "",
+                  latitude: 20.9155,
+                  longitude: 107.11801,
+                },
+                {
+                  nameVietnamese: "Hòn Bà Lại",
+                  nameEnglish: "",
+                  latitude: 20.86884,
+                  longitude: 107.12302,
+                },
+                {
+                  nameVietnamese: "Hòn Bài",
+                  nameEnglish: "",
+                  latitude: 20.73748,
+                  longitude: 107.17895,
+                },
+                {
+                  nameVietnamese: "Hòn Bài Thơ",
+                  nameEnglish: "",
+                  latitude: 20.93604,
+                  longitude: 107.11214,
+                },
+                {
+                  nameVietnamese: "Hòn Bảy Giếng",
+                  nameEnglish: "",
+                  latitude: 20.86457,
+                  longitude: 107.1367,
+                },
+                {
+                  nameVietnamese: "Hòn Bãi",
+                  nameEnglish: "",
+                  latitude: 20.74723,
+                  longitude: 107.19312,
+                },
+                {
+                  nameVietnamese: "Hòn Bồ Câu",
+                  nameEnglish: "",
+                  latitude: 20.86163,
+                  longitude: 107.13065,
+                },
+                {
+                  nameVietnamese: "Hòn Bồ Câu Con",
+                  nameEnglish: "",
+                  latitude: 20.85926,
+                  longitude: 107.12832,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Cầu",
+                  nameEnglish: "",
+                  latitude: 20.76177,
+                  longitude: 107.19205,
+                },
+                {
+                  nameVietnamese: "Hòn Bê Cụt Đầu",
+                  nameEnglish: "",
+                  latitude: 20.74171,
+                  longitude: 107.15812,
+                },
+                {
+                  nameVietnamese: "Hòn Bê Hẹn Đông",
+                  nameEnglish: "",
+                  latitude: 20.87062,
+                  longitude: 107.03191,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Hòn",
+                  nameEnglish: "",
+                  latitude: 20.82391,
+                  longitude: 107.12631,
+                },
+                {
+                  nameVietnamese: "Hòn Bọ Hung",
+                  nameEnglish: "",
+                  latitude: 20.84714,
+                  longitude: 107.17716,
+                },
+                {
+                  nameVietnamese: "Hòn Bồ Muối",
+                  nameEnglish: "",
+                  latitude: 20.85251,
+                  longitude: 107.26764,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Nén Cặp",
+                  nameEnglish: "",
+                  latitude: 20.87454,
+                  longitude: 107.25095,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Nén Cụt",
+                  nameEnglish: "",
+                  latitude: 20.88265,
+                  longitude: 107.25023,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Nén Vụng",
+                  nameEnglish: "",
+                  latitude: 20.87815,
+                  longitude: 107.24719,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Răng",
+                  nameEnglish: "",
+                  latitude: 20.82018,
+                  longitude: 107.19782,
+                },
+                {
+                  nameVietnamese: "Hòn Bồng",
+                  nameEnglish: "",
+                  latitude: 20.86555,
+                  longitude: 107.02757,
+                },
+                {
+                  nameVietnamese: "Hòn Bồng A",
+                  nameEnglish: "",
+                  latitude: 20.84836,
+                  longitude: 107.05562,
+                },
+                {
+                  nameVietnamese: "Hòn Bóng Con",
+                  nameEnglish: "",
+                  latitude: 20.8701,
+                  longitude: 107.01671,
+                },
+                {
+                  nameVietnamese: "Hòn Bè Vó Con",
+                  nameEnglish: "",
+                  latitude: 20.91346,
+                  longitude: 107.14785,
+                },
+                {
+                  nameVietnamese: "Hòn Bè Vỡ",
+                  nameEnglish: "",
+                  latitude: 20.91007,
+                  longitude: 107.15173,
+                },
+                {
+                  nameVietnamese: "Hòn Bùi Xám",
+                  nameEnglish: "",
+                  latitude: 20.83593,
+                  longitude: 107.12048,
+                },
+                {
+                  nameVietnamese: "Hòn Bề Hẹn Dài",
+                  nameEnglish: "",
+                  latitude: 20.87399,
+                  longitude: 107.03351,
+                },
+                {
+                  nameVietnamese: "Hòn Bom Mê",
+                  nameEnglish: "",
+                  latitude: 20.87443,
+                  longitude: 106.99141,
+                },
+                {
+                  nameVietnamese: "Hòn Bụt",
+                  nameEnglish: "",
+                  latitude: 20.85972,
+                  longitude: 107.26258,
+                },
+                {
+                  nameVietnamese: "Hòn Bụt Mọc",
+                  nameEnglish: "",
+                  latitude: 20.89393,
+                  longitude: 107.15046,
+                },
+                {
+                  nameVietnamese: "Hòn Bu Vẽ",
+                  nameEnglish: "",
+                  latitude: 20.80963,
+                  longitude: 107.16723,
+                },
+                {
+                  nameVietnamese: "Hòn Cái Bè",
+                  nameEnglish: "",
+                  latitude: 20.88631,
+                  longitude: 106.95667,
+                },
+                {
+                  nameVietnamese: "Hòn Cái Nồng",
+                  nameEnglish: "",
+                  latitude: 20.76225,
+                  longitude: 107.18886,
+                },
+                {
+                  nameVietnamese: "Hòn Cái Tai",
+                  nameEnglish: "",
+                  latitude: 20.81072,
+                  longitude: 107.12125,
+                },
+                {
+                  nameVietnamese: "Hòn Cái Tráp",
+                  nameEnglish: "",
+                  latitude: 20.93956,
+                  longitude: 107.19877,
+                },
+
+                {
+                  nameVietnamese: "Hòn Cánh Khiên",
+                  nameEnglish: "",
+                  latitude: 20.82124,
+                  longitude: 107.23319,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Dế",
+                  nameEnglish: "",
+                  latitude: 20.8824,
+                  longitude: 106.97213,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Dế Con",
+                  nameEnglish: "",
+                  latitude: 20.87962,
+                  longitude: 106.9744,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Lán",
+                  nameEnglish: "",
+                  latitude: 20.85959,
+                  longitude: 107.08538,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Oăm",
+                  nameEnglish: "",
+                  latitude: 20.83215,
+                  longitude: 107.25999,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Oăm Con",
+                  nameEnglish: "",
+                  latitude: 20.83246,
+                  longitude: 107.25608,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Trong",
+                  nameEnglish: "",
+                  latitude: 20.90102,
+                  longitude: 107.1737,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Táo Con",
+                  nameEnglish: "",
+                  latitude: 20.88579,
+                  longitude: 107.16393,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Chanh",
+                  nameEnglish: "",
+                  latitude: 20.87866,
+                  longitude: 107.17476,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Si",
+                  nameEnglish: "",
+                  latitude: 20.88305,
+                  longitude: 107.25201,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Si Dưới",
+                  nameEnglish: "",
+                  latitude: 20.89208,
+                  longitude: 107.19231,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Sinh Tây",
+                  nameEnglish: "",
+                  latitude: 20.85816,
+                  longitude: 107.14915,
+                },
+                {
+                  nameVietnamese: "Hòn Cây Táo",
+                  nameEnglish: "",
+                  latitude: 20.88028,
+                  longitude: 107.01309,
+                },
+                {
+                  nameVietnamese: "Hòn Cỏ",
+                  nameEnglish: "",
+                  latitude: 20.93472,
+                  longitude: 107.18432,
+                },
+                {
+                  nameVietnamese: "Hòn Cỏ",
+                  nameEnglish: "",
+                  latitude: 20.88215,
+                  longitude: 107.16955,
+                },
+                {
+                  nameVietnamese: "Hòn Cỏ Ngoài",
+                  nameEnglish: "",
+                  latitude: 20.91578,
+                  longitude: 107.17558,
+                },
+                {
+                  nameVietnamese: "Hòn Cóc Đông",
+                  nameEnglish: "",
+                  latitude: 20.89658,
+                  longitude: 107.11113,
+                },
+                {
+                  nameVietnamese: "Hòn Cóc Đối",
+                  nameEnglish: "",
+                  latitude: 20.88832,
+                  longitude: 106.95113,
+                },
+                {
+                  nameVietnamese: "Hòn Cóc",
+                  nameEnglish: "",
+                  latitude: 20.89271,
+                  longitude: 107.10777,
+                },
+                {
+                  nameVietnamese: "Hòn Cóc Bắc",
+                  nameEnglish: "",
+                  latitude: 20.89638,
+                  longitude: 107.10572,
+                },
+                {
+                  nameVietnamese: "Hòn Cóc Bé",
+                  nameEnglish: "",
+                  latitude: 20.89218,
+                  longitude: 106.94912,
+                },
+                {
+                  nameVietnamese: "Hòn Cọc Chèo",
+                  nameEnglish: "",
+                  latitude: 20.77905,
+                  longitude: 107.13165,
+                },
+                {
+                  nameVietnamese: "Hòn Cổ Ngựa",
+                  nameEnglish: "",
+                  latitude: 20.85245,
+                  longitude: 107.1172,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Bè",
+                  nameEnglish: "",
+                  latitude: 20.94858,
+                  longitude: 107.09461,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Dê",
+                  nameEnglish: "",
+                  latitude: 20.84676,
+                  longitude: 107.15875,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Dê Con",
+                  nameEnglish: "",
+                  latitude: 20.87893,
+                  longitude: 107.13241,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Dế",
+                  nameEnglish: "",
+                  latitude: 20.87838,
+                  longitude: 107.1185,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Hẹp",
+                  nameEnglish: "",
+                  latitude: 20.87829,
+                  longitude: 106.96535,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Lơ",
+                  nameEnglish: "",
+                  latitude: 20.86822,
+                  longitude: 107.22808,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp La",
+                  nameEnglish: "",
+                  latitude: 20.87617,
+                  longitude: 107.21716,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Lở",
+                  nameEnglish: "",
+                  latitude: 20.86715,
+                  longitude: 107.2407,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Lờm",
+                  nameEnglish: "",
+                  latitude: 20.87443,
+                  longitude: 107.13873,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Liền",
+                  nameEnglish: "",
+                  latitude: 20.93605,
+                  longitude: 107.19679,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Ngàn",
+                  nameEnglish: "",
+                  latitude: 20.89691,
+                  longitude: 107.01824,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Rẽ",
+                  nameEnglish: "",
+                  latitude: 20.87492,
+                  longitude: 107.13293,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Thành Lãnh",
+                  nameEnglish: "",
+                  latitude: 20.93318,
+                  longitude: 107.20294,
+                },
+                {
+                  nameVietnamese: "Hòn Cam",
+                  nameEnglish: "",
+                  latitude: 20.94465,
+                  longitude: 107.09893,
+                },
+                {
+                  nameVietnamese: "Hòn Cam",
+                  nameEnglish: "",
+                  latitude: 20.94126,
+                  longitude: 107.0254,
+                },
+                {
+                  nameVietnamese: "Hòn Cồn Đèn",
+                  nameEnglish: "",
+                  latitude: 20.86127,
+                  longitude: 107.23136,
+                },
+                {
+                  nameVietnamese: "Hòn Cồn Nhà",
+                  nameEnglish: "",
+                  latitude: 20.81251,
+                  longitude: 107.12971,
+                },
+                {
+                  nameVietnamese: "Hòn Cót",
+                  nameEnglish: "",
+                  latitude: 20.83123,
+                  longitude: 107.28855,
+                },
+                {
+                  nameVietnamese: "Hòn Cầm",
+                  nameEnglish: "",
+                  latitude: 20.83775,
+                  longitude: 107.06423,
+                },
+                {
+                  nameVietnamese: "Hòn Cầu Ngừ",
+                  nameEnglish: "",
+                  latitude: 20.88366,
+                  longitude: 107.17489,
+                },
+                {
+                  nameVietnamese: "Hòn Cộc",
+                  nameEnglish: "",
+                  latitude: 20.81397,
+                  longitude: 107.24122,
+                },
+                {
+                  nameVietnamese: "Hòn Cội",
+                  nameEnglish: "",
+                  latitude: 20.90469,
+                  longitude: 106.97216,
+                },
+                {
+                  nameVietnamese: "Hòn Cống Đông",
+                  nameEnglish: "",
+                  latitude: 20.86151,
+                  longitude: 107.27044,
+                },
+                {
+                  nameVietnamese: "Hòn Cống Đầm",
+                  nameEnglish: "",
+                  latitude: 20.84811,
+                  longitude: 107.27362,
+                },
+                {
+                  nameVietnamese: "Hòn Cống Chéo Bắc",
+                  nameEnglish: "",
+                  latitude: 20.87202,
+                  longitude: 107.26053,
+                },
+                {
+                  nameVietnamese: "Hòn Cống Chéo Nam",
+                  nameEnglish: "",
+                  latitude: 20.86564,
+                  longitude: 107.25835,
+                },
+                {
+                  nameVietnamese: "Hòn Cống Híp",
+                  nameEnglish: "",
+                  latitude: 20.7652,
+                  longitude: 107.15009,
+                },
+                {
+                  nameVietnamese: "Hòn Cống Lá",
+                  nameEnglish: "",
+                  latitude: 20.75485,
+                  longitude: 107.14667,
+                },
+                {
+                  nameVietnamese: "Hòn Cống Lá Đông",
+                  nameEnglish: "",
+                  latitude: 20.75364,
+                  longitude: 107.15326,
+                },
+                {
+                  nameVietnamese: "Hòn Cống Lá Con",
+                  nameEnglish: "",
+                  latitude: 20.76004,
+                  longitude: 107.15413,
+                },
+                {
+                  nameVietnamese: "Hòn Cống Ngang",
+                  nameEnglish: "",
+                  latitude: 20.87793,
+                  longitude: 107.1708,
+                },
+                {
+                  nameVietnamese: "Hòn Cống Ngang Con",
+                  nameEnglish: "",
+                  latitude: 20.87842,
+                  longitude: 107.16827,
+                },
+                {
+                  nameVietnamese: "Hòn Cật",
+                  nameEnglish: "",
+                  latitude: 20.84484,
+                  longitude: 107.15306,
+                },
+                {
+                  nameVietnamese: "Hòn Cật Bà",
+                  nameEnglish: "",
+                  latitude: 20.76022,
+                  longitude: 107.1247,
+                },
+                {
+                  nameVietnamese: "Hòn Cột Cây Chanh",
+                  nameEnglish: "",
+                  latitude: 20.87271,
+                  longitude: 107.18152,
+                },
+                {
+                  nameVietnamese: "Hòn Chân Voi",
+                  nameEnglish: "",
+                  latitude: 20.8905,
+                  longitude: 107.00871,
+                },
+                {
+                  nameVietnamese: "Hòn Chầu Chiên Con",
+                  nameEnglish: "",
+                  latitude: 20.90411,
+                  longitude: 107.10579,
+                },
+                {
+                  nameVietnamese: "Hòn Chống Cằm",
+                  nameEnglish: "",
+                  latitude: 20.91765,
+                  longitude: 107.09597,
+                },
+                {
+                  nameVietnamese: "Hòn Chim Câu",
+                  nameEnglish: "",
+                  latitude: 20.81849,
+                  longitude: 107.21992,
+                },
+                {
+                  nameVietnamese: "Hòn Củ Đen",
+                  nameEnglish: "",
+                  latitude: 20.91524,
+                  longitude: 107.1294,
+                },
+                {
+                  nameVietnamese: "Hòn Củ Dài",
+                  nameEnglish: "",
+                  latitude: 20.91024,
+                  longitude: 107.12781,
+                },
+                {
+                  nameVietnamese: "Hòn Củ Lổ",
+                  nameEnglish: "",
+                  latitude: 20.9098,
+                  longitude: 107.13604,
+                },
+                {
+                  nameVietnamese: "Hòn Cửa Tùng Ngón",
+                  nameEnglish: "",
+                  latitude: 20.7481,
+                  longitude: 107.14552,
+                },
+                {
+                  nameVietnamese: "Hòn Cửa Bé",
+                  nameEnglish: "",
+                  latitude: 20.9317,
+                  longitude: 107.15045,
+                },
+                {
+                  nameVietnamese: "Hòn Cửa Kênh",
+                  nameEnglish: "",
+                  latitude: 20.77058,
+                  longitude: 107.1262,
+                },
+                {
+                  nameVietnamese: "Hòn Cứa Lạch",
+                  nameEnglish: "",
+                  latitude: 20.86379,
+                  longitude: 107.22723,
+                },
+                {
+                  nameVietnamese: "Hòn Cửa Lạch Con",
+                  nameEnglish: "",
+                  latitude: 20.85927,
+                  longitude: 107.22556,
+                },
+
+                {
+                  nameVietnamese: "Hòn Cửa Lớn",
+                  nameEnglish: "",
+                  latitude: 20.93471,
+                  longitude: 107.14656,
+                },
+                {
+                  nameVietnamese: "Hòn Cửa Thung Con",
+                  nameEnglish: "",
+                  latitude: 20.87118,
+                  longitude: 107.2217,
+                },
+                {
+                  nameVietnamese: "Hòn Cửa Tùng",
+                  nameEnglish: "",
+                  latitude: 20.79991,
+                  longitude: 107.13386,
+                },
+                {
+                  nameVietnamese: "Hòn Con Cắt Bài",
+                  nameEnglish: "",
+                  latitude: 20.86707,
+                  longitude: 106.99523,
+                },
+                {
+                  nameVietnamese: "Hòn Con Cóc Dưới",
+                  nameEnglish: "",
+                  latitude: 20.89507,
+                  longitude: 107.09877,
+                },
+                {
+                  nameVietnamese: "Hòn Con Cóc Trên",
+                  nameEnglish: "",
+                  latitude: 20.89993,
+                  longitude: 107.09981,
+                },
+                {
+                  nameVietnamese: "Hòn Con Cặp Dè",
+                  nameEnglish: "",
+                  latitude: 20.88011,
+                  longitude: 107.13053,
+                },
+                {
+                  nameVietnamese: "Hòn Con Chó",
+                  nameEnglish: "",
+                  latitude: 20.92843,
+                  longitude: 107.10707,
+                },
+                {
+                  nameVietnamese: "Hòn Con Chó Con",
+                  nameEnglish: "",
+                  latitude: 20.93539,
+                  longitude: 107.1077,
+                },
+                {
+                  nameVietnamese: "Hòn Con Lờm Nứa",
+                  nameEnglish: "",
+                  latitude: 20.84973,
+                  longitude: 107.15737,
+                },
+                {
+                  nameVietnamese: "Hòn Con Tùng",
+                  nameEnglish: "",
+                  latitude: 20.77138,
+                  longitude: 107.13252,
+                },
+                {
+                  nameVietnamese: "Hòn Cụt",
+                  nameEnglish: "",
+                  latitude: 20.74272,
+                  longitude: 107.15527,
+                },
+                {
+                  nameVietnamese: "Hòn Cuốn Phao",
+                  nameEnglish: "",
+                  latitude: 20.88855,
+                  longitude: 107.17906,
+                },
+                {
+                  nameVietnamese: "Hòn Dải Hoa",
+                  nameEnglish: "",
+                  latitude: 20.8673,
+                  longitude: 107.24529,
+                },
+                {
+                  nameVietnamese: "Hòn Dải Nhỏ",
+                  nameEnglish: "",
+                  latitude: 20.86841,
+                  longitude: 107.24527,
+                },
+                {
+                  nameVietnamese: "Hòn Dê Chảy",
+                  nameEnglish: "",
+                  latitude: 20.90099,
+                  longitude: 107.16521,
+                },
+                {
+                  nameVietnamese: "Hòn Dọc",
+                  nameEnglish: "",
+                  latitude: 20.89972,
+                  longitude: 107.12232,
+                },
+                {
+                  nameVietnamese: "Hòn Dọc Cát Oăn",
+                  nameEnglish: "",
+                  latitude: 20.83622,
+                  longitude: 107.26178,
+                },
+                {
+                  nameVietnamese: "Hòn Dọc Con",
+                  nameEnglish: "",
+                  latitude: 20.90498,
+                  longitude: 107.11875,
+                },
+                {
+                  nameVietnamese: "Hòn Dỏi",
+                  nameEnglish: "",
+                  latitude: 20.91493,
+                  longitude: 107.1101,
+                },
+                {
+                  nameVietnamese: "Hòn Dầm Bắc",
+                  nameEnglish: "",
+                  latitude: 20.86973,
+                  longitude: 107.06415,
+                },
+                {
+                  nameVietnamese: "Hòn Dầm Củi",
+                  nameEnglish: "",
+                  latitude: 20.90827,
+                  longitude: 107.14096,
+                },
+                {
+                  nameVietnamese: "Hòn Dầm Củi Con",
+                  nameEnglish: "",
+                  latitude: 20.91339,
+                  longitude: 107.13971,
+                },
+                {
+                  nameVietnamese: "Hòn Dầm Con",
+                  nameEnglish: "",
+                  latitude: 20.85911,
+                  longitude: 107.06571,
+                },
+                {
+                  nameVietnamese: "Hòn Dầm Lở",
+                  nameEnglish: "",
+                  latitude: 20.8568,
+                  longitude: 107.07143,
+                },
+                {
+                  nameVietnamese: "Hòn Dầm Nam",
+                  nameEnglish: "",
+                  latitude: 20.86578,
+                  longitude: 107.07214,
+                },
+                {
+                  nameVietnamese: "Hòn Dép",
+                  nameEnglish: "",
+                  latitude: 20.85138,
+                  longitude: 107.06942,
+                },
+                {
+                  nameVietnamese: "Hòn Dom",
+                  nameEnglish: "",
+                  latitude: 20.89044,
+                  longitude: 107.11753,
+                },
+                {
+                  nameVietnamese: "Hòn Dom Đông",
+                  nameEnglish: "",
+                  latitude: 20.89304,
+                  longitude: 107.13291,
+                },
+                {
+                  nameVietnamese: "Hòn Dom Cặp",
+                  nameEnglish: "",
+                  latitude: 20.88672,
+                  longitude: 107.12504,
+                },
+                {
+                  nameVietnamese: "Hòn Dom Dưới",
+                  nameEnglish: "",
+                  latitude: 20.89032,
+                  longitude: 107.12154,
+                },
+                {
+                  nameVietnamese: "Hòn Dom Dưới",
+                  nameEnglish: "",
+                  latitude: 20.88183,
+                  longitude: 107.02732,
+                },
+                {
+                  nameVietnamese: "Hòn Dom Giữa",
+                  nameEnglish: "",
+                  latitude: 20.88488,
+                  longitude: 107.02322,
+                },
+                {
+                  nameVietnamese: "Hòn Dom Nam",
+                  nameEnglish: "",
+                  latitude: 20.89014,
+                  longitude: 107.1294,
+                },
+                {
+                  nameVietnamese: "Hòn Dom Trên",
+                  nameEnglish: "",
+                  latitude: 20.8948,
+                  longitude: 107.13064,
+                },
+                {
+                  nameVietnamese: "Hòn Gà Chọi",
+                  nameEnglish: "",
+                  latitude: 20.89032,
+                  longitude: 107.02624,
+                },
+                {
+                  nameVietnamese: "Hòn Gạc",
+                  nameEnglish: "",
+                  latitude: 20.97601,
+                  longitude: 107.07102,
+                },
+                {
+                  nameVietnamese: "Hòn Gồm Giữa",
+                  nameEnglish: "",
+                  latitude: 20.86114,
+                  longitude: 107.0511,
+                },
+                {
+                  nameVietnamese: "Hòn Gầu Bắc",
+                  nameEnglish: "",
+                  latitude: 20.83224,
+                  longitude: 107.11432,
+                },
+                {
+                  nameVietnamese: "Hòn Gối Nằm",
+                  nameEnglish: "",
+                  latitude: 20.88296,
+                  longitude: 107.23405,
+                },
+                {
+                  nameVietnamese: "Hòn Gốm",
+                  nameEnglish: "",
+                  latitude: 20.87458,
+                  longitude: 107.06035,
+                },
+                {
+                  nameVietnamese: "Hòn Ghế Đẩu",
+                  nameEnglish: "",
+                  latitude: 20.74406,
+                  longitude: 107.19083,
+                },
+                {
+                  nameVietnamese: "Hòn Giáng Võng",
+                  nameEnglish: "",
+                  latitude: 20.78168,
+                  longitude: 107.11644,
+                },
+                {
+                  nameVietnamese: "Hòn Giữa",
+                  nameEnglish: "",
+                  latitude: 20.94737,
+                  longitude: 107.0968,
+                },
+                {
+                  nameVietnamese: "Hòn Giàn Mướp Con",
+                  nameEnglish: "",
+                  latitude: 20.87025,
+                  longitude: 107.23156,
+                },
+                {
+                  nameVietnamese: "Hòn Giã Gạo",
+                  nameEnglish: "",
+                  latitude: 20.80708,
+                  longitude: 107.1733,
+                },
+                {
+                  nameVietnamese: "Hòn Gianh",
+                  nameEnglish: "",
+                  latitude: 20.90791,
+                  longitude: 107.1494,
+                },
+                {
+                  nameVietnamese: "Hòn Giếng Cối",
+                  nameEnglish: "",
+                  latitude: 20.94157,
+                  longitude: 107.0854,
+                },
+                {
+                  nameVietnamese: "Hòn Giếng Tố",
+                  nameEnglish: "",
+                  latitude: 20.87087,
+                  longitude: 107.02301,
+                },
+                {
+                  nameVietnamese: "Hòn Giếng Tiền",
+                  nameEnglish: "",
+                  latitude: 20.85231,
+                  longitude: 107.08171,
+                },
+                {
+                  nameVietnamese: "Hòn Giếng Trong",
+                  nameEnglish: "",
+                  latitude: 20.86281,
+                  longitude: 107.15191,
+                },
+                {
+                  nameVietnamese: "Hòn Gềnh Cá Dưới",
+                  nameEnglish: "",
+                  latitude: 20.87533,
+                  longitude: 107.23423,
+                },
+                {
+                  nameVietnamese: "Hòn Gềnh Vẩm",
+                  nameEnglish: "",
+                  latitude: 20.77436,
+                  longitude: 107.13643,
+                },
+                {
+                  nameVietnamese: "Hòn Hàm Ếch",
+                  nameEnglish: "",
+                  latitude: 20.81317,
+                  longitude: 107.26792,
+                },
+
+                {
+                  nameVietnamese: "Hòn Hạt Đậu",
+                  nameEnglish: "",
+                  latitude: 20.82576,
+                  longitude: 107.11585,
+                },
+                {
+                  nameVietnamese: "Hòn Hai",
+                  nameEnglish: "",
+                  latitude: 20.90126,
+                  longitude: 107.11537,
+                },
+                {
+                  nameVietnamese: "Hòn Hai Bắc",
+                  nameEnglish: "",
+                  latitude: 20.92424,
+                  longitude: 107.09265,
+                },
+                {
+                  nameVietnamese: "Hòn Hai Buồm",
+                  nameEnglish: "",
+                  latitude: 20.74172,
+                  longitude: 107.14777,
+                },
+                {
+                  nameVietnamese: "Hòn Hai Nam",
+                  nameEnglish: "",
+                  latitude: 20.92205,
+                  longitude: 107.09251,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Đình",
+                  nameEnglish: "",
+                  latitude: 20.9403,
+                  longitude: 107.07898,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Cao",
+                  nameEnglish: "",
+                  latitude: 20.84508,
+                  longitude: 107.16497,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Chàm",
+                  nameEnglish: "",
+                  latitude: 20.85334,
+                  longitude: 107.1019,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Chầu Chiên",
+                  nameEnglish: "",
+                  latitude: 20.91078,
+                  longitude: 107.11386,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Chim Con",
+                  nameEnglish: "",
+                  latitude: 20.86204,
+                  longitude: 107.21201,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Dù",
+                  nameEnglish: "",
+                  latitude: 20.80414,
+                  longitude: 107.13571,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Dom",
+                  nameEnglish: "",
+                  latitude: 20.88882,
+                  longitude: 107.01607,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Giai",
+                  nameEnglish: "",
+                  latitude: 20.84069,
+                  longitude: 107.10742,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Ma",
+                  nameEnglish: "",
+                  latitude: 20.93537,
+                  longitude: 107.08064,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Móc",
+                  nameEnglish: "",
+                  latitude: 20.76471,
+                  longitude: 107.12975,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Rêu",
+                  nameEnglish: "",
+                  latitude: 20.81448,
+                  longitude: 107.11574,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Sò",
+                  nameEnglish: "",
+                  latitude: 20.9064,
+                  longitude: 107.01154,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Thầy",
+                  nameEnglish: "",
+                  latitude: 20.86716,
+                  longitude: 107.19447,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Thầy Con",
+                  nameEnglish: "",
+                  latitude: 20.86469,
+                  longitude: 107.1983,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Trống",
+                  nameEnglish: "",
+                  latitude: 20.86537,
+                  longitude: 107.24795,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Xịch",
+                  nameEnglish: "",
+                  latitude: 20.7932,
+                  longitude: 107.1156,
+                },
+                {
+                  nameVietnamese: "Hòn Hủ",
+                  nameEnglish: "",
+                  latitude: 20.92131,
+                  longitude: 107.10062,
+                },
+                {
+                  nameVietnamese: "Hòn Hủ Lạng",
+                  nameEnglish: "",
+                  latitude: 20.73971,
+                  longitude: 107.19377,
+                },
+                {
+                  nameVietnamese: "Hòn Hủ Lạng Bắc",
+                  nameEnglish: "",
+                  latitude: 20.74233,
+                  longitude: 107.19559,
+                },
+                {
+                  nameVietnamese: "Hòn Hủ Ngăn",
+                  nameEnglish: "",
+                  latitude: 20.77586,
+                  longitude: 107.19569,
+                },
+                {
+                  nameVietnamese: "Hòn Hủ Ngăn Bé",
+                  nameEnglish: "",
+                  latitude: 20.77864,
+                  longitude: 107.1991,
+                },
+                {
+                  nameVietnamese: "Hòn Hoa Mai",
+                  nameEnglish: "",
+                  latitude: 20.8085,
+                  longitude: 107.13325,
+                },
+                {
+                  nameVietnamese: "Hòn Khơi",
+                  nameEnglish: "",
+                  latitude: 20.79632,
+                  longitude: 107.20145,
+                },
+                {
+                  nameVietnamese: "Hòn Khế Nam",
+                  nameEnglish: "",
+                  latitude: 20.82914,
+                  longitude: 107.17241,
+                },
+                {
+                  nameVietnamese: "Hòn Kỳ Đà",
+                  nameEnglish: "",
+                  latitude: 20.84,
+                  longitude: 107.26785,
+                },
+                {
+                  nameVietnamese: "Hòn Lái Tàu",
+                  nameEnglish: "",
+                  latitude: 20.81835,
+                  longitude: 107.27434,
+                },
+                {
+                  nameVietnamese: "Hòn Lô Cốt",
+                  nameEnglish: "",
+                  latitude: 20.89587,
+                  longitude: 107.12855,
+                },
+                {
+                  nameVietnamese: "Hòn Lơm Ngản",
+                  nameEnglish: "",
+                  latitude: 20.86396,
+                  longitude: 107.23367,
+                },
+                {
+                  nameVietnamese: "Hòn Lão Câu",
+                  nameEnglish: "",
+                  latitude: 20.90072,
+                  longitude: 106.96844,
+                },
+                {
+                  nameVietnamese: "Hòn Lão Câu Con",
+                  nameEnglish: "",
+                  latitude: 20.89775,
+                  longitude: 106.96638,
+                },
+                {
+                  nameVietnamese: "Hòn Lở",
+                  nameEnglish: "",
+                  latitude: 20.88404,
+                  longitude: 107.16883,
+                },
+                {
+                  nameVietnamese: "Hòn Lược",
+                  nameEnglish: "",
+                  latitude: 20.86513,
+                  longitude: 107.16504,
+                },
+                {
+                  nameVietnamese: "Hòn Lược Con",
+                  nameEnglish: "",
+                  latitude: 20.86758,
+                  longitude: 107.16617,
+                },
+                {
+                  nameVietnamese: "Hòn Lợi Cửa Kênh",
+                  nameEnglish: "",
+                  latitude: 20.76754,
+                  longitude: 107.12831,
+                },
+                {
+                  nameVietnamese: "Hòn Lưỡi Liềm",
+                  nameEnglish: "",
+                  latitude: 20.81794,
+                  longitude: 107.16973,
+                },
+                {
+                  nameVietnamese: "Hòn Lỡm Ngao",
+                  nameEnglish: "",
+                  latitude: 20.86624,
+                  longitude: 107.03331,
+                },
+                {
+                  nameVietnamese: "Hòn Loa",
+                  nameEnglish: "",
+                  latitude: 20.79567,
+                  longitude: 107.24697,
+                },
+                {
+                  nameVietnamese: "Hòn Loa Kèn",
+                  nameEnglish: "",
+                  latitude: 20.80336,
+                  longitude: 107.23897,
+                },
+                {
+                  nameVietnamese: "Hòn Long",
+                  nameEnglish: "",
+                  latitude: 20.78155,
+                  longitude: 107.13774,
+                },
+                {
+                  nameVietnamese: "Hòn Lò Ngói Con",
+                  nameEnglish: "",
+                  latitude: 20.85659,
+                  longitude: 107.2712,
+                },
+                {
+                  nameVietnamese: "Hòn Lò Ngói To",
+                  nameEnglish: "",
+                  latitude: 20.8537,
+                  longitude: 107.27149,
+                },
+                {
+                  nameVietnamese: "Hòn Luồng Nứa",
+                  nameEnglish: "",
+                  latitude: 20.88568,
+                  longitude: 107.17348,
+                },
+                {
+                  nameVietnamese: "Hòn Mây",
+                  nameEnglish: "",
+                  latitude: 20.87447,
+                  longitude: 107.11209,
+                },
+                {
+                  nameVietnamese: "Hòn Mây Đen",
+                  nameEnglish: "",
+                  latitude: 20.87158,
+                  longitude: 107.11789,
+                },
+                {
+                  nameVietnamese: "Hòn Mắt Quỉ Đông",
+                  nameEnglish: "",
+                  latitude: 20.82526,
+                  longitude: 107.10651,
+                },
+                {
+                  nameVietnamese: "Hòn Mắt Quỉ Tây",
+                  nameEnglish: "",
+                  latitude: 20.82622,
+                  longitude: 107.10226,
+                },
+                {
+                  nameVietnamese: "Hòn Mỏ Hài Bé",
+                  nameEnglish: "",
+                  latitude: 20.83534,
+                  longitude: 107.22035,
+                },
+                {
+                  nameVietnamese: "Hòn Mỏ Hài Ngoài",
+                  nameEnglish: "",
+                  latitude: 20.82133,
+                  longitude: 107.22406,
+                },
+                {
+                  nameVietnamese: "Hòn Mỏ Hài To",
+                  nameEnglish: "",
+                  latitude: 20.83182,
+                  longitude: 107.22347,
+                },
+                {
+                  nameVietnamese: "Hòn Mang Đá",
+                  nameEnglish: "",
+                  latitude: 20.86374,
+                  longitude: 107.17604,
+                },
+                {
+                  nameVietnamese: "Hòn Mang Đèn",
+                  nameEnglish: "",
+                  latitude: 20.88769,
+                  longitude: 107.13713,
+                },
+                {
+                  nameVietnamese: "Hòn Mang",
+                  nameEnglish: "",
+                  latitude: 20.91656,
+                  longitude: 107.14948,
+                },
+                {
+                  nameVietnamese: "Hòn Mang",
+                  nameEnglish: "",
+                  latitude: 20.92872,
+                  longitude: 107.11779,
+                },
+                {
+                  nameVietnamese: "Hòn Mang Né",
+                  nameEnglish: "",
+                  latitude: 20.90532,
+                  longitude: 107.17417,
+                },
+                {
+                  nameVietnamese: "Hòn Mang Trong",
+                  nameEnglish: "",
+                  latitude: 20.88273,
+                  longitude: 107.13952,
+                },
+                {
+                  nameVietnamese: "Hòn Me Đương",
+                  nameEnglish: "",
+                  latitude: 20.74587,
+                  longitude: 107.12728,
+                },
+                {
+                  nameVietnamese: "Hòn Mập",
+                  nameEnglish: "",
+                  latitude: 20.89323,
+                  longitude: 107.16919,
+                },
+                {
+                  nameVietnamese: "Hòn Một",
+                  nameEnglish: "",
+                  latitude: 20.86371,
+                  longitude: 107.09708,
+                },
+                {
+                  nameVietnamese: "Hòn Một Buồm",
+                  nameEnglish: "",
+                  latitude: 20.74434,
+                  longitude: 107.15034,
+                },
+                {
+                  nameVietnamese: "Hòn Mi Mài",
+                  nameEnglish: "",
+                  latitude: 20.94147,
+                  longitude: 107.19796,
+                },
+                {
+                  nameVietnamese: "Hòn Miều",
+                  nameEnglish: "",
+                  latitude: 20.8204,
+                  longitude: 107.13587,
+                },
+                {
+                  nameVietnamese: "Hòn Mẹt",
+                  nameEnglish: "",
+                  latitude: 20.92439,
+                  longitude: 107.08681,
+                },
+                {
+                  nameVietnamese: "Hòn Mũ",
+                  nameEnglish: "",
+                  latitude: 20.8171,
+                  longitude: 107.21373,
+                },
+                {
+                  nameVietnamese: "Hòn Mo Mực",
+                  nameEnglish: "",
+                  latitude: 20.87694,
+                  longitude: 107.12947,
+                },
+                {
+                  nameVietnamese: "Hòn Mũ Vua",
+                  nameEnglish: "",
+                  latitude: 20.73975,
+                  longitude: 107.15056,
+                },
+                {
+                  nameVietnamese: "Hòn Múa Hoa",
+                  nameEnglish: "",
+                  latitude: 20.85992,
+                  longitude: 107.22096,
+                },
+                {
+                  nameVietnamese: "Hòn Mụy Lòng",
+                  nameEnglish: "",
+                  latitude: 20.93765,
+                  longitude: 107.20521,
+                },
+                {
+                  nameVietnamese: "Hòn Muôi",
+                  nameEnglish: "",
+                  latitude: 20.8438,
+                  longitude: 107.14141,
+                },
+                {
+                  nameVietnamese: "Hòn Mực",
+                  nameEnglish: "",
+                  latitude: 20.82597,
+                  longitude: 107.19196,
+                },
+                {
+                  nameVietnamese: "Hòn Mui Bề Hẹn",
+                  nameEnglish: "",
+                  latitude: 20.87354,
+                  longitude: 107.02738,
+                },
+                {
+                  nameVietnamese: "Hòn Năm Hồng",
+                  nameEnglish: "",
+                  latitude: 20.89118,
+                  longitude: 107.17556,
+                },
+
+                {
+                  nameVietnamese: "Hòn Nái Dương",
+                  nameEnglish: "",
+                  latitude: 20.89975,
+                  longitude: 107.10329,
+                },
+                {
+                  nameVietnamese: "Hòn Nằm Ngang Cụt",
+                  nameEnglish: "",
+                  latitude: 20.85918,
+                  longitude: 107.25222,
+                },
+                {
+                  nameVietnamese: "Hòn Nam Dang",
+                  nameEnglish: "",
+                  latitude: 20.87563,
+                  longitude: 107.22515,
+                },
+                {
+                  nameVietnamese: "Hòn Nón",
+                  nameEnglish: "",
+                  latitude: 20.94071,
+                  longitude: 106.97632,
+                },
+                {
+                  nameVietnamese: "Hòn Nón",
+                  nameEnglish: "",
+                  latitude: 20.91331,
+                  longitude: 107.10297,
+                },
+                {
+                  nameVietnamese: "Hòn Nất",
+                  nameEnglish: "",
+                  latitude: 20.80736,
+                  longitude: 107.18677,
+                },
+                {
+                  nameVietnamese: "Hòn Ngăn",
+                  nameEnglish: "",
+                  latitude: 20.9206,
+                  longitude: 107.10987,
+                },
+                {
+                  nameVietnamese: "Hòn Ngăn Trong",
+                  nameEnglish: "",
+                  latitude: 20.92471,
+                  longitude: 107.10641,
+                },
+                {
+                  nameVietnamese: "Hòn Ngô",
+                  nameEnglish: "",
+                  latitude: 20.82781,
+                  longitude: 107.18255,
+                },
+                {
+                  nameVietnamese: "Hòn Ngàm",
+                  nameEnglish: "",
+                  latitude: 20.9022,
+                  longitude: 107.14307,
+                },
+                {
+                  nameVietnamese: "Hòn Ngọc",
+                  nameEnglish: "",
+                  latitude: 20.81056,
+                  longitude: 107.11706,
+                },
+                {
+                  nameVietnamese: "Hòn Ngặn",
+                  nameEnglish: "",
+                  latitude: 20.86262,
+                  longitude: 107.00773,
+                },
+                {
+                  nameVietnamese: "Hòn Ngang Bé",
+                  nameEnglish: "",
+                  latitude: 20.86482,
+                  longitude: 107.03637,
+                },
+                {
+                  nameVietnamese: "Hòn Ngang Ngoài",
+                  nameEnglish: "",
+                  latitude: 20.74933,
+                  longitude: 107.1786,
+                },
+                {
+                  nameVietnamese: "Hòn Ngang To",
+                  nameEnglish: "",
+                  latitude: 20.89648,
+                  longitude: 107.12385,
+                },
+                {
+                  nameVietnamese: "Hòn Ngang Trong",
+                  nameEnglish: "",
+                  latitude: 20.75423,
+                  longitude: 107.17937,
+                },
+                {
+                  nameVietnamese: "Hòn Núi Độc",
+                  nameEnglish: "",
+                  latitude: 20.89184,
+                  longitude: 106.97385,
+                },
+                {
+                  nameVietnamese: "Hòn Núi Lưới",
+                  nameEnglish: "",
+                  latitude: 20.89833,
+                  longitude: 107.0132,
+                },
+                {
+                  nameVietnamese: "Hòn Núi Lướt",
+                  nameEnglish: "",
+                  latitude: 20.89942,
+                  longitude: 107.0061,
+                },
+                {
+                  nameVietnamese: "Hòn Nến",
+                  nameEnglish: "",
+                  latitude: 20.77983,
+                  longitude: 107.11694,
+                },
+                {
+                  nameVietnamese: "Hòn Oăn Bè",
+                  nameEnglish: "",
+                  latitude: 20.91838,
+                  longitude: 107.10893,
+                },
+                {
+                  nameVietnamese: "Hòn Oằm Vụng",
+                  nameEnglish: "",
+                  latitude: 20.88096,
+                  longitude: 107.12684,
+                },
+                {
+                  nameVietnamese: "Hòn Oản",
+                  nameEnglish: "",
+                  latitude: 20.88752,
+                  longitude: 107.16711,
+                },
+                {
+                  nameVietnamese: "Hòn Pháo Con",
+                  nameEnglish: "",
+                  latitude: 20.83194,
+                  longitude: 107.1419,
+                },
+                {
+                  nameVietnamese: "Hòn Pháo Ngoài",
+                  nameEnglish: "",
+                  latitude: 20.82523,
+                  longitude: 107.14358,
+                },
+                {
+                  nameVietnamese: "Hòn Pháo Trong",
+                  nameEnglish: "",
+                  latitude: 20.83032,
+                  longitude: 107.13872,
+                },
+                {
+                  nameVietnamese: "Hòn Phơi Lưới",
+                  nameEnglish: "",
+                  latitude: 20.81509,
+                  longitude: 107.17712,
+                },
+                {
+                  nameVietnamese: "Hòn Phao",
+                  nameEnglish: "",
+                  latitude: 20.85408,
+                  longitude: 107.18817,
+                },
+                {
+                  nameVietnamese: "Hòn Phờ Re",
+                  nameEnglish: "",
+                  latitude: 20.76235,
+                  longitude: 107.15317,
+                },
+                {
+                  nameVietnamese: "Hòn Quéo",
+                  nameEnglish: "",
+                  latitude: 20.84535,
+                  longitude: 107.11689,
+                },
+                {
+                  nameVietnamese: "Hòn Quéo Dưới",
+                  nameEnglish: "",
+                  latitude: 20.84378,
+                  longitude: 107.12261,
+                },
+                {
+                  nameVietnamese: "Hòn Quéo Trên",
+                  nameEnglish: "",
+                  latitude: 20.847,
+                  longitude: 107.11518,
+                },
+                {
+                  nameVietnamese: "Hòn Quyền Rồng",
+                  nameEnglish: "",
+                  latitude: 20.79596,
+                  longitude: 107.17606,
+                },
+                {
+                  nameVietnamese: "Hòn Quyền Rồng Con",
+                  nameEnglish: "",
+                  latitude: 20.7973,
+                  longitude: 107.18178,
+                },
+                {
+                  nameVietnamese: "Hòn Quýt Hôi Đông",
+                  nameEnglish: "",
+                  latitude: 20.86805,
+                  longitude: 107.28148,
+                },
+                {
+                  nameVietnamese: "Hòn Quýt Hôi Bắc",
+                  nameEnglish: "",
+                  latitude: 20.8721,
+                  longitude: 107.27655,
+                },
+                {
+                  nameVietnamese: "Hòn Quýt Hôi Nam",
+                  nameEnglish: "",
+                  latitude: 20.86449,
+                  longitude: 107.28128,
+                },
+                {
+                  nameVietnamese: "Hòn Quýt Hôi Tây",
+                  nameEnglish: "",
+                  latitude: 20.86717,
+                  longitude: 107.27748,
+                },
+                {
+                  nameVietnamese: "Hòn Răng",
+                  nameEnglish: "",
+                  latitude: 20.82383,
+                  longitude: 107.27201,
+                },
+                {
+                  nameVietnamese: "Hòn Răng Đá Ngoài",
+                  nameEnglish: "",
+                  latitude: 20.81412,
+                  longitude: 107.20109,
+                },
+                {
+                  nameVietnamese: "Hòn Răng Đá Trong",
+                  nameEnglish: "",
+                  latitude: 20.81778,
+                  longitude: 107.20277,
+                },
+                {
+                  nameVietnamese: "Hòn Răng Nanh",
+                  nameEnglish: "",
+                  latitude: 20.73646,
+                  longitude: 107.15599,
+                },
+                {
+                  nameVietnamese: "Hòn Rìu Xanh",
+                  nameEnglish: "",
+                  latitude: 20.82766,
+                  longitude: 107.28158,
+                },
+                {
+                  nameVietnamese: "Hòn Râm Mát",
+                  nameEnglish: "",
+                  latitude: 20.94225,
+                  longitude: 107.09602,
+                },
+                {
+                  nameVietnamese: "Hòn Rắn",
+                  nameEnglish: "",
+                  latitude: 20.8822,
+                  longitude: 107.20534,
+                },
+                {
+                  nameVietnamese: "Hòn Ra Cát",
+                  nameEnglish: "",
+                  latitude: 20.82205,
+                  longitude: 107.17874,
+                },
+                {
+                  nameVietnamese: "Hòn Rùa",
+                  nameEnglish: "",
+                  latitude: 20.94367,
+                  longitude: 107.09273,
+                },
+                {
+                  nameVietnamese: "Hòn Rùa Bé",
+                  nameEnglish: "",
+                  latitude: 20.84814,
+                  longitude: 107.0606,
+                },
+                {
+                  nameVietnamese: "Hòn Ruồi Xanh",
+                  nameEnglish: "",
+                  latitude: 20.83306,
+                  longitude: 107.2461,
+                },
+                {
+                  nameVietnamese: "Hòn Sư Tư Cái",
+                  nameEnglish: "",
+                  latitude: 20.9232,
+                  longitude: 107.12735,
+                },
+                {
+                  nameVietnamese: "Hòn Sông",
+                  nameEnglish: "",
+                  latitude: 20.87544,
+                  longitude: 106.97394,
+                },
+                {
+                  nameVietnamese: "Hòn Sỏi Chạo",
+                  nameEnglish: "",
+                  latitude: 20.84135,
+                  longitude: 107.06741,
+                },
+                {
+                  nameVietnamese: "Hòn Sói Rừng",
+                  nameEnglish: "",
+                  latitude: 20.90301,
+                  longitude: 107.15088,
+                },
+                {
+                  nameVietnamese: "Hòn Sao Chổi",
+                  nameEnglish: "",
+                  latitude: 20.81082,
+                  longitude: 107.17698,
+                },
+                {
+                  nameVietnamese: "Hòn Sim Đôi",
+                  nameEnglish: "",
+                  latitude: 20.84727,
+                  longitude: 107.07821,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Đông",
+                  nameEnglish: "",
+                  latitude: 20.83847,
+                  longitude: 107.06802,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Bé",
+                  nameEnglish: "",
+                  latitude: 20.97253,
+                  longitude: 107.07206,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Cỏ",
+                  nameEnglish: "",
+                  latitude: 20.81918,
+                  longitude: 107.09552,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Hạt",
+                  nameEnglish: "",
+                  latitude: 20.80415,
+                  longitude: 107.11044,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Nam",
+                  nameEnglish: "",
+                  latitude: 20.83643,
+                  longitude: 107.06556,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Rìu",
+                  nameEnglish: "",
+                  latitude: 20.81532,
+                  longitude: 107.18631,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Rễ",
+                  nameEnglish: "",
+                  latitude: 20.88909,
+                  longitude: 107.19052,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Sim",
+                  nameEnglish: "",
+                  latitude: 20.84944,
+                  longitude: 107.07414,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Tràng",
+                  nameEnglish: "",
+                  latitude: 20.87285,
+                  longitude: 107.15774,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Tràng Bé",
+                  nameEnglish: "",
+                  latitude: 20.86905,
+                  longitude: 107.15553,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Ván",
+                  nameEnglish: "",
+                  latitude: 20.83815,
+                  longitude: 107.20958,
+                },
+                {
+                  nameVietnamese: "Hòn Sến",
+                  nameEnglish: "",
+                  latitude: 20.81929,
+                  longitude: 107.21181,
+                },
+                {
+                  nameVietnamese: "Hòn Sến Bắc",
+                  nameEnglish: "",
+                  latitude: 20.82491,
+                  longitude: 107.21315,
+                },
+                {
+                  nameVietnamese: "Hòn Sến Giữa",
+                  nameEnglish: "",
+                  latitude: 20.82292,
+                  longitude: 107.21345,
+                },
+                {
+                  nameVietnamese: "Hòn Tám Em",
+                  nameEnglish: "",
+                  latitude: 20.75622,
+                  longitude: 107.18764,
+                },
+
+                {
+                  nameVietnamese: "Hòn Tôm",
+                  nameEnglish: "",
+                  latitude: 20.92824,
+                  longitude: 107.08262,
+                },
+                {
+                  nameVietnamese: "Hòn Tắt Đèn",
+                  nameEnglish: "",
+                  latitude: 20.90557,
+                  longitude: 107.15294,
+                },
+                {
+                  nameVietnamese: "Hòn Tổ Các Bé",
+                  nameEnglish: "",
+                  latitude: 20.7895,
+                  longitude: 107.13827,
+                },
+                {
+                  nameVietnamese: "Hòn Tổ Các Lớn",
+                  nameEnglish: "",
+                  latitude: 20.7856,
+                  longitude: 107.13997,
+                },
+                {
+                  nameVietnamese: "Hòn Tai Voi",
+                  nameEnglish: "",
+                  latitude: 20.88202,
+                  longitude: 107.18029,
+                },
+                {
+                  nameVietnamese: "Hòn Tháp",
+                  nameEnglish: "",
+                  latitude: 20.88746,
+                  longitude: 107.1055,
+                },
+                {
+                  nameVietnamese: "Hòn Thọ Đèn",
+                  nameEnglish: "",
+                  latitude: 20.891,
+                  longitude: 106.98016,
+                },
+                {
+                  nameVietnamese: "Hòn Thoi Đất",
+                  nameEnglish: "",
+                  latitude: 20.86858,
+                  longitude: 107.00099,
+                },
+                {
+                  nameVietnamese: "Hòn Thúng",
+                  nameEnglish: "",
+                  latitude: 20.87922,
+                  longitude: 107.11493,
+                },
+                {
+                  nameVietnamese: "Hòn Thuyền",
+                  nameEnglish: "",
+                  latitude: 20.74044,
+                  longitude: 107.12997,
+                },
+                {
+                  nameVietnamese: "Hòn Ti Tốp",
+                  nameEnglish: "",
+                  latitude: 20.8626,
+                  longitude: 107.06722,
+                },
+                {
+                  nameVietnamese: "Hòn Tùng Giá Con",
+                  nameEnglish: "",
+                  latitude: 20.80595,
+                  longitude: 107.13036,
+                },
+                {
+                  nameVietnamese: "Hòn Tùng Lâm",
+                  nameEnglish: "",
+                  latitude: 20.87643,
+                  longitude: 107.00546,
+                },
+                {
+                  nameVietnamese: "Hòn Tùng Miếu",
+                  nameEnglish: "",
+                  latitude: 20.77521,
+                  longitude: 107.13273,
+                },
+                {
+                  nameVietnamese: "Hòn Tùng Ngón",
+                  nameEnglish: "",
+                  latitude: 20.74591,
+                  longitude: 107.14896,
+                },
+                {
+                  nameVietnamese: "Hòn Tùng Rươu",
+                  nameEnglish: "",
+                  latitude: 20.77427,
+                  longitude: 107.12281,
+                },
+                {
+                  nameVietnamese: "Hòn Tùng Rươu Con",
+                  nameEnglish: "",
+                  latitude: 20.77249,
+                  longitude: 107.12002,
+                },
+                {
+                  nameVietnamese: "Hòn Trà Cương",
+                  nameEnglish: "",
+                  latitude: 20.88162,
+                  longitude: 107.00699,
+                },
+                {
+                  nameVietnamese: "Hòn Trà Giới",
+                  nameEnglish: "",
+                  latitude: 20.84681,
+                  longitude: 107.24894,
+                },
+                {
+                  nameVietnamese: "Hòn Trà Hương",
+                  nameEnglish: "",
+                  latitude: 20.87708,
+                  longitude: 106.97679,
+                },
+                {
+                  nameVietnamese: "Hòn Trà Sản",
+                  nameEnglish: "",
+                  latitude: 20.86706,
+                  longitude: 107.2143,
+                },
+                {
+                  nameVietnamese: "Hòn Tràng",
+                  nameEnglish: "",
+                  latitude: 20.92439,
+                  longitude: 107.1205,
+                },
+                {
+                  nameVietnamese: "Hòn Tràng",
+                  nameEnglish: "",
+                  latitude: 20.91909,
+                  longitude: 107.15892,
+                },
+                {
+                  nameVietnamese: "Hòn Tràng Bé",
+                  nameEnglish: "",
+                  latitude: 20.92439,
+                  longitude: 107.12904,
+                },
+                {
+                  nameVietnamese: "Hòn Tràng Giá",
+                  nameEnglish: "",
+                  latitude: 20.85767,
+                  longitude: 107.18985,
+                },
+                {
+                  nameVietnamese: "Hòn Tràng Giá Con",
+                  nameEnglish: "",
+                  latitude: 20.86029,
+                  longitude: 107.18903,
+                },
+                {
+                  nameVietnamese: "Hòn Tràng Giá Tây",
+                  nameEnglish: "",
+                  latitude: 20.85562,
+                  longitude: 107.18588,
+                },
+                {
+                  nameVietnamese: "Hòn Tràng Tô",
+                  nameEnglish: "",
+                  latitude: 20.92939,
+                  longitude: 107.13119,
+                },
+                {
+                  nameVietnamese: "Hòn Trạng",
+                  nameEnglish: "",
+                  latitude: 20.84923,
+                  longitude: 107.26302,
+                },
+                {
+                  nameVietnamese: "Hòn Trỏ",
+                  nameEnglish: "",
+                  latitude: 20.82262,
+                  longitude: 107.0901,
+                },
+                {
+                  nameVietnamese: "Hòn Trọc",
+                  nameEnglish: "",
+                  latitude: 20.85844,
+                  longitude: 107.17333,
+                },
+                {
+                  nameVietnamese: "Hòn Tranh Phao",
+                  nameEnglish: "",
+                  latitude: 20.88001,
+                  longitude: 107.17843,
+                },
+                {
+                  nameVietnamese: "Hòn Trinh",
+                  nameEnglish: "",
+                  latitude: 20.85216,
+                  longitude: 107.15513,
+                },
+                {
+                  nameVietnamese: "Hòn Trúc Đông Ngoài",
+                  nameEnglish: "",
+                  latitude: 20.82758,
+                  longitude: 107.22696,
+                },
+                {
+                  nameVietnamese: "Hòn Trúc Đông Trọng",
+                  nameEnglish: "",
+                  latitude: 20.85644,
+                  longitude: 107.24821,
+                },
+                {
+                  nameVietnamese: "Hòn Trụi",
+                  nameEnglish: "",
+                  latitude: 20.94196,
+                  longitude: 106.98253,
+                },
+                {
+                  nameVietnamese: "Hòn Tròn Bắc",
+                  nameEnglish: "",
+                  latitude: 20.83342,
+                  longitude: 107.19867,
+                },
+                {
+                  nameVietnamese: "Hòn Tròn Nam",
+                  nameEnglish: "",
+                  latitude: 20.8092,
+                  longitude: 107.19393,
+                },
+                {
+                  nameVietnamese: "Hòn Ván Xôi",
+                  nameEnglish: "",
+                  latitude: 20.76875,
+                  longitude: 107.17035,
+                },
+                {
+                  nameVietnamese: "Hòn Vông Viêng",
+                  nameEnglish: "",
+                  latitude: 20.84039,
+                  longitude: 107.15498,
+                },
+                {
+                  nameVietnamese: "Hòn Vạn Bội",
+                  nameEnglish: "",
+                  latitude: 20.87065,
+                  longitude: 107.04191,
+                },
+                {
+                  nameVietnamese: "Hòn Vạy",
+                  nameEnglish: "",
+                  latitude: 20.86152,
+                  longitude: 107.24704,
+                },
+                {
+                  nameVietnamese: "Hòn Vang Cồn To",
+                  nameEnglish: "",
+                  latitude: 20.94151,
+                  longitude: 107.17177,
+                },
+                {
+                  nameVietnamese: "Hòn Vay Ngoài",
+                  nameEnglish: "",
+                  latitude: 20.90131,
+                  longitude: 107.0264,
+                },
+                {
+                  nameVietnamese: "Hòn Vay Trong",
+                  nameEnglish: "",
+                  latitude: 20.90007,
+                  longitude: 107.02227,
+                },
+                {
+                  nameVietnamese: "Hòn Ve Trên",
+                  nameEnglish: "",
+                  latitude: 20.89234,
+                  longitude: 107.18805,
+                },
+                {
+                  nameVietnamese: "Hòn Viên",
+                  nameEnglish: "",
+                  latitude: 20.85654,
+                  longitude: 107.17727,
+                },
+                {
+                  nameVietnamese: "Hòn Voi",
+                  nameEnglish: "",
+                  latitude: 20.8812,
+                  longitude: 107.15956,
+                },
+                {
+                  nameVietnamese: "Hòn Vễn",
+                  nameEnglish: "",
+                  latitude: 20.87975,
+                  longitude: 107.03613,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Ba Cửa",
+                  nameEnglish: "",
+                  latitude: 20.88034,
+                  longitude: 106.9924,
+                },
+                {
+                  nameVietnamese: "Hòn Vũng Bùn",
+                  nameEnglish: "",
+                  latitude: 20.85664,
+                  longitude: 107.26113,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Chậu",
+                  nameEnglish: "",
+                  latitude: 20.85587,
+                  longitude: 107.04678,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Chùa",
+                  nameEnglish: "",
+                  latitude: 20.9348,
+                  longitude: 107.10103,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Dại",
+                  nameEnglish: "",
+                  latitude: 20.89381,
+                  longitude: 106.99643,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Gianh",
+                  nameEnglish: "",
+                  latitude: 20.87057,
+                  longitude: 107.14426,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Hà",
+                  nameEnglish: "",
+                  latitude: 20.83543,
+                  longitude: 107.16826,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Hối Con",
+                  nameEnglish: "",
+                  latitude: 20.82539,
+                  longitude: 107.16349,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Oản",
+                  nameEnglish: "",
+                  latitude: 20.93767,
+                  longitude: 107.0766,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Sù",
+                  nameEnglish: "",
+                  latitude: 20.86716,
+                  longitude: 107.26834,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Sò",
+                  nameEnglish: "",
+                  latitude: 20.90362,
+                  longitude: 107.00868,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Vua",
+                  nameEnglish: "",
+                  latitude: 20.7379,
+                  longitude: 107.14226,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Vua Đông",
+                  nameEnglish: "",
+                  latitude: 20.7405,
+                  longitude: 107.14576,
+                },
+                {
+                  nameVietnamese: "Hòn Vịt",
+                  nameEnglish: "",
+                  latitude: 20.88637,
+                  longitude: 107.1052,
+                },
+                {
+                  nameVietnamese: "Hòn Vuông Ngoài",
+                  nameEnglish: "",
+                  latitude: 20.80104,
+                  longitude: 107.2466,
+                },
+                {
+                  nameVietnamese: "Hòn Vuông Trong",
+                  nameEnglish: "",
+                  latitude: 20.8059,
+                  longitude: 107.24706,
+                },
+                {
+                  nameVietnamese: "Hòn Xác Khô",
+                  nameEnglish: "",
+                  latitude: 20.87238,
+                  longitude: 107.23912,
+                },
+                {
+                  nameVietnamese: "Hòn Xác Khô Con",
+                  nameEnglish: "",
+                  latitude: 20.87208,
+                  longitude: 107.23506,
+                },
+                {
+                  nameVietnamese: "Hòn Xà",
+                  nameEnglish: "",
+                  latitude: 20.9295,
+                  longitude: 107.16535,
+                },
+                {
+                  nameVietnamese: "Hòn Xã Lan",
+                  nameEnglish: "",
+                  latitude: 20.73758,
+                  longitude: 107.15845,
+                },
+                {
+                  nameVietnamese: "Hòn Xúc Xấc",
+                  nameEnglish: "",
+                  latitude: 20.77186,
+                  longitude: 107.13495,
+                },
+                {
+                  nameVietnamese: "Hòn Xếp",
+                  nameEnglish: "",
+                  latitude: 20.90873,
+                  longitude: 107.18755,
+                },
+                {
+                  nameVietnamese: "Hòn Xuôi Bắc",
+                  nameEnglish: "",
+                  latitude: 20.78486,
+                  longitude: 107.17393,
+                },
+                {
+                  nameVietnamese: "Hòn Xuôi Bé",
+                  nameEnglish: "",
+                  latitude: 20.78612,
+                  longitude: 107.18756,
+                },
+                {
+                  nameVietnamese: "Hòn Xuôi Lớn",
+                  nameEnglish: "",
+                  latitude: 20.78758,
+                  longitude: 107.19158,
+                },
+                {
+                  nameVietnamese: "Hòn Xuôi Nam",
+                  nameEnglish: "",
+                  latitude: 20.78286,
+                  longitude: 107.17171,
+                },
+                {
+                  nameVietnamese: "Hòn Xuồng",
+                  nameEnglish: "",
+                  latitude: 20.74126,
+                  longitude: 107.14396,
+                },
+              ],
+              sand: [
+                {
+                  nameVietnamese: "Cồn Chim",
+                  nameEnglish: "",
+                  latitude: 20.77034,
+                  longitude: 107.15794,
+                },
+                {
+                  nameVietnamese: "Cồn Gẫy",
+                  nameEnglish: "",
+                  latitude: 20.76376,
+                  longitude: 107.15853,
+                },
+              ],
+            },
+          },
+          {
+            description: {
+              subGovType: "District",
+              name: "Cô Tô",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Cô Tô",
+                  nameEnglish: "",
+                  latitude: 20.9889,
+                  longitude: 107.7533,
+                },
+                {
+                  nameVietnamese: "Đảo Cô Tô Con",
+                  nameEnglish: "",
+                  latitude: 21.04159,
+                  longitude: 107.77487,
+                },
+                {
+                  nameVietnamese: "Đảo Thanh Lam (Thanh Lân)",
+                  nameEnglish: "",
+                  latitude: 21.01616,
+                  longitude: 107.82762,
+                },
+                {
+                  nameVietnamese: "Đảo Trần",
+                  nameEnglish: "",
+                  latitude: 21.23951,
+                  longitude: 107.96921,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Đỉnh",
+                  nameEnglish: "",
+                  latitude: 21.05533,
+                  longitude: 107.86382,
+                },
+                {
+                  nameVietnamese: "Hòn Bắc Bồ Cát",
+                  nameEnglish: "",
+                  latitude: 21.20512,
+                  longitude: 108.0145,
+                },
+                {
+                  nameVietnamese: "Hòn Bát Hương",
+                  nameEnglish: "",
+                  latitude: 21.05101,
+                  longitude: 107.8517,
+                },
+                {
+                  nameVietnamese: "Hòn Bẩy Âm Dương",
+                  nameEnglish: "",
+                  latitude: 21.10282,
+                  longitude: 107.82649,
+                },
+                {
+                  nameVietnamese: "Hòn Bảy Sao",
+                  nameEnglish: "",
+                  latitude: 21.13224,
+                  longitude: 107.79619,
+                },
+                {
+                  nameVietnamese: "Hòn Bồ Cát",
+                  nameEnglish: "",
+                  latitude: 21.19241,
+                  longitude: 108.01739,
+                },
+                {
+                  nameVietnamese: "Hòn Cá Chép",
+                  nameEnglish: "",
+                  latitude: 21.07061,
+                  longitude: 107.77372,
+                },
+                {
+                  nameVietnamese: "Hòn Cá Chép Con",
+                  nameEnglish: "",
+                  latitude: 21.05025,
+                  longitude: 107.75594,
+                },
+                {
+                  nameVietnamese: "Hòn Chòi Canh",
+                  nameEnglish: "",
+                  latitude: 21.09995,
+                  longitude: 107.76995,
+                },
+                {
+                  nameVietnamese: "Hòn Con Chuột",
+                  nameEnglish: "",
+                  latitude: 21.05088,
+                  longitude: 107.84413,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Thủng",
+                  nameEnglish: "",
+                  latitude: 20.99502,
+                  longitude: 107.82803,
+                },
+                {
+                  nameVietnamese: "Hòn Đặng Vạn Châu",
+                  nameEnglish: "",
+                  latitude: 20.98434,
+                  longitude: 107.79968,
+                },
+                {
+                  nameVietnamese: "Hòn Đèn",
+                  nameEnglish: "",
+                  latitude: 21.16318,
+                  longitude: 107.86631,
+                },
+                {
+                  nameVietnamese: "Hòn Đồi Mồi",
+                  nameEnglish: "",
+                  latitude: 21.13021,
+                  longitude: 107.86017,
+                },
+                {
+                  nameVietnamese: "Hòn Đông Nam",
+                  nameEnglish: "",
+                  latitude: 20.97348,
+                  longitude: 107.78608,
+                },
+                {
+                  nameVietnamese: "Hòn Hai Hòn",
+                  nameEnglish: "",
+                  latitude: 21.01492,
+                  longitude: 107.81076,
+                },
+                {
+                  nameVietnamese: "Hòn Khe Con",
+                  nameEnglish: "",
+                  latitude: 21.03578,
+                  longitude: 107.82251,
+                },
+                {
+                  nameVietnamese: "Hòn Khe Trâu",
+                  nameEnglish: "",
+                  latitude: 20.97816,
+                  longitude: 107.78851,
+                },
+                {
+                  nameVietnamese: "Hòn Khoai Lang",
+                  nameEnglish: "",
+                  latitude: 21.13784,
+                  longitude: 107.84866,
+                },
+                {
+                  nameVietnamese: "Hòn Khói",
+                  nameEnglish: "",
+                  latitude: 21.03429,
+                  longitude: 107.79525,
+                },
+                {
+                  nameVietnamese: "Hòn Ngang",
+                  nameEnglish: "",
+                  latitude: 21.11116,
+                  longitude: 107.81502,
+                },
+                {
+                  nameVietnamese: "Hòn Ngựa",
+                  nameEnglish: "",
+                  latitude: 21.1567,
+                  longitude: 107.85923,
+                },
+                {
+                  nameVietnamese: "Hòn Ngựa Bé",
+                  nameEnglish: "",
+                  latitude: 21.1472,
+                  longitude: 107.84433,
+                },
+                {
+                  nameVietnamese: "Hòn Núi Nhọn",
+                  nameEnglish: "",
+                  latitude: 21.14376,
+                  longitude: 107.86909,
+                },
+                {
+                  nameVietnamese: "Hòn Thoải Rơi",
+                  nameEnglish: "",
+                  latitude: 21.0738,
+                  longitude: 107.82098,
+                },
+                {
+                  nameVietnamese: "Hòn Vạn Thoại",
+                  nameEnglish: "",
+                  latitude: 21.04618,
+                  longitude: 107.83619,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Municipality",
+    name: "Hải Phòng",
+    source: "",
+    bodies: [
+      {
+        archipelago: "Cát Bà",
+        source: "",
+        subGovType: "District",
+        name: "Cát Bà",
+        clusters: [
+          {
+            description: {
+              subGovType: "District",
+              name: "Cát Hải",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Cát Bà",
+                  latitude: 20.79361,
+                  longitude: 107.00839,
+                },
+                {
+                  nameVietnamese: "Đảo Quả Muỗm",
+                  latitude: 20.85593,
+                  longitude: 106.88891,
+                },
+                {
+                  nameVietnamese: "Đảo Quả Xoài",
+                  latitude: 20.85161,
+                  longitude: 106.9141,
+                },
+                {
+                  nameVietnamese: "Hòn Ang Lúa",
+                  latitude: 20.86263,
+                  longitude: 106.99572,
+                },
+                {
+                  nameVietnamese: "Hòn Ang Múa",
+                  latitude: 20.86031,
+                  longitude: 107.00174,
+                },
+                {
+                  nameVietnamese: "Hòn Áp Đá",
+                  latitude: 20.8472,
+                  longitude: 106.92699,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Cát Bằng",
+                  latitude: 20.75394,
+                  longitude: 107.07434,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Đình",
+                  latitude: 20.82545,
+                  longitude: 107.07051,
+                },
+                {
+                  nameVietnamese: "Hòn Bà Lão",
+                  latitude: 20.87125,
+                  longitude: 106.94683,
+                },
+                {
+                  nameVietnamese: "Hòn Ba Răng",
+                  latitude: 20.77307,
+                  longitude: 107.07377,
+                },
+                {
+                  nameVietnamese: "Hòn Bãi Giai",
+                  latitude: 20.85174,
+                  longitude: 106.93685,
+                },
+                {
+                  nameVietnamese: "Hòn Béo",
+                  latitude: 20.72464,
+                  longitude: 107.06977,
+                },
+                {
+                  nameVietnamese: "Hòn Búp Đuôi Rồng",
+                  latitude: 20.69986,
+                  longitude: 107.04626,
+                },
+                {
+                  nameVietnamese: "Hòn Bút",
+                  latitude: 20.7044,
+                  longitude: 107.07307,
+                },
+                {
+                  nameVietnamese: "Hòn Bụt Đầy",
+                  latitude: 20.77484,
+                  longitude: 107.09847,
+                },
+                {
+                  nameVietnamese: "Hòn Cái",
+                  latitude: 20.86898,
+                  longitude: 106.95796,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Ba Dế",
+                  latitude: 20.71131,
+                  longitude: 107.05208,
+                },
+                {
+                  nameVietnamese: "Hòn Cạp Bù Do",
+                  latitude: 20.71037,
+                  longitude: 107.04673,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Gù",
+                  latitude: 20.77196,
+                  longitude: 107.06932,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Ngô Đồng",
+                  latitude: 20.87759,
+                  longitude: 106.94811,
+                },
+                {
+                  nameVietnamese: "Hòn Cặp Quan",
+                  latitude: 20.75732,
+                  longitude: 107.05765,
+                },
+                {
+                  nameVietnamese: "Hòn Cát",
+                  latitude: 20.7248,
+                  longitude: 107.06235,
+                },
+                {
+                  nameVietnamese: "Hòn Cát",
+                  latitude: 20.706,
+                  longitude: 107.02762,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Dài",
+                  latitude: 20.76087,
+                  longitude: 107.0669,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Dứa",
+                  latitude: 20.73139,
+                  longitude: 107.06489,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Ngang",
+                  latitude: 20.74268,
+                  longitude: 107.01145,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Ong",
+                  latitude: 20.7119,
+                  longitude: 107.01995,
+                },
+                {
+                  nameVietnamese: "Hòn Cát Phượng Hoàng",
+                  latitude: 20.73067,
+                  longitude: 106.9995,
+                },
+                {
+                  nameVietnamese: "Hòn Cồn Ngoài",
+                  latitude: 20.79027,
+                  longitude: 107.10202,
+                },
+                {
+                  nameVietnamese: "Hòn Cống Dùi",
+                  latitude: 20.72983,
+                  longitude: 107.06825,
+                },
+                {
+                  nameVietnamese: "Hòn Cửa Cố Đô",
+                  latitude: 20.76284,
+                  longitude: 107.05746,
+                },
+                {
+                  nameVietnamese: "Hòn Đa",
+                  latitude: 20.83963,
+                  longitude: 107.05092,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Bằng",
+                  latitude: 20.71708,
+                  longitude: 107.05771,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Nở",
+                  latitude: 20.78563,
+                  longitude: 107.10409,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Bò",
+                  latitude: 20.70693,
+                  longitude: 107.02242,
+                },
+                {
+                  nameVietnamese: "Hòn Đầu Nở",
+                  latitude: 20.73645,
+                  longitude: 106.98369,
+                },
+                {
+                  nameVietnamese: "Hòn Điệp",
+                  latitude: 20.87105,
+                  longitude: 106.94098,
+                },
+                {
+                  nameVietnamese: "Hòn Dụ",
+                  latitude: 20.85109,
+                  longitude: 106.94817,
+                },
+                {
+                  nameVietnamese: "Hòn Đũa",
+                  latitude: 20.86959,
+                  longitude: 106.94327,
+                },
+                {
+                  nameVietnamese: "Hòn Đụn",
+                  latitude: 20.73583,
+                  longitude: 106.99375,
+                },
+                {
+                  nameVietnamese: "Hòn Đuôi Buồm",
+                  latitude: 20.69573,
+                  longitude: 107.06959,
+                },
+                {
+                  nameVietnamese: "Hòn Đuôi Rồng",
+                  latitude: 20.70585,
+                  longitude: 107.03994,
+                },
+                {
+                  nameVietnamese: "Hòn Dút",
+                  latitude: 20.72206,
+                  longitude: 107.08018,
+                },
+                {
+                  nameVietnamese: "Hòn Gà",
+                  latitude: 20.69353,
+                  longitude: 107.0458,
+                },
+                {
+                  nameVietnamese: "Hòn Ghép",
+                  latitude: 20.82958,
+                  longitude: 107.06784,
+                },
+                {
+                  nameVietnamese: "Hòn Giải Đá",
+                  latitude: 20.72719,
+                  longitude: 107.03747,
+                },
+                {
+                  nameVietnamese: "Hòn Giáo",
+                  latitude: 20.76716,
+                  longitude: 107.07649,
+                },
+                {
+                  nameVietnamese: "Hòn Giao Ô",
+                  latitude: 20.76403,
+                  longitude: 107.0523,
+                },
+                {
+                  nameVietnamese: "Hòn Gio",
+                  latitude: 20.77119,
+                  longitude: 107.05723,
+                },
+                {
+                  nameVietnamese: "Hòn Gôi Cao",
+                  latitude: 20.74969,
+                  longitude: 106.96866,
+                },
+                {
+                  nameVietnamese: "Hòn Gôi Thấp",
+                  latitude: 20.75751,
+                  longitude: 106.96026,
+                },
+                {
+                  nameVietnamese: "Hòn Guốc",
+                  latitude: 20.70749,
+                  longitude: 107.06355,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Lỗ Đầu",
+                  latitude: 20.71951,
+                  longitude: 107.02925,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Thúng",
+                  latitude: 20.76598,
+                  longitude: 107.09738,
+                },
+                {
+                  nameVietnamese: "Hòn Hang Trống",
+                  latitude: 20.70642,
+                  longitude: 107.04694,
+                },
+                {
+                  nameVietnamese: "Hòn Hen Mài",
+                  latitude: 20.86113,
+                  longitude: 106.95817,
+                },
+                {
+                  nameVietnamese: "Hòn Lão Đắc",
+                  latitude: 20.87702,
+                  longitude: 106.94463,
+                },
+                {
+                  nameVietnamese: "Hòn Lớn",
+                  latitude: 20.8291,
+                  longitude: 107.06537,
+                },
+                {
+                  nameVietnamese: "Hòn Lớn Cối Ngoài",
+                  latitude: 20.75971,
+                  longitude: 107.05101,
+                },
+                {
+                  nameVietnamese: "Hòn Lớn Cối Trong",
+                  latitude: 20.76131,
+                  longitude: 107.05237,
+                },
+                {
+                  nameVietnamese: "Hòn Mắt Cá",
+                  latitude: 20.80709,
+                  longitude: 107.10478,
+                },
+                {
+                  nameVietnamese: "Hòn Mây Cát Bà",
+                  latitude: 20.71269,
+                  longitude: 107.06475,
+                },
+                {
+                  nameVietnamese: "Hòn Miếng Gương",
+                  latitude: 20.81124,
+                  longitude: 107.10208,
+                },
+                {
+                  nameVietnamese: "Hòn Mít",
+                  latitude: 20.70828,
+                  longitude: 107.06823,
+                },
+                {
+                  nameVietnamese: "Hòn Mõm Lợn",
+                  latitude: 20.86946,
+                  longitude: 106.97899,
+                },
+                {
+                  nameVietnamese: "Hòn Móng Rồng",
+                  latitude: 20.7036,
+                  longitude: 107.04506,
+                },
+                {
+                  nameVietnamese: "Hòn Nâm",
+                  latitude: 20.76603,
+                  longitude: 107.06936,
+                },
+                {
+                  nameVietnamese: "Hòn Nam Hồng",
+                  latitude: 20.83224,
+                  longitude: 107.06262,
+                },
+                {
+                  nameVietnamese: "Hòn Nẻ Mòi",
+                  latitude: 20.86489,
+                  longitude: 106.97015,
+                },
+                {
+                  nameVietnamese: "Hòn Nến",
+                  latitude: 20.6911,
+                  longitude: 107.04648,
+                },
+                {
+                  nameVietnamese: "Hòn Nép",
+                  latitude: 20.72767,
+                  longitude: 107.0791,
+                },
+                {
+                  nameVietnamese: "Hòn Nghềnh Vẩm",
+                  latitude: 20.74607,
+                  longitude: 107.08487,
+                },
+                {
+                  nameVietnamese: "Hòn Nghiên",
+                  latitude: 20.70317,
+                  longitude: 107.07546,
+                },
+                {
+                  nameVietnamese: "Hòn Nhà Đèn",
+                  latitude: 20.87655,
+                  longitude: 106.93624,
+                },
+                {
+                  nameVietnamese: "Hòn Nón",
+                  latitude: 20.70962,
+                  longitude: 107.01224,
+                },
+                {
+                  nameVietnamese: "Hòn O",
+                  latitude: 20.71972,
+                  longitude: 107.01287,
+                },
+                {
+                  nameVietnamese: "Hòn Ông Cầm",
+                  latitude: 20.82723,
+                  longitude: 107.06209,
+                },
+                {
+                  nameVietnamese: "Hòn Phất Cờ",
+                  latitude: 20.71025,
+                  longitude: 107.01761,
+                },
+                {
+                  nameVietnamese: "Hòn Quai Xanh",
+                  latitude: 20.74084,
+                  longitude: 107.07667,
+                },
+                {
+                  nameVietnamese: "Hòn Rô",
+                  latitude: 20.78313,
+                  longitude: 107.10085,
+                },
+                {
+                  nameVietnamese: "Hòn Rùa Giống",
+                  latitude: 20.76154,
+                  longitude: 107.0853,
+                },
+                {
+                  nameVietnamese: "Hòn Sen",
+                  latitude: 20.73331,
+                  longitude: 107.08313,
+                },
+                {
+                  nameVietnamese: "Hòn Sét Đánh",
+                  latitude: 20.72455,
+                  longitude: 107.00906,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Cỏ Nam",
+                  latitude: 20.81783,
+                  longitude: 107.09102,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Đối",
+                  latitude: 20.77074,
+                  longitude: 107.06525,
+                },
+                {
+                  nameVietnamese: "Hòn Soi Gianh",
+                  latitude: 20.76733,
+                  longitude: 107.06462,
+                },
+                {
+                  nameVietnamese: "Hòn Tai Kéo",
+                  latitude: 20.77069,
+                  longitude: 107.08452,
+                },
+                {
+                  nameVietnamese: "Hòn Thảm",
+                  latitude: 20.72033,
+                  longitude: 107.06392,
+                },
+                {
+                  nameVietnamese: "Hòn Tháp Nghiêng",
+                  latitude: 20.76324,
+                  longitude: 107.06434,
+                },
+                {
+                  nameVietnamese: "Hòn Thến",
+                  latitude: 20.69647,
+                  longitude: 107.0677,
+                },
+                {
+                  nameVietnamese: "Hòn Thoi Dê",
+                  latitude: 20.75007,
+                  longitude: 107.0146,
+                },
+                {
+                  nameVietnamese: "Hòn Thoi Như",
+                  latitude: 20.71933,
+                  longitude: 107.0722,
+                },
+                {
+                  nameVietnamese: "Hòn Thoi Nước",
+                  latitude: 20.72306,
+                  longitude: 107.02767,
+                },
+                {
+                  nameVietnamese: "Hòn Thoi Quýt",
+                  latitude: 20.86519,
+                  longitude: 106.98467,
+                },
+                {
+                  nameVietnamese: "Hòn Thoi Van Bội",
+                  latitude: 20.76007,
+                  longitude: 107.07996,
+                },
+                {
+                  nameVietnamese: "Hòn Trà Ngư",
+                  latitude: 20.77019,
+                  longitude: 107.10551,
+                },
+                {
+                  nameVietnamese: "Hòn Trọc",
+                  latitude: 20.70955,
+                  longitude: 107.0275,
+                },
+                {
+                  nameVietnamese: "Hòn Tự Do",
+                  latitude: 20.79646,
+                  longitude: 107.0911,
+                },
+                {
+                  nameVietnamese: "Hòn Tù Vè",
+                  latitude: 20.7072,
+                  longitude: 107.02769,
+                },
+                {
+                  nameVietnamese: "Hòn Vạ Chùa",
+                  latitude: 20.72945,
+                  longitude: 107.01817,
+                },
+                {
+                  nameVietnamese: "Hòn Va Gia Con",
+                  latitude: 20.80513,
+                  longitude: 107.10174,
+                },
+                {
+                  nameVietnamese: "Hòn Vạn Hà",
+                  latitude: 20.77119,
+                  longitude: 107.0989,
+                },
+                {
+                  nameVietnamese: "Hòn Vây Rồng",
+                  latitude: 20.7072,
+                  longitude: 107.0413,
+                },
+                {
+                  nameVietnamese: "Hòn Ve",
+                  latitude: 20.73302,
+                  longitude: 107.00414,
+                },
+                {
+                  nameVietnamese: "Hòn Vú Chi",
+                  latitude: 20.80149,
+                  longitude: 107.08702,
+                },
+                {
+                  nameVietnamese: "Hòn Vườn Quả",
+                  latitude: 20.85543,
+                  longitude: 107.03864,
+                },
+                {
+                  nameVietnamese: "Hòn Yến",
+                  latitude: 20.81493,
+                  longitude: 107.10152,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        archipelago: "Long Châu",
+        source: "",
+        subGovType: "District",
+        name: "Long Châu",
+        clusters: [
+          {
+            description: {
+              subGovType: "District",
+              name: "Cát Hải",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Long Châu",
+                  latitude: 20.6229,
+                  longitude: 107.15824,
+                },
+                {
+                  nameVietnamese: "Đảo Long Châu Đông",
+                  latitude: 20.61584,
+                  longitude: 107.2051,
+                },
+                {
+                  nameVietnamese: "Hòn Cao",
+                  latitude: 20.6141,
+                  longitude: 107.14899,
+                },
+                {
+                  nameVietnamese: "Hòn Chấn",
+                  latitude: 20.62755,
+                  longitude: 107.16077,
+                },
+                {
+                  nameVietnamese: "Hòn Chén Lớn",
+                  latitude: 20.6523,
+                  longitude: 107.13172,
+                },
+                {
+                  nameVietnamese: "Hòn Chén Nhỏ",
+                  latitude: 20.65435,
+                  longitude: 107.13659,
+                },
+                {
+                  nameVietnamese: "Hòn Cỏ",
+                  latitude: 20.61573,
+                  longitude: 107.21042,
+                },
+                {
+                  nameVietnamese: "Hòn Đá Đen",
+                  latitude: 20.62572,
+                  longitude: 107.1462,
+                },
+                {
+                  nameVietnamese: "Hòn Đất Đá",
+                  latitude: 20.61787,
+                  longitude: 107.20992,
+                },
+                {
+                  nameVietnamese: "Hòn Giữa",
+                  latitude: 20.61888,
+                  longitude: 107.14098,
+                },
+                {
+                  nameVietnamese: "Hòn Hoa Con",
+                  latitude: 20.61336,
+                  longitude: 107.1637,
+                },
+                {
+                  nameVietnamese: "Hòn Long Châu Bắc",
+                  latitude: 20.65118,
+                  longitude: 107.1327,
+                },
+                {
+                  nameVietnamese: "Hòn Long Châu Nam",
+                  latitude: 20.61669,
+                  longitude: 107.16867,
+                },
+                {
+                  nameVietnamese: "Hòn Long Châu Tây",
+                  latitude: 20.61634,
+                  longitude: 107.13064,
+                },
+                {
+                  nameVietnamese: "Hòn Mào Gà",
+                  latitude: 20.62198,
+                  longitude: 107.1371,
+                },
+                {
+                  nameVietnamese: "Hòn Mũ",
+                  latitude: 20.61228,
+                  longitude: 107.16259,
+                },
+                {
+                  nameVietnamese: "Hòn Nhỏ Giữa",
+                  latitude: 20.61699,
+                  longitude: 107.13799,
+                },
+                {
+                  nameVietnamese: "Hòn Rẽ Nam",
+                  latitude: 20.61483,
+                  longitude: 107.16814,
+                },
+                {
+                  nameVietnamese: "Hòn Rẽ Trong",
+                  latitude: 20.6141,
+                  longitude: 107.16657,
+                },
+                {
+                  nameVietnamese: "Hòn Tháp",
+                  latitude: 20.62367,
+                  longitude: 107.2029,
+                },
+                {
+                  nameVietnamese: "Hòn Thoi Tây",
+                  latitude: 20.62635,
+                  longitude: 107.13397,
+                },
+                {
+                  nameVietnamese: "Hòn Trụ Cổ",
+                  latitude: 20.61456,
+                  longitude: 107.173,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Tàu",
+                  latitude: 20.62431,
+                  longitude: 107.13537,
+                },
+                {
+                  nameVietnamese: "Hòn Vụng Thuyền",
+                  latitude: 20.62186,
+                  longitude: 107.13356,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "District",
+              name: "Bạch Long Vĩ",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Bạch Long Vĩ",
+                  latitude: 20.12895,
+                  longitude: 107.72924,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "District",
+              name: "Đồ Sơn",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Dáu",
+                  latitude: 20.66713,
+                  longitude: 106.8165,
+                },
+                {
+                  nameVietnamese: "Cồn Hoa",
+                  latitude: 20.68156,
+                  longitude: 106.8096,
+                },
+                {
+                  nameVietnamese: "Cồn Mục",
+                  latitude: 20.65142,
+                  longitude: 106.74549,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Thái Bình",
+    source: "",
+    bodies: [
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "District",
+              name: "Thái Đô, Thái Thụy",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Cồn Đen",
+                  nameEnglish: "",
+                  latitude: 20.48307,
+                  longitude: 106.60476,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "District",
+              name: "Nam Phú, Tiền Hải",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Cồn Vành",
+                  nameEnglish: "",
+                  latitude: 20.48307,
+                  longitude: 106.60476,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Cồn Thủ",
+                  nameEnglish: "",
+                  latitude: 20.447131,
+                  longitude: 106.62471,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Nam Định",
+    source: "",
+    bodies: [
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Cồn Ngạn",
+                  nameEnglish: "",
+                  latitude: 20.217047,
+                  longitude: 106.595255,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Cồn Lu",
+                  nameEnglish: "",
+                  latitude: 20.20485,
+                  longitude: 106.549336,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Cồn Mờ",
+                  nameEnglish: "",
+                  latitude: 20.193814,
+                  longitude: 106.556803,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Ninh Bình",
+    source: "",
+    bodies: [
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Cồn Trời",
+                  nameEnglish: "",
+                  latitude: 19.89662,
+                  longitude: 106.113327,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "District",
+              name: "Kim Sơn",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Cồn Nổi",
+                  nameEnglish: "",
+                  latitude: 19.868989,
+                  longitude: 106.069757,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Cồn Mờ",
+                  nameEnglish: "",
+                  latitude: 19.916062,
+                  longitude: 106.133738,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Thanh Hóa",
+    source: "",
+    bodies: [
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "Town",
+              name: "Nghi Sơn",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Biện Sơn",
+                  latitude: 19.32151,
+                  longitude: 105.82003,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "District",
+              name: "Hậu Lộc/Hoằng Hóa",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Nẹ",
+                  latitude: 19.91257,
+                  longitude: 106.00835,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        archipelago: "Hòn Mê",
+        source: "",
+        subGovType: "Town",
+        name: "Nghi Sơn",
+        clusters: [
+          {
+            description: {
+              subGovType: "Ward",
+              name: "Hải Bình",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Mê",
+                  latitude: 19.37228,
+                  longitude: 105.92696,
+                },
+                {
+                  nameVietnamese: "Hòn Vàng",
+                  latitude: 19.367945,
+                  longitude: 105.908585,
+                },
+                {
+                  nameVietnamese: "Hòn Vát",
+                  latitude: 19.366542,
+                  longitude: 105.911718,
+                },
+                {
+                  nameVietnamese: "Hòn Bằng",
+                  latitude: 19.357333,
+                  longitude: 105.873677,
+                },
+                {
+                  nameVietnamese: "Hòn Hộp",
+                  latitude: 19.352874,
+                  longitude: 105.877788,
+                },
+                {
+                  nameVietnamese: "Hòn Đót",
+                  latitude: 19.3519,
+                  longitude: 105.932286,
+                },
+                {
+                  nameVietnamese: "Hòn Miêng",
+                  latitude: 19.344404,
+                  longitude: 105.900903,
+                },
+                {
+                  nameVietnamese: "Hòn Sô",
+                  latitude: 19.334854,
+                  longitude: 105.889763,
+                },
+                {
+                  nameVietnamese: "Hòn Sập",
+                  latitude: 19.324644,
+                  longitude: 105.897855,
+                },
+                {
+                  nameVietnamese: "Hòn Nếu",
+                  latitude: 19.318836,
+                  longitude: 105.909651,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Nghệ An",
+    source: "",
+    bodies: [
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Lan Châu",
+                  latitude: 18.820585,
+                  longitude: 105.722372,
+                  note: "ven bờ, không phải đảo thật sự",
+                },
+                {
+                  nameVietnamese: "Hòn Ngư",
+                  latitude: 18.801447,
+                  longitude: 105.778521,
+                },
+                {
+                  nameVietnamese: "Cồn Khơi",
+                  latitude: 18.842717,
+                  longitude: 105.762293,
+                },
+                {
+                  nameVietnamese: "Cồn Lộng",
+                  latitude: 18.831935,
+                  longitude: 105.726004,
+                },
+                {
+                  nameVietnamese: "Hòn Mắt (h. Tuần, hòn Truan)",
+                  latitude: 18.796584,
+                  longitude: 105.961187,
+                },
+                {
+                  nameVietnamese: "Hòn Mắt Con",
+                  latitude: 18.79396,
+                  longitude: 105.980231,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Hà Tĩnh",
+    source: "",
+    bodies: [
+      {
+        source: "",
+        subGovType: "",
+        name: "",
+        clusters: [
+          {
+            description: {
+              subGovType: "",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Sơn Dương",
+                  latitude: 18.10242,
+                  longitude: 106.4594,
+                },
+                {
+                  nameVietnamese: "Hòn Hải Đăng (Hòn Én)",
+                  latitude: 18.30946,
+                  longitude: 106.16473,
+                },
+                {
+                  nameVietnamese: "Hòn Lạp",
+                  latitude: 18.76818,
+                  longitude: 105.83083,
+                },
+                {
+                  nameVietnamese: "Hòn Nồm",
+                  latitude: 18.74705,
+                  longitude: 105.84184,
+                },
+                {
+                  nameVietnamese: "Hòn Môồng",
+                  latitude: 18.3084,
+                  longitude: 106.16933,
+                },
+                {
+                  nameVietnamese:
+                    "Hòn Oản (h. Vụng Oản, h. Búc, h. Bấc, h. Bớt, h. Bơớc, h. Oán)",
+                  latitude: 18.28053,
+                  longitude: 106.11674,
+                },
+                {
+                  nameVietnamese: "Hòn Chim",
+                  latitude: 18.11638,
+                  longitude: 106.48913,
+                },
+                {
+                  nameVietnamese: "Cồn Voi",
+                  latitude: 17.99749,
+                  longitude: 106.47194,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Quảng Bình",
+    source: "",
+    bodies: [
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Cỏ",
+                  latitude: 17.94288,
+                  longitude: 106.52264,
+                },
+                {
+                  nameVietnamese: "Hòn La",
+                  latitude: 17.93518,
+                  longitude: 106.53213,
+                },
+                {
+                  nameVietnamese: "Hòn Ông (h. Gió, h. Chim)",
+                  latitude: 17.91276,
+                  longitude: 106.67249,
+                },
+                {
+                  nameVietnamese: "Hòn Vũng Chùa",
+                  latitude: 17.91039,
+                  longitude: 106.49493,
+                },
+                {
+                  nameVietnamese: "Hòn Sước",
+                  latitude: 17.87722,
+                  longitude: 106.47006,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Quảng Trị",
+    source: "",
+    bodies: [
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "District",
+              name: "Cồn Cỏ",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Cồn Cỏ",
+                  nameEnglish: "",
+                  latitude: 17.15967,
+                  longitude: 107.33865,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Thừa Thiên Huế",
+    source: "",
+    bodies: [
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Sơn Chà, tức Hòn Chảo, cù lao Hàn",
+                  nameEnglish: "",
+                  latitude: 16.21749,
+                  longitude: 108.20515,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Quảng Nam",
+    source: "",
+    bodies: [
+      {
+        archipelago: "Cù Lao Chàm",
+        source: "",
+        subGovType: "City",
+        name: "Hội An",
+        clusters: [
+          {
+            description: {
+              subGovType: "Commune",
+              name: "Tân Hiệp",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Quần đảo Cù lao Chàm (h.Lao)",
+                  latitude: 15.94872,
+                  longitude: 108.5233,
+                },
+                {
+                  nameVietnamese: "Hòn Cô (h.Khô Mẹ)",
+                  latitude: 15.97301,
+                  longitude: 108.42108,
+                },
+                {
+                  nameVietnamese: "Hòn Cu",
+                  latitude: 15.9729,
+                  longitude: 108.41563,
+                },
+                {
+                  nameVietnamese: "Hòn Lá",
+                  latitude: 15.97273,
+                  longitude: 108.44687,
+                },
+                {
+                  nameVietnamese: "Hòn Nhàn",
+                  latitude: 15.9687,
+                  longitude: 108.51066,
+                },
+                {
+                  nameVietnamese: "Hòn Giai (h.Dài)",
+                  latitude: 15.94233,
+                  longitude: 108.47968,
+                },
+                {
+                  nameVietnamese: "Hòn Mồ",
+                  latitude: 15.9314,
+                  longitude: 108.47375,
+                },
+                {
+                  nameVietnamese: "Hòn Tai",
+                  latitude: 15.90685,
+                  longitude: 108.53543,
+                },
+                {
+                  nameVietnamese: "Hòn Ông",
+                  latitude: 15.81357,
+                  longitude: 108.6921,
+                },
+                {
+                  nameVietnamese: "Hòn Dừa",
+                  latitude: 15.50065,
+                  longitude: 108.68782,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Quảng Ngãi",
+    source: "",
+    bodies: [
+      {
+        archipelago: "Lý Sơn",
+        source: "",
+        subGovType: "District",
+        name: "Lý Sơn",
+        clusters: [
+          {
+            description: {
+              subGovType: "District",
+              name: "Lý Sơn",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Lý Sơn (Cù lao Ré)",
+                  latitude: 15.37771,
+                  longitude: 109.12028,
+                },
+                {
+                  nameVietnamese: "Cù lao Bờ Bãi",
+                  latitude: 15.42799,
+                  longitude: 109.08288,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        clusters: [
+          {
+            nameVietnamese: "Hòn Ông",
+            latitude: 15.39247,
+            longitude: 108.76999,
+          },
+          {
+            nameVietnamese: "Hòn Lũy",
+            latitude: 15.39234,
+            longitude: 108.7813,
+          },
+          {
+            nameVietnamese: "Hòn Đình",
+            latitude: 15.3903,
+            longitude: 108.77802,
+          },
+          {
+            nameVietnamese: "Hòn Trà",
+            latitude: 15.38893,
+            longitude: 108.77452,
+          },
+          {
+            nameVietnamese: "Hòn Bà (Quảng Ngãi)",
+            latitude: 15.38752,
+            longitude: 108.77425,
+          },
+          {
+            nameVietnamese: "Hòn Ông",
+            latitude: 15.25323,
+            longitude: 108.93096,
+          },
+          {
+            nameVietnamese: "Hòn Ao",
+            latitude: 15.24961,
+            longitude: 108.93585,
+          },
+          {
+            nameVietnamese: "Hòn Bồng Than",
+            latitude: 15.19293,
+            longitude: 108.95286,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Bình Định",
+    source: "",
+    bodies: [
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Con Rùa (h. Tranh)",
+                  latitude: 14.36225,
+                  longitude: 109.18569,
+                },
+                {
+                  nameVietnamese: "Hòn Nhàn",
+                  latitude: 14.25191,
+                  longitude: 109.20756,
+                },
+                {
+                  nameVietnamese: "Hòn Tranh",
+                  latitude: 14.23235,
+                  longitude: 109.19984,
+                },
+                {
+                  nameVietnamese: "Hòn Con Trâu",
+                  latitude: 14.13794,
+                  longitude: 109.29194,
+                },
+                {
+                  nameVietnamese: "Hòn Dựng",
+                  latitude: 13.96442,
+                  longitude: 109.25686,
+                },
+                {
+                  nameVietnamese: "Hòn Ông Cơ",
+                  latitude: 13.90174,
+                  longitude: 109.31578,
+                },
+                {
+                  nameVietnamese: "Hòn Ông Căn",
+                  latitude: 13.90056,
+                  longitude: 109.34962,
+                },
+                {
+                  nameVietnamese: "Hòn Cân",
+                  latitude: 13.8981,
+                  longitude: 109.34568,
+                },
+                {
+                  nameVietnamese: "Hòn Nghiêm Kinh Chiểu",
+                  latitude: 13.88015,
+                  longitude: 109.3015,
+                },
+                {
+                  nameVietnamese: "Hòn Khô",
+                  latitude: 13.7639,
+                  longitude: 109.29748,
+                },
+                {
+                  nameVietnamese: "Hòn Ngang",
+                  latitude: 13.68392,
+                  longitude: 109.23781,
+                },
+                {
+                  nameVietnamese: "Hòn Đất",
+                  latitude: 13.68079,
+                  longitude: 109.25085,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Phú Yên",
+    source: "",
+    bodies: [
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Rớ",
+                  latitude: 13.66847,
+                  longitude: 109.23759,
+                },
+                {
+                  nameVietnamese: "Cù lao Xanh",
+                  latitude: 13.61756,
+                  longitude: 109.34761,
+                },
+                {
+                  nameVietnamese: "Hòn Chớp Tròn",
+                  latitude: 13.59356,
+                  longitude: 109.36814,
+                },
+                {
+                  nameVietnamese: "Hòn Khô",
+                  latitude: 13.57919,
+                  longitude: 109.28509,
+                },
+                {
+                  nameVietnamese: "Cù lao Ông Xá",
+                  latitude: 13.39632,
+                  longitude: 109.24193,
+                },
+                {
+                  nameVietnamese: "Hòn Yến",
+                  latitude: 13.38107,
+                  longitude: 109.27912,
+                },
+                {
+                  nameVietnamese: "Cù lao Mái Nhà",
+                  latitude: 13.28042,
+                  longitude: 109.33267,
+                },
+                {
+                  nameVietnamese: "Hòn Yến",
+                  latitude: 13.22668,
+                  longitude: 109.30687,
+                },
+                {
+                  nameVietnamese: "Hòn Chùa",
+                  latitude: 13.17691,
+                  longitude: 109.3093,
+                },
+                {
+                  nameVietnamese: "Hòn Than",
+                  latitude: 13.17235,
+                  longitude: 109.31822,
+                },
+                {
+                  nameVietnamese: "Hòn Dừa",
+                  latitude: 13.16875,
+                  longitude: 109.32071,
+                },
+                {
+                  nameVietnamese: "Hòn Cồ",
+                  latitude: 12.97134,
+                  longitude: 109.43924,
+                },
+                {
+                  nameVietnamese: "Hòn Một",
+                  latitude: 13.48098,
+                  longitude: 109.24789,
+                },
+                {
+                  nameVietnamese: "Nhất Tự Sơn (Hòn Còng)",
+                  latitude: 13.41979,
+                  longitude: 109.22718,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Ninh Thuận",
+    source: "",
+    bodies: [
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "District",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Cột Buồm",
+                  latitude: 11.72181,
+                  longitude: 109.22663,
+                },
+                {
+                  nameVietnamese: "Hòn Tai (Ninh Hải)",
+                  latitude: 11.71617,
+                  longitude: 109.21948,
+                },
+                {
+                  nameVietnamese: "Hòn Đeo",
+                  latitude: 11.64981,
+                  longitude: 109.17486,
+                },
+                {
+                  nameVietnamese: "Hòn Lìu",
+                  latitude: 11.58239,
+                  longitude: 109.13542,
+                },
+                {
+                  nameVietnamese: "Hòn Chông",
+                  latitude: 11.58086,
+                  longitude: 109.14481,
+                },
+                {
+                  nameVietnamese: "Hòn Đỏ",
+                  latitude: 11.56622,
+                  longitude: 109.12997,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Bình Thuận",
+    source: "",
+    bodies: [
+      {
+        archipelago: "Phú Quý",
+        source: "",
+        subGovType: "District",
+        name: "Phú Quý",
+        clusters: [
+          {
+            description: {
+              subGovType: "District",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Đảo Phú Quý",
+                  latitude: 10.52547,
+                  longitude: 108.94347,
+                },
+                {
+                  nameVietnamese: "Hòn Tranh",
+                  latitude: 10.49176,
+                  longitude: 108.9668,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "District",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Câu hay Cù lao Câu",
+                  latitude: 11.22586,
+                  longitude: 108.82755,
+                },
+                {
+                  nameVietnamese: "Hòn Lao hay Hòn Ghềnh",
+                  latitude: 10.91003,
+                  longitude: 108.30044,
+                },
+                {
+                  nameVietnamese: "Hòn Bà (Bình Thuận) hay đảo Kê Gà",
+                  latitude: 10.69573,
+                  longitude: 107.99225,
+                },
+                {
+                  nameVietnamese: "Hòn Nghề",
+                  latitude: 11.02536,
+                  longitude: 108.3703,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Tiền Giang",
+    source: "",
+    bodies: [
+      {
+        subGovType: "District",
+        name: "Tân Phú Đông",
+        clusters: [
+          {
+            description: {
+              subGovType: "Commune",
+              name: "Phú Tân",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Cồn Ngang",
+                  latitude: 10.21523,
+                  longitude: 106.793206,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Trà Vinh",
+    source: "",
+    bodies: [
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "District",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Cồn Nghêu",
+                  latitude: 10.170959,
+                  longitude: 106.827336,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Province",
+    name: "Cà Mau",
+    source: "",
+    bodies: [
+      {
+        archipelago: "Hòn Khoai",
+        source: "",
+        subGovType: "District",
+        name: "Ngọc Hiển",
+        clusters: [
+          {
+            description: {
+              subGovType: "Commune",
+              name: "Tân Ân",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Sao",
+                  latitude: 8.415943,
+                  longitude: 104.851404,
+                  description:
+                    "Là hòn đảo lớn thứ hai nằm về phía đông Hòn Khoai với khoảng cách 1,35 km, có diện tích khoảng 64 ha.",
+                },
+                {
+                  nameVietnamese: "Hòn Đồi Mồi hay Hòn Rùa",
+                  latitude: 8.420606,
+                  longitude: 104.862219,
+                  description:
+                    "Nằm cạnh Hòn Sao, chỉ cách 400 m về đông bắc, diện tích nhỏ chỉ khoảng 2,6 ha.",
+                },
+                {
+                  nameVietnamese: "Hòn Tương hay Hòn Thỏ",
+                  latitude: 8.453755,
+                  longitude: 104.843355,
+                  description:
+                    "Nằm sát bờ cực bắc Hòn Khoai, diện tích nhỏ bé chỉ khoảng 1,5 ha.",
+                },
+                {
+                  nameVietnamese: "Hòn Đá Lẻ",
+                  latitude: 8.378885,
+                  longitude: 104.873658,
+                  description:
+                    "Nằm vị trí cách xa so với 4 hòn của cụm đảo, cách đảo Hòn Khoai 7,7 km về phía đông nam, chỉ là 1 cụm đá đen trơ trọi dài khoảng 125 m, rộng nhất 34m và cao nhất khoảng 7 m. Đây là vị trí Điểm A2 của Đường cơ sở của Việt Nam.",
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        subGovType: "District",
+        name: "Trần Văn Thời",
+        clusters: [
+          {
+            description: {
+              subGovType: "Commune",
+              name: "Tân Ân",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Chuối",
+                  latitude: 8.950845,
+                  longitude: 104.525509,
+                },
+              ],
+            },
+          },
+          {
+            description: {
+              subGovType: "Commune",
+              name: "Khánh Bình Tây",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Đá Bạc",
+                  latitude: 9.179166,
+                  longitude: 104.800278,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        subGovType: "",
+        name: "",
+        clusters: [
+          {
+            description: {
+              subGovType: "",
+              name: "",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Buông",
+                  latitude: 8.881651,
+                  longitude: 104.562823,
+                },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        subGovType: "",
+        name: "",
+        clusters: [
+          {
+            description: {
+              subGovType: "",
+              name: "",
+            },
+            entities: {
+              bank: [
+                {
+                  nameVietnamese: "Cà Mau (hay bãi cạn Cà Mau)",
+                  latitude: 8.236111,
+                  longitude: 103.811111,
+                },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    govType: "Municipality",
+    name: "Thành phố Hồ Chí Minh",
+    source: "",
+    bodies: [
+      {
+        clusters: [
+          {
+            description: {
+              subGovType: "District",
+              name: "Cần Giờ",
+            },
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Thạnh An",
+                  nameEnglish: "",
+                  latitude: 10.515833,
+                  longitude: 106.971944,
                 },
               ],
             },

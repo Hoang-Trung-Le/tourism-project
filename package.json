@@ -10,9 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "esri-leaflet": "^3.0.12",
+    "esri-leaflet-vector": "^4.2.3",
     "leaflet": "^1.9.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-esri-leaflet": "^2.0.1",
     "react-leaflet": "^4.2.1"
   },
   "devDependencies": {

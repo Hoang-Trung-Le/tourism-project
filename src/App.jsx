@@ -10,7 +10,6 @@ function App() {
   return (
     <>
       <Map />
-      <p>Heelo</p>
     </>
   );
 }
