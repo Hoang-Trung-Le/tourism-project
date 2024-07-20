@@ -10518,6 +10518,11 @@ const islands = [
                   latitude: 10.49176,
                   longitude: 108.9668,
                 },
+                {
+                  nameVietnamese: "Hòn Hải",
+                  latitude: 9.973611,
+                  longitude: 109.084167,
+                },
               ],
             },
           },
@@ -10631,6 +10636,11 @@ const islands = [
             },
             entities: {
               island: [
+                {
+                  nameVietnamese: "Hòn Khoai",
+                  latitude: 8.435454,
+                  longitude: 104.833017,
+                },
                 {
                   nameVietnamese: "Hòn Sao",
                   latitude: 8.415943,
