@@ -10218,44 +10218,50 @@ const islands = [
       {
         clusters: [
           {
-            nameVietnamese: "Hòn Ông",
-            latitude: 15.39247,
-            longitude: 108.76999,
-          },
-          {
-            nameVietnamese: "Hòn Lũy",
-            latitude: 15.39234,
-            longitude: 108.7813,
-          },
-          {
-            nameVietnamese: "Hòn Đình",
-            latitude: 15.3903,
-            longitude: 108.77802,
-          },
-          {
-            nameVietnamese: "Hòn Trà",
-            latitude: 15.38893,
-            longitude: 108.77452,
-          },
-          {
-            nameVietnamese: "Hòn Bà (Quảng Ngãi)",
-            latitude: 15.38752,
-            longitude: 108.77425,
-          },
-          {
-            nameVietnamese: "Hòn Ông",
-            latitude: 15.25323,
-            longitude: 108.93096,
-          },
-          {
-            nameVietnamese: "Hòn Ao",
-            latitude: 15.24961,
-            longitude: 108.93585,
-          },
-          {
-            nameVietnamese: "Hòn Bồng Than",
-            latitude: 15.19293,
-            longitude: 108.95286,
+            entities: {
+              island: [
+                {
+                  nameVietnamese: "Hòn Ông",
+                  latitude: 15.39247,
+                  longitude: 108.76999,
+                },
+                {
+                  nameVietnamese: "Hòn Lũy",
+                  latitude: 15.39234,
+                  longitude: 108.7813,
+                },
+                {
+                  nameVietnamese: "Hòn Đình",
+                  latitude: 15.3903,
+                  longitude: 108.77802,
+                },
+                {
+                  nameVietnamese: "Hòn Trà",
+                  latitude: 15.38893,
+                  longitude: 108.77452,
+                },
+                {
+                  nameVietnamese: "Hòn Bà (Quảng Ngãi)",
+                  latitude: 15.38752,
+                  longitude: 108.77425,
+                },
+                {
+                  nameVietnamese: "Hòn Ông",
+                  latitude: 15.25323,
+                  longitude: 108.93096,
+                },
+                {
+                  nameVietnamese: "Hòn Ao",
+                  latitude: 15.24961,
+                  longitude: 108.93585,
+                },
+                {
+                  nameVietnamese: "Hòn Bồng Than",
+                  latitude: 15.19293,
+                  longitude: 108.95286,
+                },
+              ],
+            },
           },
         ],
       },
